@@ -21,6 +21,7 @@ use Validator;
 use App\Models\SiteSettings;
 use View;
 use App\Http\Helper\FacebookHelper;
+use Illuminate\Routing\UrlGenerator;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -29,8 +30,13 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
+    public function boot(UrlGenerator $url)
     {
+        
+            if (env('REDIRECT_HTTPS')) {
+                $url->formatScheme('https://');
+            }
+        
         // Configuration Setup for Social Media Services
         if(env('DB_DATABASE') != '') {
         if(Schema::hasTable('api_credentials'))
@@ -239,6 +245,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
+        if (env('REDIRECT_HTTPS')) {
+            $this->app['request']->server->set('HTTPS', true);
+        }
         \Illuminate\Support\Collection::macro('paginate', function($perPage, $total = null, $page = null, $pageName = 'page') {
             $page = $page ?: \Illuminate\Pagination\LengthAwarePaginator::resolveCurrentPage($pageName);
               
@@ -248,4 +257,5 @@ class AppServiceProvider extends ServiceProvider
             ]);
         });
     }
+    
 }
