@@ -54,13 +54,13 @@ return [
 
          'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_HOST', '192.168.10.10'),
+            'host'      => env('DB_HOST', '212.107.19.2'),
             'port'      => env('DB_PORT', '3306'),
             //'unix_socket'   => '/opt/lampp/var/mysql/mysql.sock', // Don't need for live
             // 'unix_socket'   => '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock', // Don't need for live
-            'database'  => env('DB_DATABASE', 'makent'),
-            'username'  => env('DB_USERNAME', 'homestead'),
-            'password'  => env('DB_PASSWORD', 'secret'),
+            'database'  => env('DB_DATABASE', 'u463129590_honestrooms'),
+            'username'  => env('DB_USERNAME', 'u463129590_honestrooms'),
+            'password'  => env('DB_PASSWORD', 'Ns2b7bfqbf!'),
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
