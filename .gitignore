@@ -9,9 +9,6 @@
 /public/images/users/*/*.png
 /vendor
 vendor/*
-.env
-.env.backup
-.env.*
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -104,7 +101,6 @@ Homestead.json
 .phpunit.result.cache
 #Laravel Specific files
 /vendor
-.env
 /public/.htaccess
 
 
