@@ -72,7 +72,6 @@ RELEASE_NOTES.txt
 .ssh/
 error_log
 .htpasswds
-/.htaccess
 php.ini.sample
 .modgit/
 _vti_bin/
@@ -101,7 +100,6 @@ Homestead.json
 .phpunit.result.cache
 #Laravel Specific files
 /vendor
-/public/.htaccess
 
 
 php_errorlog
