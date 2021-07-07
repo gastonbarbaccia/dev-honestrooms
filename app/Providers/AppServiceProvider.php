@@ -32,9 +32,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(UrlGenerator $url)
     {
-        if (env('REDIRECT_HTTPS')) {
-            $url->formatScheme('https://');
-        }
+
         
         // Configuration Setup for Social Media Services
         if(env('DB_DATABASE') != '') {
@@ -244,9 +242,6 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {   
-        if (env('REDIRECT_HTTPS')) {
-            $this->app['request']->server->set('HTTPS', true);
-        }
 
         \Illuminate\Support\Collection::macro('paginate', function($perPage, $total = null, $page = null, $pageName = 'page') {
             $page = $page ?: \Illuminate\Pagination\LengthAwarePaginator::resolveCurrentPage($pageName);
