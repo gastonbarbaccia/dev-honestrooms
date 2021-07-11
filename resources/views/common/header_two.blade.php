@@ -1,4 +1,4 @@
-<div id="header" class="makent-header new {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'shift-with-hiw' : '') : '' }}">
+<div id="header" class="makent-header {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'shift-with-hiw' : '') : '' }}">
   <header class="header--sm show-sm" aria-hidden="true" role="banner">
     <a href="javascript:void(0);" style="background-image: url('{{ LOGO_URL }}'); background-size: 70px;" href="{{ url('/') }}"  aria-label="Homepage" data-prevent-default="" class="header-logo link-reset burger--sm">
       <i class="fa fa-angle-down lang-chang-label arrow-icon mbl_nav"></i>
@@ -326,7 +326,7 @@
 </div>
 </header>
 
-<header class="regular-header clearfix hide-sm">
+<header class="regular-header clearfix hide-sm" >
   <div class="pull-right resp-zoom">
       <ul class="nav pull-left help-menu list-unstyled">
         <li class="list-your-space pull-left">
