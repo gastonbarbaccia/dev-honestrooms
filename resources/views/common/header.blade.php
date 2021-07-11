@@ -351,7 +351,7 @@ HostExperienceBladeCommentEnd--}}
 </header>
 
 
-<header class="regular-header clearfix hide-sm bttm_border" id="old-header-hide" role="banner" style="color:#EEEEEE">
+<header class="regular-header clearfix hide-sm bttm_border" id="old-header-hide" role="banner">
 
   <a aria-label="Homepage" style="background-image: url('{{ url(LOGO_URL) }}'); background-size: 80px;" href="{{ url('/') }}" class="header-belo header-logo pull-left {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : '' }}" >
     <span class="screen-reader-only">
