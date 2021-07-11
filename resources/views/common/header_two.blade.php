@@ -326,8 +326,8 @@
 </div>
 </header>
 
-<header class="regular-header clearfix hide-sm" >
-  <div class="pull-right resp-zoom">
+<header>
+  <div class="pull-right resp-zoom" style="height: 50px !important;">
       <ul class="nav pull-left help-menu list-unstyled">
         <li class="list-your-space pull-left">
           <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;">
