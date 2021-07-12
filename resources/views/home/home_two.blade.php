@@ -476,11 +476,11 @@
               <div>
                   <h4 style="color: #24A4BA">Search and choose safely</h4>
               </div>
+              <div style="padding-left:5%;padding-right:5%">
                   <p class="content-font">
-                   
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam voluptatem rerum asperiores earum, maiores impedit accusamus nemo provident saepe laborum nisi quisquam? Culpa vero labore praesentium explicabo hic eligendi vel?
-                    
                   </p>
+              </div>
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
@@ -489,11 +489,11 @@
               <div>
                   <h4 style="color: #24A4BA">Online booking</h4>
               </div>
-                <p class="content-font">
-                  
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae asperiores, odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
-                  
-                </p>
+                <div style="padding-left:5%;padding-right:5%">
+                  <p class="content-font">
+                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae asperiores, odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
+                  </p>
+                </div>
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
@@ -502,11 +502,11 @@
               <div>
                   <h4 style="color: #24A4BA">Confirmation and payment</h4>
               </div>
-              <p class="content-font">
-                
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque est aperiam doloribus beatae distinctio similique vitae exercitationem!
-               
-              </p>    
+              <div style="padding-left:5%;padding-right:5%">
+                <p class="content-font">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque est aperiam doloribus beatae distinctio similique vitae exercitationem!
+                </p> 
+             </div>   
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
@@ -515,11 +515,11 @@
               <div>
                   <h4 style="color: #24A4BA">All ready to move in</h4>
               </div>
-              <p class="content-font">
-                
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis mollitia impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure, dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
-                
-              </p>
+              <div style="padding-left:5%;padding-right:5%">
+                <p class="content-font">
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis mollitia impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure, dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                </p>
+              </div>
             </div>
         </div>
 
