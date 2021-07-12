@@ -444,7 +444,7 @@
         </p>
         <!--Se copia texto para ejemplo-->
         <p class="text-lead">
-          {{ trans('messages.home.explore_desc') }}
+          Texto de ejemplo para la web
         </p>
       </div>
 
