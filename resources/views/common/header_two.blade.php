@@ -330,7 +330,7 @@
   <div class="pull-right resp-zoom" style="height: 45px !important;">
       <ul class="nav pull-left help-menu list-unstyled">
         <li class="list-your-space pull-left">
-          <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;">
+          <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;color:#484848 !important">
               <i class="fa fa-skype"> SpareRoomsba</i>
           </a>
         </li>
