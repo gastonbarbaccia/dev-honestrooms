@@ -474,7 +474,7 @@
                 <img src="http://honestrooms.herokuapp.com/images/home/1.png">
               </div>
               <div>
-                  <h3 style="color: #24A4BA">Search and choose safely</h3>
+                  <h4 style="color: #24A4BA">Search and choose safely</h4>
               </div>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam voluptatem rerum asperiores earum, maiores impedit accusamus nemo provident saepe laborum nisi quisquam? Culpa vero labore praesentium explicabo hic eligendi vel?
@@ -485,7 +485,7 @@
                 <img src="http://honestrooms.herokuapp.com/images/home/2.png">
               </div>
               <div>
-                  <h3 style="color: #24A4BA">Online booking</h3>
+                  <h4 style="color: #24A4BA">Online booking</h4>
               </div>
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae asperiores, odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
             </div>
@@ -494,7 +494,7 @@
                 <img src="http://honestrooms.herokuapp.com/images/home/3.png">
               </div>
               <div>
-                  <h3 style="color: #24A4BA">Confirmation and payment</h3>
+                  <h4 style="color: #24A4BA">Confirmation and payment</h4>
               </div>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque est aperiam doloribus beatae distinctio similique vitae exercitationem!
             </div>
@@ -503,7 +503,7 @@
                 <img src="http://honestrooms.herokuapp.com/images/home/4.png">
               </div>
               <div>
-                  <h3 style="color: #24A4BA">All ready to move in</h3>
+                  <h4 style="color: #24A4BA">All ready to move in</h4>
               </div>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis mollitia impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure, dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
             </div>
