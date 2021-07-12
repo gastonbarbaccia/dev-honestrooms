@@ -8,7 +8,7 @@
       <div class="panel">
         <div id="discovery-container" class="pad-sm-20" style="float:left;width:100%;/* height: 100% !important; */background-image: url('http://honestrooms.herokuapp.com/images/home/home_two.jpg');height: 600px;width: 1500px;position: relative;margin-left: -170px;padding-right: 100px; padding-left: 20%;">
           <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
-            <div class="no-mar-sm" style="margin-top: 94px;"><div class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7"><h1 class="textHeader_8yxs9w"><span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4">{{ $site_name }} </span><!-- react-text: 7341 --><br>
+            <div class="no-mar-sm" style="margin-top: 94px;"><div class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7"><h1 class="textHeader_8yxs9w"><span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4" style="color:white;"><!--{{ $site_name }}--> There is a room that awaits you </span><!-- react-text: 7341 --><br>
               {{ trans('messages.home.desc') }}
               <!-- /react-text --></h1></div></div>
             </div>

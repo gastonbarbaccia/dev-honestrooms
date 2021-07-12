@@ -4,7 +4,7 @@ return [
 
 	'home' => [
 		'title' => 'Welcome home',
-		'desc' => 'Rent unique places to stay from local hosts in 190+ countries.',
+		'desc' => 'Find a safe space to live.',
 		'search_validation' => 'Please set location',
 		'how_it_works' => 'How It Works',
 		'where_do_you_go' => 'Where do you want to go?',
