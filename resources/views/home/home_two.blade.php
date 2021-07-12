@@ -469,16 +469,16 @@
            </div>
          </div>-->
         <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
-            <div style="float:left;width:25%">
+            <div style="float:left;width:25%;text-align:center">
                   Prueba 1
             </div>
-            <div style="float:left;width:25%">
+            <div style="float:left;width:25%;text-align:center">
                   Prueba 2
             </div>
-            <div style="float:left;width:25%">
+            <div style="float:left;width:25%;text-align:center">
                   Prueba 3
             </div>
-            <div style="float:left;width:25%">
+            <div style="float:left;width:25%;text-align:center">
                   Prueba 4
             </div>
         </div>
