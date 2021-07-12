@@ -224,7 +224,7 @@
 
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="reservation.length > 0">
                       <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
-                       <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.justbooked') }}<!-- /react-text --></h3>
+                       <h3 class="rowHeader pull-left"><!-- react-text: 38121  {{ trans('messages.header.justbooked') }}<!-- /react-text </h3>
                    <!--    <div class="seeMoreContainer_11b8zgn pull-right">
 
                         <a href="{{ url('s') }}" ng-if="reservation.length > 3">
@@ -291,7 +291,7 @@
 
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="recommented.length >0">
                   <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl " style="padding:0px;     margin: 45px 0px 15px;">
-                    <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.recommend') }}<!-- /react-text --></h3>
+                    <h3 class="rowHeader pull-left"><!-- react-text: 38121 {{ trans('messages.header.recommend') }}<!-- /react-text </h3>
              <!--       <div class="seeMoreContainer_11b8zgn pull-right">
 
 
@@ -361,7 +361,7 @@
 
           <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
-              <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.most_viewed') }}<!-- /react-text --></h3>
+              <h3 class="rowHeader pull-left"><!-- react-text: 38121{{ trans('messages.header.most_viewed') }}<!-- /react-text </h3>
         <!--      <div class="seeMoreContainer_11b8zgn pull-right">
 
                 <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
