@@ -470,15 +470,27 @@
          </div>-->
         <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
             <div style="float:left;width:25%;text-align:center">
+              <div>
+                <img src="http://honestrooms.herokuapp.com/images/home/1.png">
+              </div>
                   Prueba 1
             </div>
             <div style="float:left;width:25%;text-align:center">
+              <div>
+                <img src="http://honestrooms.herokuapp.com/images/home/2.png">
+              </div>
                   Prueba 2
             </div>
             <div style="float:left;width:25%;text-align:center">
+              <div>
+                <img src="http://honestrooms.herokuapp.com/images/home/3.png">
+              </div>
                   Prueba 3
             </div>
             <div style="float:left;width:25%;text-align:center">
+              <div>
+                <img src="http://honestrooms.herokuapp.com/images/home/4.png">
+              </div>
                   Prueba 4
             </div>
         </div>
