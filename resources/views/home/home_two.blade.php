@@ -436,8 +436,13 @@
      <div class="discovery-section explore_community exploer_banner page-container-no-padding" id="discover-recommendations" ng-init="city_count=city_count-1 ;">
       <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
         <h2 class="row-space-1">
-          <strong>{{ trans('messages.home.explore_world') }}</strong>
+         <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
+         <strong>How does it work?</strong>
         </h2>
+        <p class="text-lead">
+          {{ trans('messages.home.explore_desc') }}
+        </p>
+        <!--Se copia texto para ejemplo-->
         <p class="text-lead">
           {{ trans('messages.home.explore_desc') }}
         </p>
