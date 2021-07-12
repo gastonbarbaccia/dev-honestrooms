@@ -425,6 +425,7 @@
         </div>
 
       </div>-->
+      
 
       {{--HostExperienceBladeCommentStart
       <div ng-repeat="featured_category in featured_host_experience_categories">
