@@ -11,7 +11,7 @@
             <div class="no-mar-sm" style="margin-top: 94px;">
               <div class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
                 <h1 class="textHeader_8yxs9w" style="color:white !important;">
-                <span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4" ><!--{{ $site_name }}--> There is a room that awaits you </span>
+                <span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4" ><!--{{ $site_name }}--> There is a room that awaits you. </span>
                 <!-- react-text: 7341 -->
                 <br>
                 <div style="font-size:30px">
