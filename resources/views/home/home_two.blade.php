@@ -205,7 +205,7 @@
                       </div>
                     </div>
 
-                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                 <!--  <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                      <ul class="home-menu">
                        <li><a class="foryou current" href="{{ url('/') }}">{{ trans('messages.header.for_you') }}</a></li>
                        <li><a class="homes" href="{{ url('/s?current_refinement=Homes') }}">{{ trans('messages.header.homes') }} </a></li>
@@ -214,9 +214,9 @@
                        HostExperienceBladeCommentEnd--}}
                      </ul>
                    </div>
+                       -->     
 
-
-
+                <!--    
                    <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider">
                     {{--HostExperienceBladeCommentStart
                     @include('host_experiences.home_slider', ['title_text'=> trans('experiences.home.experiences'), 'see_all_link' => url('s?current_refinement=Experiences'),'category_id'=> 'all_exp' ])
@@ -225,7 +225,7 @@
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="reservation.length > 0">
                       <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
                        <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.justbooked') }}<!-- /react-text --></h3>
-                       <div class="seeMoreContainer_11b8zgn pull-right">
+                   <!--    <div class="seeMoreContainer_11b8zgn pull-right">
 
                         <a href="{{ url('s') }}" ng-if="reservation.length > 3">
                          <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -252,7 +252,7 @@
                                 <span class="pull-left">@{{ fetch_data.rooms.room_type_name }}</span>
                                 <!-- <span class="pull-left dot-cont">·</span>
                                 <span class="pull-left">@{{ fetch_data.rooms.beds }} @{{ fetch_data.rooms.bed_lang }}</span> -->
-                              </div>
+                  <!--            </div>
 
                               <a href=" @{{ url+fetch_data.room_id }}"   target="listing_10001" class="text-normal" style="text-decoration:none !important;">
                                 <h3 title="@{{ fetch_data.rooms.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1" style="width:95%;" ng-if=" fetch_data.rooms.name">
@@ -292,7 +292,7 @@
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="recommented.length >0">
                   <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl " style="padding:0px;     margin: 45px 0px 15px;">
                     <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.recommend') }}<!-- /react-text --></h3>
-                    <div class="seeMoreContainer_11b8zgn pull-right">
+             <!--       <div class="seeMoreContainer_11b8zgn pull-right">
 
 
                       <a href="{{ url('s') }}" ng-if="recommented.length > 3"><button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -318,7 +318,7 @@
                               <span class="pull-left">@{{ reservation.room_type_name }}</span>
                               <!-- <span class="pull-left dot-cont">·</span>
                               <span class="pull-left">@{{ reservation.beds }} @{{ reservation.bed_lang }}</span> -->
-                            </div>
+                 <!--           </div>
                             <a href=" @{{ url+reservation.id }}" target="listing_10001" class="text-normal" style="text-decoration:none !important;">
 
                               <h3 title="@{{reservation.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1 ng-binding" style="width:95%;">
@@ -362,7 +362,7 @@
           <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
               <h3 class="rowHeader pull-left"><!-- react-text: 38121 -->{{ trans('messages.header.most_viewed') }}<!-- /react-text --></h3>
-              <div class="seeMoreContainer_11b8zgn pull-right">
+        <!--      <div class="seeMoreContainer_11b8zgn pull-right">
 
                 <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
                   <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -384,7 +384,7 @@
                       <span class="pull-left">@{{ view_count.room_type_name }}</span>
                      <!--  <span class="pull-left dot-cont">·</span>
                       <span class="pull-left">@{{ view_count.beds }} @{{ view_count.bed_lang }}</span> -->
-                    </div>
+             <!--       </div>
                     <a href=" @{{ url+view_count.id }}" target="listing_10001" class="text-normal" style="text-decoration:none !important;">
 
                       <h3 title="@{{view_count.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1 ng-binding" style="width:95%;">
@@ -424,7 +424,7 @@
 
         </div>
 
-      </div>
+      </div>-->
 
       {{--HostExperienceBladeCommentStart
       <div ng-repeat="featured_category in featured_host_experience_categories">
