@@ -451,7 +451,7 @@
 
       <div class="discovery-tiles">
         <div class="row">
-          <div ng-repeat="explore in home_city_explore " ng-init="j=6;x=7">
+          <!--<div ng-repeat="explore in home_city_explore " ng-init="j=6;x=7">
             <div  ng-class="$index % 10 == 0 || $index == j || $index == j+10 ? 'col-lg-8 col-md-6 col-sm-12 rm-padding-sm' : 'col-lg-4 col-md-6 col-sm-12 rm-padding-sm'" >
               <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover " style="background-image:url('@{{ explore.image_url }}');">
                 <a href="@{{ explore.search_url }}" class="link-reset" data-hook="discovery-card">
@@ -467,9 +467,25 @@
                </a>
              </div> 
            </div>
-         </div>
+         </div>-->
+        <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
+            <div style="float:left;width:25%">
+                  Prueba 1
+            </div>
+            <div style="float:left;width:25%">
+                  Prueba 2
+            </div>
+            <div style="float:left;width:25%">
+                  Prueba 3
+            </div>
+            <div style="float:left;width:25%">
+                  Prueba 4
+            </div>
+        </div>
+
        </div>
      </div>
+
    </div>
 
    <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
