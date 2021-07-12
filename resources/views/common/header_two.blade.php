@@ -311,7 +311,7 @@
               </div>
               <div class="row row-space-top-2">
                 <div class="col-sm-12">
-                  <button type="submit" id="search-form--sm-btn" class="btn btn-primary btn-large btn-block">
+                  <button type="submit" id="search-form--sm-btn" class="btn btn-primary btn-large btn-block"    style="background-color: #ff5a5f !important;">
                     <i class="icon icon-search"></i>
                     {{ trans('messages.header.find_place') }}
                   </button>
