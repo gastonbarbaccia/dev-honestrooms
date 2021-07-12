@@ -472,26 +472,38 @@
             <div style="float:left;width:25%;text-align:center">
               <div>
                 <img src="http://honestrooms.herokuapp.com/images/home/1.png">
+                <div>
+                  <h3 style="color: #39CCB1">Search and choose safely</h3>
+                </div>
               </div>
-                  Prueba 1
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, amet nam. Amet, ab! Adipisci autem doloribus sunt mollitia quo obcaecati, eius, esse dolorem, neque temporibus aliquam quidem tempore culpa ipsum?
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
                 <img src="http://honestrooms.herokuapp.com/images/home/2.png">
+                <div>
+                  <h3 style="color: #39CCB1">Online booking</h3>
+                </div>
               </div>
-                  Prueba 2
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae asperiores, odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
                 <img src="http://honestrooms.herokuapp.com/images/home/3.png">
+                <div>
+                  <h3 style="color: #39CCB1">Confirmation and payment</h3>
+                </div>
               </div>
-                  Prueba 3
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque est aperiam doloribus beatae distinctio similique vitae exercitationem!
             </div>
             <div style="float:left;width:25%;text-align:center">
               <div>
                 <img src="http://honestrooms.herokuapp.com/images/home/4.png">
+                <div>
+                  <h3 style="color: #39CCB1">All ready to move in</h3>
+                </div>
               </div>
-                  Prueba 4
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis mollitia impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure, dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
             </div>
         </div>
 
