@@ -326,7 +326,7 @@
 </div>
 </header>
 
-<div id="header" class="makent-header shift-with-hiw">
+<header>
   <div class="pull-right resp-zoom" style="height: 45px !important;">
       <ul class="nav pull-left help-menu list-unstyled">
         <li class="list-your-space pull-left">
@@ -341,7 +341,7 @@
         </li>
       </ul>
   </div>
-</div>
+</header>
 
 <header class="regular-header clearfix hide-sm" id="old-header" role="banner">
 
