@@ -351,7 +351,7 @@
     </span>
   </a>-->
 
-  <a aria-label="Homepage" style="background-image: url('http://honestrooms.herokuapp.com/public/images/logos/logo.png'); background-size: 80px;" href="{{ url('/') }}" class="header-belo header-logo pull-left {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : '' }}" >
+  <a aria-label="Homepage" style="background-image: url('http://honestrooms.herokuapp.com/images/logos/logo.png'); background-size: 80px;" href="{{ url('/') }}" class="header-belo header-logo pull-left {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : '' }}" >
     <span class="screen-reader-only">
       {{ $site_name }}
     </span>
