@@ -327,20 +327,22 @@
 </header>
 
 
-  <div class="pull-right resp-zoom" style="height: 45px !important;">
-      <ul class="nav pull-left help-menu list-unstyled">
-        <li class="list-your-space pull-left">
-          <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;color:#484848 !important">
-              <i class="fa fa-skype"> SpareRoomsba</i>
-          </a>
-        </li>
-        <li class="help-menu-container pull-left dropdown-trigger">
-          <a class="help-toggle link-reset font-color" href="http://honestrooms.herokuapp.com/#">
-              <i class="fa fa-envelope"> ineedaroom@spareroomsba.com</i>
-          </a>
-        </li>
-      </ul>
-  </div>
+  <header class="pull-right resp-zoom" style="height: 45px !important;">
+    <div class="pull-right resp-zoom">
+        <ul class="nav pull-left help-menu list-unstyled">
+          <li class="list-your-space pull-left">
+            <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;color:#484848 !important">
+                <i class="fa fa-skype"> SpareRoomsba</i>
+            </a>
+          </li>
+          <li class="help-menu-container pull-left dropdown-trigger">
+            <a class="help-toggle link-reset font-color" href="http://honestrooms.herokuapp.com/#">
+                <i class="fa fa-envelope"> ineedaroom@spareroomsba.com</i>
+            </a>
+          </li>
+        </ul>
+    </div>
+  </header>
 
 
 <header class="regular-header clearfix hide-sm" id="old-header" role="banner">
