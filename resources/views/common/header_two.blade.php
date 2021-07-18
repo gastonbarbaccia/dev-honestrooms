@@ -345,7 +345,7 @@
   </header>
 
 
-<header class="regular-header clearfix hide-sm" id="old-header" role="banner">
+<header class="regular-header clearfix hide-sm" id="old-header" role="banner" style="background: none !important;">
 
   <!--<a aria-label="Homepage" style="background-image: url('{{ url(LOGO_URL) }}'); background-size: 80px;" href="{{ url('/') }}" class="header-belo header-logo pull-left {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : '' }}" >
     <span class="screen-reader-only">
