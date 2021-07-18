@@ -327,7 +327,7 @@
 </header>
 
 
-  <header class="pull-right resp-zoom" style="height: 45px !important;">
+  <header style="height: 45px !important;">
     <div class="pull-right resp-zoom">
         <ul class="nav pull-left help-menu list-unstyled">
           <li class="list-your-space pull-left">
