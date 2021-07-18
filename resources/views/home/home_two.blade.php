@@ -522,37 +522,39 @@
               </div>
             </div>
         </div>
-
+              <div>
+                <a style="text-align:center;color:#24A4BA;margin-top:10%">QUIERO SABER MÁS</a>
+              </dvi>
        </div>
      </div>
 
    </div>
 
    <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
-   <div class="row">
-     <div class="discovery-section explore_community page-container-responsive page-container-no-padding" style="padding:0px;">
-     <div class="col-lg-12 nopad text-center" style="padding: 0;" ng-if="our_community.length!=0">
-        <h2 class="row-space-1" style="padding:30px 0px 15px;">
-        <strong>
-          {{trans('messages.home.our_community')}}
-        </strong>
-        </h2>
-        <div class="col-lg-4 pos-rel com-img pad-left col-md-4 new_our_community" ng-repeat="our_community in our_community ">
-         <div class="por_ab">
-          <a class="com-link-img" href="@{{our_community.link}}" target="_blank" style="background: url(@{{our_community.image_url}});">
-          </a>
-          <div class="com-header">
-            <!-- <a>Travelling</a> -->
-          </div>
-          <div class="com-sub">
-            <h2 class="over-head" style="width:90% !important;">@{{our_community.title}}</h2>
-            <p class="over-head" style="width:90% !important;" ng-bind-html="our_community.description"></p>
+      <div class="row">
+        <div class="discovery-section explore_community page-container-responsive page-container-no-padding" style="padding:0px;">
+          <div class="col-lg-12 nopad text-center" style="padding: 0;" ng-if="our_community.length!=0">
+              <h2 class="row-space-1" style="padding:30px 0px 15px;">
+              <strong>
+                {{trans('messages.home.our_community')}}
+              </strong>
+              </h2>
+              <div class="col-lg-4 pos-rel com-img pad-left col-md-4 new_our_community" ng-repeat="our_community in our_community ">
+              <div class="por_ab">
+                <a class="com-link-img" href="@{{our_community.link}}" target="_blank" style="background: url(@{{our_community.image_url}});">
+                </a>
+                <div class="com-header">
+                  <!-- <a>Travelling</a> -->
+                </div>
+                <div class="com-sub">
+                  <h2 class="over-head" style="width:90% !important;">@{{our_community.title}}</h2>
+                  <p class="over-head" style="width:90% !important;" ng-bind-html="our_community.description"></p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
 </div>
 </div>
  
