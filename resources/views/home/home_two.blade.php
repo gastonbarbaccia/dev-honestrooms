@@ -521,14 +521,14 @@
                 </p>
               </div>
             </div>
-        </div>
-              <div>
-                <a href="#" style="text-align:center;color:#24A4BA;margin-top:10%">QUIERO SABER MÁS</a>
-              </dvi>
+        </div> 
        </div>
      </div>
-
    </div>
+
+   <div style="text-align:center;margin-top:20%">
+      <a href="#" style="color:#24A4BA;">QUIERO SABER MÁS</a>
+    </dvi>
 
    <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
       <div class="row">
