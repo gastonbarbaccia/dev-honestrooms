@@ -523,7 +523,7 @@
             </div>
         </div>
               <div>
-                <a style="text-align:center;color:#24A4BA;margin-top:10%">QUIERO SABER MÁS</a>
+                <a href="#" style="text-align:center;color:#24A4BA;margin-top:10%">QUIERO SABER MÁS</a>
               </dvi>
        </div>
      </div>
