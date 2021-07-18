@@ -527,7 +527,7 @@
    </div>
 
    <div style="text-align:center;margin-top:20%">
-      <a href="#" style="color:#24A4BA;">QUIERO SABER MÁS</a>
+      <a href="#" style="color:#24A4BA;text-decoration: none">QUIERO SABER MÁS <i class="fas fa-angle-right" style="color:#24A4BA"></i></a>
     </dvi>
 
    <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
