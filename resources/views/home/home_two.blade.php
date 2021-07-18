@@ -205,7 +205,7 @@
                       </div>
                     </div>
 
-                 <!--  <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                  <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                      <ul class="home-menu">
                        <li><a class="foryou current" href="{{ url('/') }}">{{ trans('messages.header.for_you') }}</a></li>
                        <li><a class="homes" href="{{ url('/s?current_refinement=Homes') }}">{{ trans('messages.header.homes') }} </a></li>
@@ -214,9 +214,9 @@
                        HostExperienceBladeCommentEnd--}}
                      </ul>
                    </div>
-                       -->     
+                        
 
-                <!--    
+                   
                    <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider">
                     {{--HostExperienceBladeCommentStart
                     @include('host_experiences.home_slider', ['title_text'=> trans('experiences.home.experiences'), 'see_all_link' => url('s?current_refinement=Experiences'),'category_id'=> 'all_exp' ])
@@ -224,8 +224,8 @@
 
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="reservation.length > 0">
                       <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
-                       <h3 class="rowHeader pull-left"><!-- react-text: 38121  {{ trans('messages.header.justbooked') }}<!-- /react-text </h3>
-                   <!--    <div class="seeMoreContainer_11b8zgn pull-right">
+                       <h3 class="rowHeader pull-left"> react-text: 38121  {{ trans('messages.header.justbooked') }} /react-text </h3>
+                       <div class="seeMoreContainer_11b8zgn pull-right">
 
                         <a href="{{ url('s') }}" ng-if="reservation.length > 3">
                          <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -250,9 +250,9 @@
                             <div class="media">
                               <div class="category_city hm_cate">
                                 <span class="pull-left">@{{ fetch_data.rooms.room_type_name }}</span>
-                                <!-- <span class="pull-left dot-cont">·</span>
-                                <span class="pull-left">@{{ fetch_data.rooms.beds }} @{{ fetch_data.rooms.bed_lang }}</span> -->
-                  <!--            </div>
+                                <span class="pull-left dot-cont">·</span>
+                                <span class="pull-left">@{{ fetch_data.rooms.beds }} @{{ fetch_data.rooms.bed_lang }}</span>
+                            </div>
 
                               <a href=" @{{ url+fetch_data.room_id }}"   target="listing_10001" class="text-normal" style="text-decoration:none !important;">
                                 <h3 title="@{{ fetch_data.rooms.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1" style="width:95%;" ng-if=" fetch_data.rooms.name">
@@ -291,8 +291,8 @@
 
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="recommented.length >0">
                   <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl " style="padding:0px;     margin: 45px 0px 15px;">
-                    <h3 class="rowHeader pull-left"><!-- react-text: 38121 {{ trans('messages.header.recommend') }}<!-- /react-text </h3>
-             <!--       <div class="seeMoreContainer_11b8zgn pull-right">
+                    <h3 class="rowHeader pull-left"> react-text: 38121 {{ trans('messages.header.recommend') }} /react-text </h3>
+                     <div class="seeMoreContainer_11b8zgn pull-right">
 
 
                       <a href="{{ url('s') }}" ng-if="recommented.length > 3"><button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -316,9 +316,9 @@
                           <div class="media">
                             <div class="category_city hm_cate">
                               <span class="pull-left">@{{ reservation.room_type_name }}</span>
-                              <!-- <span class="pull-left dot-cont">·</span>
+                               <span class="pull-left dot-cont">·</span>
                               <span class="pull-left">@{{ reservation.beds }} @{{ reservation.bed_lang }}</span> -->
-                 <!--           </div>
+                            </div>
                             <a href=" @{{ url+reservation.id }}" target="listing_10001" class="text-normal" style="text-decoration:none !important;">
 
                               <h3 title="@{{reservation.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1 ng-binding" style="width:95%;">
@@ -451,7 +451,7 @@
 
       <div class="discovery-tiles">
         <div class="row">
-          <!--<div ng-repeat="explore in home_city_explore " ng-init="j=6;x=7">
+          <div ng-repeat="explore in home_city_explore " ng-init="j=6;x=7">
             <div  ng-class="$index % 10 == 0 || $index == j || $index == j+10 ? 'col-lg-8 col-md-6 col-sm-12 rm-padding-sm' : 'col-lg-4 col-md-6 col-sm-12 rm-padding-sm'" >
               <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover " style="background-image:url('@{{ explore.image_url }}');">
                 <a href="@{{ explore.search_url }}" class="link-reset" data-hook="discovery-card">
@@ -467,7 +467,7 @@
                </a>
              </div> 
            </div>
-         </div>-->
+         </div>
         <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
             <div style="float:left;width:25%;text-align:center">
               <div>
