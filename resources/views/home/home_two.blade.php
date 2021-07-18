@@ -317,7 +317,7 @@
                             <div class="category_city hm_cate">
                               <span class="pull-left">@{{ reservation.room_type_name }}</span>
                                <span class="pull-left dot-cont">·</span>
-                              <span class="pull-left">@{{ reservation.beds }} @{{ reservation.bed_lang }}</span> -->
+                              <span class="pull-left">@{{ reservation.beds }} @{{ reservation.bed_lang }}</span>
                             </div>
                             <a href=" @{{ url+reservation.id }}" target="listing_10001" class="text-normal" style="text-decoration:none !important;">
 
@@ -424,7 +424,7 @@
 
         </div>
 
-      </div>-->
+      </div>
       
 
       {{--HostExperienceBladeCommentStart
