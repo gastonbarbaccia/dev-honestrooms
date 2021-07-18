@@ -358,11 +358,11 @@
             </div>
           </div>
 
-
+      -->
           <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
-              <h3 class="rowHeader pull-left"><!-- react-text: 38121{{ trans('messages.header.most_viewed') }}<!-- /react-text </h3>
-        <!--      <div class="seeMoreContainer_11b8zgn pull-right">
+              <h3 class="rowHeader pull-left">< react-text: 38121{{ trans('messages.header.most_viewed') }} /react-text </h3>
+              <div class="seeMoreContainer_11b8zgn pull-right">
 
                 <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
                   <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
@@ -382,9 +382,9 @@
                   <div class="media">
                     <div class="category_city hm_cate">
                       <span class="pull-left">@{{ view_count.room_type_name }}</span>
-                     <!--  <span class="pull-left dot-cont">·</span>
-                      <span class="pull-left">@{{ view_count.beds }} @{{ view_count.bed_lang }}</span> -->
-             <!--       </div>
+                      <span class="pull-left dot-cont">·</span>
+                      <span class="pull-left">@{{ view_count.beds }} @{{ view_count.bed_lang }}</span> 
+                 </div>
                     <a href=" @{{ url+view_count.id }}" target="listing_10001" class="text-normal" style="text-decoration:none !important;">
 
                       <h3 title="@{{view_count.name}}" itemprop="name" class="h5 listing-name text-truncate row-space-top-1 ng-binding" style="width:95%;">
