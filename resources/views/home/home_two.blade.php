@@ -358,7 +358,7 @@
             </div>
           </div>
 
-      -->
+      
           <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl" style="padding:0px;     margin: 45px 0px 15px;">
               <h3 class="rowHeader pull-left">< react-text: 38121{{ trans('messages.header.most_viewed') }} /react-text </h3>
