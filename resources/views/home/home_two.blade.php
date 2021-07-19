@@ -60,7 +60,8 @@
 
                                         </div>
                                     </div>
-                                    <!-- <div class="container_mv0xzc-o_O-borderLeft_1ujj4hk-o_O-borderRight_1x9yfnn" style="width: 100%;">
+                       <!--Comentado por defecto-->             
+                       <!-- <div class="container_mv0xzc-o_O-borderLeft_1ujj4hk-o_O-borderRight_1x9yfnn" style="width: 100%;">
                       <div class="label_1om3jpt">{{ trans('messages.header.when') }}</div>
                       <div class="webcot-lg-datepicker webcot-lg-datepicker--jumbo">
                         <div class="dateRangePicker_e296pg-o_O-hidden_ajz5vs">
@@ -124,13 +125,13 @@
                           </div> -->
                                     <div class="container_mv0xzc" style="width: 150px;">
                                         <!-- <div class="search_guest">
-                              <div class="label_1om3jpt col-md-12 padding_left"> {{ trans('messages.header.guest') }} </div>
-                              <select id="guests" name="guests" class="gst gst_icon col-md-12 ">
-                                @for($i=1;$i<=$number_of_accomodates;$i++)
-                                <option value="{{ $i }}"> {{ ($i == '16') ? $i.'+ '.trans_choice('messages.home.guest',$i) : $i.' '.trans_choice('messages.home.guest',$i) }} </option>
-                                @endfor
-                              </select>
-                            </div> -->
+                                            <div class="label_1om3jpt col-md-12 padding_left"> {{ trans('messages.header.guest') }} </div>
+                                            <select id="guests" name="guests" class="gst gst_icon col-md-12 ">
+                                                @for($i=1;$i<=$number_of_accomodates;$i++)
+                                                <option value="{{ $i }}"> {{ ($i == '16') ? $i.'+ '.trans_choice('messages.home.guest',$i) : $i.' '.trans_choice('messages.home.guest',$i) }} </option>
+                                                @endfor
+                                            </select>
+                                            </div> -->
                                         <div class="save_search">
 
 
@@ -250,7 +251,7 @@
                     </div>
                 </div>
             </div>
-
+            <!--
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                 <ul class="home-menu">
                     <li><a class="foryou current" href="{{ url('/') }}">{{ trans('messages.header.for_you') }}</a></li>
@@ -263,12 +264,12 @@
                     HostExperienceBladeCommentEnd--}}
                 </ul>
             </div>
-
+                    -->
             <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider">
                 {{--HostExperienceBladeCommentStart
                     @include('host_experiences.home_slider', ['title_text'=> trans('experiences.home.experiences'), 'see_all_link' => url('s?current_refinement=Experiences'),'category_id'=> 'all_exp' ])
                     HostExperienceBladeCommentEnd--}}
-
+                <!--
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="reservation.length > 0">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl"
                         style="padding:0px;     margin: 45px 0px 15px;">
@@ -356,7 +357,7 @@
                         </div>
                     </div>
                 </div>
-
+               
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="recommented.length >0">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl "
                         style="padding:0px;     margin: 45px 0px 15px;">
@@ -449,7 +450,7 @@
                     </div>
                 </div>
 
-                <!-- Mas vistas -->
+                -->
 
                 <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0"
                     id="lazy_load_slider">
