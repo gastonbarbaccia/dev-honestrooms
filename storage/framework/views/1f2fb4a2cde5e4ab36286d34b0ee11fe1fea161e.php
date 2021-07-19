@@ -1,4 +1,4 @@
-<div id="header" class="makent-header <?php echo e((!isset($exception)) ? (Route::current()->uri() == '/' ? 'shift-with-hiw' : '') : ''); ?>">
+<div id="header" class="makent-header new <?php echo e((!isset($exception)) ? (Route::current()->uri() == '/' ? 'shift-with-hiw' : '') : ''); ?>">
   <header class="header--sm show-sm" aria-hidden="true" role="banner">
     <a href="javascript:void(0);" style="background-image: url('<?php echo e(LOGO_URL); ?>'); background-size: 70px;" href="<?php echo e(url('/')); ?>"  aria-label="Homepage" data-prevent-default="" class="header-logo link-reset burger--sm">
       <i class="fa fa-angle-down lang-chang-label arrow-icon mbl_nav"></i>
@@ -290,7 +290,7 @@
               </div>
               <div class="row row-space-top-2">
                 <div class="col-sm-12">
-                  <button type="submit" id="search-form--sm-btn" class="btn btn-primary btn-large btn-block" >
+                  <button type="submit" id="search-form--sm-btn" class="btn btn-primary btn-large btn-block">
                     <i class="icon icon-search"></i>
                     <?php echo e(trans('messages.header.find_place')); ?>
 
@@ -307,34 +307,9 @@
 </header>
 
 
-  <header style="height: 45px !important;background-color: #E5E5E5;">
-    <div class="pull-right resp-zoom">
-        <ul class="nav pull-left help-menu list-unstyled">
-          <li class="list-your-space pull-left">
-            <a id="my_element" href="http://honestrooms.herokuapp.com/#" style="border-left:none !important;color:#484848 !important">
-                <i class="fa fa-skype"> SpareRoomsba</i>
-            </a>
-          </li>
-          <li class="help-menu-container pull-left dropdown-trigger">
-            <a class="help-toggle link-reset font-color" href="http://honestrooms.herokuapp.com/#">
-                <i class="fa fa-envelope"> ineedaroom@spareroomsba.com</i>
-            </a>
-          </li>
-        </ul>
-    </div>
-  </header>
+<header class="regular-header clearfix hide-sm" id="old-header" role="banner">
 
-
-<header class="regular-header clearfix hide-sm" id="old-header" role="banner" style="background: none !important;">
-
-  <!--<a aria-label="Homepage" style="background-image: url('<?php echo e(url(LOGO_URL)); ?>'); background-size: 80px;" href="<?php echo e(url('/')); ?>" class="header-belo header-logo pull-left <?php echo e((!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : ''); ?>" >
-    <span class="screen-reader-only">
-      <?php echo e($site_name); ?>
-
-    </span>
-  </a>-->
-
-  <a aria-label="Homepage" style="background-image: url('http://honestrooms.herokuapp.com/images/logos/logo.png'); position: absolute;height: 100px !important;width: 300px !important;margin-top: -30px;" href="<?php echo e(url('/')); ?>" class="header-belo header-logo pull-left <?php echo e((!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : ''); ?>" >
+  <a aria-label="Homepage" style="background-image: url('<?php echo e(url(LOGO_URL)); ?>'); background-size: 80px;" href="<?php echo e(url('/')); ?>" class="header-belo header-logo pull-left <?php echo e((!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : ''); ?>" >
     <span class="screen-reader-only">
       <?php echo e($site_name); ?>
 
