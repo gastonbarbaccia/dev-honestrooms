@@ -447,7 +447,7 @@
                 </div>
 
                 <!-- Mas vistas -->
-
+                <!--
                 <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0"
                     id="lazy_load_slider">
                     {{--HostExperienceBladeCommentStart
@@ -547,15 +547,15 @@
                     </div>
 
                 </div>
-
+                    -->
 
                 {{--HostExperienceBladeCommentStart
-      <div ng-repeat="featured_category in featured_host_experience_categories">
-        <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider" ng-if="featured_category.all_host_experiences_count > 0">
-         @include('host_experiences.home_category_slider')
-        </div>
-      </div>
-     HostExperienceBladeCommentEnd--}}
+                  <div ng-repeat="featured_category in featured_host_experience_categories">
+                    <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider" ng-if="featured_category.all_host_experiences_count > 0">
+                    @include('host_experiences.home_category_slider')
+                    </div>
+                  </div>
+                HostExperienceBladeCommentEnd--}}
                 <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                     id="discover-recommendations" ng-init="city_count=city_count-1 ;">
                     <div class="section-intro text-center row-space-6 row-space-top-8"
