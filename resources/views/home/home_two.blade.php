@@ -447,7 +447,7 @@
                 </div>
 
                 <!-- Mas vistas -->
-                <!--
+               
                 <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0"
                     id="lazy_load_slider">
                     {{--HostExperienceBladeCommentStart
@@ -547,7 +547,7 @@
                     </div>
 
                 </div>
-                    -->
+                  
 
                 {{--HostExperienceBladeCommentStart
                   <div ng-repeat="featured_category in featured_host_experience_categories">
@@ -668,107 +668,6 @@
                 <div style="text-align:center;margin-top:4%">
                     <a href="#" style="color:#24A4BA;text-decoration: none;">QUIERO SABER MÁS <i
                             class="fa fa-angle-right" style="color:#24A4BA;padding-left:3px;"></i></a>
-                </div>
-
-
-                <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0"
-                    id="lazy_load_slider">
-                    {{--HostExperienceBladeCommentStart
-                    @include('host_experiences.home_slider', ['title_text'=> trans('experiences.home.experiences'), 'see_all_link' => url('s?current_refinement=Experiences'),'category_id'=> 'all_exp' ])
-                    HostExperienceBladeCommentEnd--}}
-                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
-                        <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl"
-                            style="padding:0px;     margin: 45px 0px 15px;">
-                            <h3 class="rowHeader pull-left">
-                                < react-text: 38121{{ trans('messages.header.most_viewed') }} /react-text </h3>
-                                    <div class="seeMoreContainer_11b8zgn pull-right">
-
-                                        <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
-                                            <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
-                                                <span
-                                                    class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
-                                                </span>
-                                                <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true"
-                                                    focusable="false"
-                                                    style="fill: currentcolor; height: 10px; width: 10px;">
-                                                    <path fill-rule="evenodd"
-                                                        d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
-                                                    </path>
-                                                </svg>
-                                            </button>
-                                        </a>
-
-                                    </div>
-                        </div>
-
-
-
-                        <div class="home-bx-slider col-md-12 col-lg-12 col-sm-12 col-xs-12 "
-                            style="position:relative;padding:0px;">
-                            <div class="owl-carousel cate3">
-
-                                <div class="cateimg" ng-repeat="view_count in most_viewed"><a
-                                        href=" @{{ url+view_count.id }}"><img
-                                            ng-src="@{{ view_count.photo_name}}" /></a>
-                                    <div class="panel-body panel-card-section">
-                                        <div class="media">
-                                            <div class="category_city hm_cate">
-                                                <span class="pull-left">@{{ view_count.room_type_name }}</span>
-                                                <span class="pull-left dot-cont">·</span>
-                                                <span class="pull-left">@{{ view_count.beds }}
-                                                    @{{ view_count.bed_lang }}</span>
-                                            </div>
-                                            <a href=" @{{ url+view_count.id }}" target="listing_10001"
-                                                class="text-normal" style="text-decoration:none !important;">
-
-                                                <h3 title="@{{view_count.name}}" itemprop="name"
-                                                    class="h5 listing-name text-truncate row-space-top-1 ng-binding"
-                                                    style="width:95%;">
-                                                    @{{view_count.name}}
-                                                </h3>
-                                            </a>
-                                            <div class="exp_price">
-                                                <span ng-bind-html=" view_count.rooms_price.currency.symbol"></span>
-                                                @{{ view_count.rooms_price.month }}
-                                                {{ trans("messages.rooms.per_month") }}
-
-                                                <span ng-if="view_count.booking_type == 'instant_book'"> <i
-                                                        class="icon icon-instant-book icon-beach"></i></span>
-
-                                            </div>
-                                            <div itemprop="description"
-                                                class="rt_set pull-left text-muted listing-location text-truncate"><a
-                                                    href="" class="text-normal link-reset pull-left">
-                                                    <span class="pull-left">
-
-                                                        <span class="pull-left ng-binding"
-                                                            ng-bind-html=" view_count.overall_star_rating">
-
-                                                        </span>
-                                                    </span>
-                                                    <a href=" @{{ url+view_count.id }}">
-                                                        <span class="pull-left rw_view" style="padding-left: 5px; ">
-                                                            <span ng-if="view_count.reviews_count"
-                                                                class="pull-left r-count ng-binding"
-                                                                style="font-size:15px;color:#555;">
-                                                                @{{ view_count.reviews_count }}</span>
-                                                            <span ng-if="view_count.overall_star_rating"
-                                                                class="pull-left r-label ng-binding"
-                                                                style="font-size:12px;color:#555;">
-                                                                @{{ view_count.reviews_count_lang }}
-                                                            </span>
-                                                        </span>
-                                                    </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-
                 </div>
 
 
