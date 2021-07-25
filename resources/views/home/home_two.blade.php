@@ -938,9 +938,9 @@
                         </div>
 
                         <div style="text-align:center;">
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                            <div class="discovery-tiles">
                                 <div class="row">
-                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                    <div class="shadow p-3 mb-5 bg-white rounded"  style="width: 10%;margin-left: 30%;">
                                         <div style="text-align:center">
                                             <img class="imgRedonda"
                                                 src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
@@ -966,9 +966,9 @@
                                 </div>
                             </div>
 
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                            <div class="discovery-tiles">
                                 <div class="row">
-                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                    <div class="shadow p-3 mb-5 bg-white rounded" style="width: 10%;margin-left: 30%;">
                                         <div style="text-align:center" class="imgRedonda">
                                             <img class="imgRedonda"
                                                 src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
@@ -994,9 +994,9 @@
                                 </div>
                             </div>
 
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                            <div class="discovery-tiles">
                                 <div class="row">
-                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                    <div class="shadow p-3 mb-5 bg-white rounded" style="width: 10%;margin-left: 30%;">
                                         <div style="text-align:center" class="imgRedonda">
                                             <img class="imgRedonda"
                                                 src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
