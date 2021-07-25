@@ -817,7 +817,7 @@
                         </h2>                       
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 5%">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
@@ -861,7 +861,7 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;padding:0% 5% 0% 5%">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:0% 5% 0% 0%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
