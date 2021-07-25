@@ -803,6 +803,7 @@
                 </div>
 
                 <!-- Nuestro diferencial INICIO -->
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
                 <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                     id="discover-recommendations" ng-init="city_count=city_count-1 ;">
@@ -816,7 +817,7 @@
                         </h2>                       
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:5% 5% 5% 5%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
@@ -838,11 +839,11 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:5% 5% 5% 5%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                 </div>
                                 <div style="margin-top:7%">
                                     <h4>Lo que ves es lo que recibís</h4>
@@ -860,11 +861,11 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:5% 5% 5% 5%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                 </div>
                                 <div style="margin-top:7%">
                                     <h4>Lo que ves es lo que recibís</h4>
@@ -882,11 +883,11 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:5% 5% 5% 5%">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                 </div>
                                 <div style="margin-top:7%">
                                     <h4>Lo que ves es lo que recibís</h4>
