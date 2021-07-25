@@ -820,7 +820,7 @@
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.png">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
                                 <div>
                                     <h4>Lo que ves es lo que recibís</h4>
