@@ -1078,6 +1078,7 @@
                 -->
             </div>
 
+            <!--
             <div class="panel" style="padding:0px;float: left; margin:0 15px; width:auto;">
                 <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
                     <div class="col-md-4 columnn-foot">
@@ -1111,14 +1112,14 @@
                                 <div class="columnHeader"><span>₹6,00,00,000 host guarantee</span></div>
                                 <div>
                                     <span class="content-font">
-                                        <!-- react-text: 449 -->Hosts are protected against property damages for up to
+                                        <!-- react-text: 449 --><!--Hosts are protected against property damages for up to
                                         ₹6,00,00,000.
                                         <!-- /react-text -->
-                                        <span>
+                                   <!--     <span>
                                             <a href="{{ url('host_guarantee') }}" target="_blank">
-                                                <!-- react-text: 452 -->{{trans('messages.search.learn_more')}}
+                                                <!-- react-text: 452 --><!--{{trans('messages.search.learn_more')}}
                                                 <!-- /react-text -->
-                                            </a>
+                                  <!--          </a>
                                         </span>
                                     </span>
                                 </div>
@@ -1143,7 +1144,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
         </div>
     </div>
 
