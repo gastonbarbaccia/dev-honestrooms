@@ -923,7 +923,7 @@
 
                 <!-- Que opinan nuestros clientes INICIO -->
                 <div id="discovery-container" class="pad-sm-20"
-                    style="float:left;width:100%;height: 600px;width: 1500px;position: relative;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-color:#E7E5E5">
+                    style="background-color:#E7E5E5;margin-left:-100%;margin-right:-100%">
 
                     <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                         id="discover-recommendations" ng-init="city_count=city_count-1 ;"
