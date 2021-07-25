@@ -571,7 +571,7 @@
                         ng-if="home_city_explore.length!=0">
                         <h2 class="row-space-1">
                             <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
-                            How does it work?
+                           How does it work?
                         </h2>
                         <p class="text-lead">
                             {{ trans('messages.home.explore_desc') }}
@@ -803,12 +803,8 @@
                 </div>
 
                 <!-- Nuestro diferencial INICIO -->
-                <style>
-                .shadow {
-                    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
-                }
-                </style>
-                
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
                 <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                     id="discover-recommendations" ng-init="city_count=city_count-1 ;">
                     <div class="section-intro text-center row-space-6 row-space-top-8"
@@ -818,7 +814,7 @@
                         </p>
                         <h2 class="row-space-1">
                             Nuestro diferencial
-                        </h2>
+                        </h2>                       
                     </div>
 
                     <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
