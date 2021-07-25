@@ -958,7 +958,7 @@
                                             nisi!
                                         </p>
                                     </div>
-                                    <div style="text-align:center;margin-left: 45%;">
+                                    <div style="text-align:center;margin-left: 40%;">
                                         <hr style="width:50px;">
                                     </div>
                                     <p>
@@ -990,7 +990,7 @@
                                             nisi!
                                         </p>
                                     </div>
-                                    <div style="text-align:center;margin-left: 45%;">
+                                    <div style="text-align:center;margin-left: 40%;">
                                         <hr style="width:50px;">
                                     </div>
                                     <p>
@@ -1022,7 +1022,7 @@
                                             nisi!
                                         </p>
                                     </div>
-                                    <div style="text-align:center;margin-left: 45%;">
+                                    <div style="text-align:center;margin-left: 40%;">
                                         <hr style="width:50px;">
                                     </div>
                                     <p>
