@@ -958,8 +958,8 @@
                                             nisi!
                                         </p>
                                     </div>
-                                    <div style="text-align:center">
-                                        <hr style="width:20px;">
+                                    <div style="text-align:center;margin-left: 45%;">
+                                        <hr style="width:50px;">
                                     </div>
                                     <p>
                                         Jessica - Porto Alegre, Brasil
@@ -990,6 +990,9 @@
                                             nisi!
                                         </p>
                                     </div>
+                                    <div style="text-align:center;margin-left: 45%;">
+                                        <hr style="width:50px;">
+                                    </div>
                                     <p>
                                         Jessica - Porto Alegre, Brasil
                                     </p>
@@ -1018,6 +1021,9 @@
                                             dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
                                             nisi!
                                         </p>
+                                    </div>
+                                    <div style="text-align:center;margin-left: 45%;">
+                                        <hr style="width:50px;">
                                     </div>
                                     <p>
                                         Jessica - Porto Alegre, Brasil
