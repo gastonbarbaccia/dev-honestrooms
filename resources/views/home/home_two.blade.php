@@ -1065,7 +1065,7 @@
                                     <div style="margin-top:7%;font-weight: bold">
                                         <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
                                     </div>
-                                    <div style="margin-top:7%;font-weight: bold">
+                                    <div style="margin-top:7%;">
                                         <p>LA NACIÓN (NEWSPAPER),MARCH 21, 2021</p>
                                     </div>
                                     <div>
