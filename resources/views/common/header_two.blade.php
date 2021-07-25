@@ -1,6 +1,6 @@
 <div id="header" class="makent-header {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'shift-with-hiw' : '') : '' }}">
   <header class="header--sm show-sm" aria-hidden="true" role="banner">
-    <a href="javascript:void(0);" style="background-image: url('{{ LOGO_URL }}'); background-size: 70px;" href="{{ url('/') }}"  aria-label="Homepage" data-prevent-default="" class="header-logo link-reset burger--sm">
+    <a href="javascript:void(0);" style="background-image: url('background-image: url('http://honestrooms.herokuapp.com/images/logos/logo.png'); background-size: 70px;" href="{{ url('/') }}"  aria-label="Homepage" data-prevent-default="" class="header-logo link-reset burger--sm">
       <i class="fa fa-angle-down lang-chang-label arrow-icon mbl_nav"></i>
       <span class="screen-reader-only">
         {{ $site_name }}
