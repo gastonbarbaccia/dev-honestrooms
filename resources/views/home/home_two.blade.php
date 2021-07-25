@@ -1074,7 +1074,7 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a class="btn btn-primary" href="#">
+                                    <a class="btn btn-primary" href="#" style="width:50%;background-color: #ffff">
                                         LEER MÁS
                                     </a>
 
