@@ -936,7 +936,7 @@
                             </h2>
                         </div>
 
-                        <div style="text-align:center;">
+                        <div class="section-intro text-center row-space-6 row-space-top-8">
                             <div class="discovery-tiles">
                                
                                     <div class="shadow p-3 mb-5 bg-white rounded"  style="width: 10%;margin-left: 30%;">
