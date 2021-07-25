@@ -1038,6 +1038,11 @@
                 </div>
                 <!-- Que opinan nuestros clientes FIN -->
 
+                <style>
+                .noHover {
+                    pointer-events: none;
+                }
+                </style>
                 <!-- Prensa INICIO -->
 
                 <div id="discovery-container" class="pad-sm-20" style="margin-left:-100%;margin-right:-100%">
@@ -1060,7 +1065,8 @@
                                     style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG" style="width: 50%;">
+                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
                                         <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
@@ -1074,7 +1080,8 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a class="btn btn-primary" href="#" style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad">
+                                    <a class="btn btn-primary noHover" href="#"
+                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad">
                                         LEER MÁS
                                     </a>
 
