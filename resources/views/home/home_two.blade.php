@@ -1091,7 +1091,7 @@
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/logo_ieco.PNG"
+                                            src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
                                             style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
@@ -1120,7 +1120,7 @@
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.PNG"
+                                            src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
                                             style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
