@@ -1060,7 +1060,7 @@
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
                                     style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
-                                        <img class="imgRedonda"
+                                        <img 
                                             src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
                                             style="width: 50%;">
                                     </div>
@@ -1090,7 +1090,7 @@
                             <div class="shadow-sm p-3 mb-5 bg-white rounded"
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
-                                        <img class="imgRedonda"
+                                        <img 
                                             src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
                                             style="width: 50%;">
                                     </div>
@@ -1119,7 +1119,7 @@
                             <div class="shadow-sm p-3 mb-5 bg-white rounded"
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
-                                        <img class="imgRedonda"
+                                        <img 
                                             src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
                                             style="width: 50%;">
                                     </div>
