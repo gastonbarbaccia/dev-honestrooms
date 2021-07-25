@@ -938,7 +938,7 @@
                         </div>
 
                         <div style="text-align:center">
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
                                 <div class="row">
                                     <div class="shadow p-3 mb-5 bg-white rounded">
                                         <div style="text-align:center">
@@ -958,6 +958,9 @@
                                                 nisi!
                                             </p>
                                         </div>
+                                        <div style="text-align:center">
+                                            <hr style="width:10px">
+                                        </div>
                                         <p>
                                             Jessica - Porto Alegre, Brasil
                                         </p>
@@ -966,7 +969,7 @@
                                 </div>
                             </div>
 
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
                                 <div class="row">
                                     <div class="shadow p-3 mb-5 bg-white rounded">
                                         <div style="text-align:center" class="imgRedonda">
@@ -994,7 +997,7 @@
                                 </div>
                             </div>
 
-                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
                                 <div class="row">
                                     <div class="shadow p-3 mb-5 bg-white rounded">
                                         <div style="text-align:center" class="imgRedonda">
