@@ -1058,7 +1058,7 @@
                             <div class="discovery-tiles">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left: 34%;float: left;">
+                                    style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
                                             src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
@@ -1090,7 +1090,7 @@
                             <div class="discovery-tiles">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left:1%;float: left;">
+                                    style="width: 10%;margin-left:1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center" class="imgRedonda">
                                         <img class="imgRedonda"
                                             src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
@@ -1122,7 +1122,7 @@
                             <div class="discovery-tiles">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left:1%;float: left;">
+                                    style="width: 10%;margin-left:1%;float: left; border: #EDEDED 3px solid;">
                                     <div style="text-align:center" class="imgRedonda">
                                         <img class="imgRedonda"
                                             src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
