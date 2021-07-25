@@ -1038,11 +1038,7 @@
                 </div>
                 <!-- Que opinan nuestros clientes FIN -->
 
-                <style>
-                .noHover {
-                    pointer-events: none;
-                }
-                </style>
+
                 <!-- Prensa INICIO -->
 
                 <div id="discovery-container" class="pad-sm-20" style="margin-left:-100%;margin-right:-100%">
@@ -1080,7 +1076,7 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a class="btn btn-primary noHover" href="#"
+                                    <a class="btn btn-primary" href="#"
                                         style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad">
                                         LEER MÁS
                                     </a>
