@@ -1092,7 +1092,7 @@
                                     <div style="text-align:center">
                                         <img 
                                             src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
-                                            style="width: 50%;">
+                                            style="width: 20%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
                                         <h3 style="color:#EA0A37">Crece el negocio de los servicios para estudiantes</h3>
@@ -1121,7 +1121,7 @@
                                     <div style="text-align:center">
                                         <img 
                                             src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
-                                            style="width: 50%;">
+                                            style="width: 25%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
                                         <h3 style="color:#EA0A37">Latin American Startups: 10 Women to Watch</h3>
