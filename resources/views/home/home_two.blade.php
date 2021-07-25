@@ -1038,7 +1038,125 @@
                 </div>
                 <!-- Que opinan nuestros clientes FIN -->
 
+                <!-- Prensa INICIO -->
 
+                <div id="discovery-container" class="pad-sm-20"
+                    style="background-color:#E7E5E5;margin-left:-100%;margin-right:-100%">
+
+                    <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                        id="discover-recommendations">
+                        <div class="section-intro text-center row-space-6 row-space-top-8">
+                            <p class="text-lead">
+                                PRENSA
+                            </p>
+                            <h2 class="row-space-1">
+                                Que dicen los medios
+                            </h2>
+                        </div>
+
+                        <div class="section-intro text-center row-space-6 row-space-top-8">
+                            <div class="discovery-tiles">
+
+                                <div class="shadow p-3 mb-5 bg-white rounded"
+                                    style="width: 10%;margin-left: 34%;float: left;">
+                                    <div style="text-align:center">
+                                        <img class="imgRedonda"
+                                            src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                            iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                            nisi!
+                                        </p>
+                                    </div>
+                                    <div style="text-align:center;margin-left: 40%;">
+                                        <hr style="width:50px;">
+                                    </div>
+                                    <p>
+                                        Jessica - Porto Alegre, Brasil
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="discovery-tiles">
+
+                                <div class="shadow p-3 mb-5 bg-white rounded"
+                                    style="width: 10%;margin-left:1%;float: left;">
+                                    <div style="text-align:center" class="imgRedonda">
+                                        <img class="imgRedonda"
+                                            src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                            iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                            nisi!
+                                        </p>
+                                    </div>
+                                    <div style="text-align:center;margin-left: 40%;">
+                                        <hr style="width:50px;">
+                                    </div>
+                                    <p>
+                                        Jessica - Porto Alegre, Brasil
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="discovery-tiles">
+
+                                <div class="shadow p-3 mb-5 bg-white rounded"
+                                    style="width: 10%;margin-left:1%;float: left;">
+                                    <div style="text-align:center" class="imgRedonda">
+                                        <img class="imgRedonda"
+                                            src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                            iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                            nisi!
+                                        </p>
+                                    </div>
+                                    <div style="text-align:center;margin-left: 40%;">
+                                        <hr style="width:50px;">
+                                    </div>
+                                    <p>
+                                        Jessica - Porto Alegre, Brasil
+                                    </p>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <!-- Prensa FIN -->
 
                 <!--
                 <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
@@ -1112,14 +1230,16 @@
                                 <div class="columnHeader"><span>₹6,00,00,000 host guarantee</span></div>
                                 <div>
                                     <span class="content-font">
-                                        <!-- react-text: 449 --><!--Hosts are protected against property damages for up to
+                                        <!-- react-text: 449 -->
+            <!--Hosts are protected against property damages for up to
                                         ₹6,00,00,000.
                                         <!-- /react-text -->
-                                   <!--     <span>
+            <!--     <span>
                                             <a href="{{ url('host_guarantee') }}" target="_blank">
-                                                <!-- react-text: 452 --><!--{{trans('messages.search.learn_more')}}
+                                                <!-- react-text: 452 -->
+            <!--{{trans('messages.search.learn_more')}}
                                                 <!-- /react-text -->
-                                  <!--          </a>
+            <!--          </a>
                                         </span>
                                     </span>
                                 </div>
