@@ -816,13 +816,79 @@
                         </h2>                       
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;width:25%">
+                    <div class="discovery-tiles" style="float:left;width: 50%;">
                         <div class="row">
                             <div class="shadow p-3 mb-5 bg-white rounded">
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
+                                <div style="margin-top:7%">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
                                 <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%">
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
