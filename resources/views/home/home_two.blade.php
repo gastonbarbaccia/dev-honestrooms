@@ -939,7 +939,7 @@
                         <div class="section-intro text-center row-space-6 row-space-top-8">
                             <div class="discovery-tiles">
                                
-                                    <div class="shadow p-3 mb-5 bg-white rounded"  style="width: 10%;margin-left: 30%;float: left;">
+                                    <div class="shadow p-3 mb-5 bg-white rounded"  style="width: 10%;margin-left: 34%;float: left;">
                                         <div style="text-align:center">
                                             <img class="imgRedonda"
                                                 src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
