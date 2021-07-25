@@ -1091,19 +1091,18 @@
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            src="http://honestrooms.herokuapp.com/images/home/logo_ieco.PNG"
                                             style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
+                                        <h3 style="color:#EA0A37">Crece el negocio de los servicios para estudiantes</h3>
                                     </div>
                                     <div style="margin-top:7%;">
-                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
+                                        <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
-                                            habitaciones para quienes hacen intercambios...
+                                            alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
                                         </p>
                                     </div>
                                     <a class="btn btn-primary" href="#"
@@ -1121,19 +1120,18 @@
                                     style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.PNG"
                                             style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
+                                        <h3 style="color:#EA0A37">Latin American Startups: 10 Women to Watch</h3>
                                     </div>
                                     <div style="margin-top:7%;">
-                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
+                                        <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
-                                            habitaciones para quienes hacen intercambios...
+                                            From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                         </p>
                                     </div>
                                     <a class="btn btn-primary" href="#"
