@@ -958,9 +958,9 @@
                                             nisi!
                                         </p>
                                     </div>
-                                    <p>
-                                        <hr style="width:20px;text-align:center">
-                                    </p>
+                                    <div style="text-align:center">
+                                        <hr style="width:20px;">
+                                    </div>
                                     <p>
                                         Jessica - Porto Alegre, Brasil
                                     </p>
