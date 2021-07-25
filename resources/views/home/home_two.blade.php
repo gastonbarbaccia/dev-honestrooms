@@ -1077,7 +1077,7 @@
                                         </p>
                                     </div>
                                     <a class="btn btn-primary" href="#"
-                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;margin-top: 12%;">
+                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
                                         LEER MÁS
                                     </a>
 
