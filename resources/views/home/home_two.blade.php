@@ -1077,7 +1077,7 @@
                                         </p>
                                     </div>
                                     <a class="btn btn-primary" href="#"
-                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad">
+                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
                                         LEER MÁS
                                     </a>
 
@@ -1087,31 +1087,29 @@
 
                             <div class="discovery-tiles">
 
-                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left:1%;float: left;border: #EDEDED 3px solid;">
-                                    <div style="text-align:center" class="imgRedonda">
+                            <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                    style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
+                                    <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h4>Lo que ves es lo que recibís</h4>
+                                        <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
+                                    </div>
+                                    <div style="margin-top:7%;">
+                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
-                                            iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
-                                            nisi!
+                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
+                                            habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <div style="text-align:center;margin-left: 40%;">
-                                        <hr style="width:50px;">
-                                    </div>
-                                    <p>
-                                        Jessica - Porto Alegre, Brasil
-                                    </p>
+                                    <a class="btn btn-primary" href="#"
+                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
+                                        LEER MÁS
+                                    </a>
 
                                 </div>
 
@@ -1119,31 +1117,29 @@
 
                             <div class="discovery-tiles">
 
-                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left:1%;float: left; border: #EDEDED 3px solid;">
-                                    <div style="text-align:center" class="imgRedonda">
+                            <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                    style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
+                                    <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h4>Lo que ves es lo que recibís</h4>
+                                        <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
+                                    </div>
+                                    <div style="margin-top:7%;">
+                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
-                                            iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
-                                            nisi!
+                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
+                                            habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <div style="text-align:center;margin-left: 40%;">
-                                        <hr style="width:50px;">
-                                    </div>
-                                    <p>
-                                        Jessica - Porto Alegre, Brasil
-                                    </p>
+                                    <a class="btn btn-primary" href="#"
+                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
+                                        LEER MÁS
+                                    </a>
 
                                 </div>
 
