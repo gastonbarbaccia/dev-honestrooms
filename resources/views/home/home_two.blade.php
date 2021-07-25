@@ -823,7 +823,7 @@
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
-                                <div style="margin-top:7%">
+                                <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
@@ -845,7 +845,7 @@
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                 </div>
-                                <div style="margin-top:7%">
+                                <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
@@ -867,7 +867,7 @@
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                 </div>
-                                <div style="margin-top:7%">
+                                <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
@@ -889,7 +889,7 @@
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                 </div>
-                                <div style="margin-top:7%">
+                                <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
