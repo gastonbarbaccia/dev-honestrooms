@@ -915,7 +915,7 @@
 
                 <style>
                 .imgRedonda {
-                    width: 70px;
+                    /*width: 70px;*/
                     height: 70px;
                     border-radius: 150px;
                 }
