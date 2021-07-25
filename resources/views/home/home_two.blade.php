@@ -937,7 +937,94 @@
                             </h2>
                         </div>
 
-                        
+                        <div style="text-align:center;">
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                                <div class="row">
+                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                        <div style="text-align:center">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <div style="text-align:center">
+                                            <hr style="width:10px">
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                                <div class="row">
+                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                        <div style="text-align:center" class="imgRedonda">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 35%">
+                                <div class="row">
+                                    <div class="shadow p-3 mb-5 bg-white rounded">
+                                        <div style="text-align:center" class="imgRedonda">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
