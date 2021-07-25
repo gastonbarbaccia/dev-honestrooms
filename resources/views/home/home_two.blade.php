@@ -571,7 +571,7 @@
                         ng-if="home_city_explore.length!=0">
                         <h2 class="row-space-1">
                             <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
-                            <strong>How does it work?</strong>
+                           How does it work?
                         </h2>
                         <p class="text-lead">
                             {{ trans('messages.home.explore_desc') }}
@@ -689,7 +689,7 @@
                         <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl"
                             style="padding:0px;     margin: 45px 0px 15px;">
                             <h3 class="rowHeader pull-left" style="margin-right: 10px;">
-                                <!-- react-text: 38121--> {{ trans('messages.header.most_viewed') }}  
+                                <!-- react-text: 38121--> {{ trans('messages.header.most_viewed') }}
                                 <!--/react-text-->
                             </h3>
                             <div>
@@ -785,7 +785,8 @@
                     <div class="seeMoreContainer_11b8zgn">
 
                         <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
-                            <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0" style="padding-left:0px !important">
+                            <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0"
+                                style="padding-left:0px !important">
                                 <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
                                 </span>
                                 <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
@@ -800,6 +801,46 @@
                     </div>
 
                 </div>
+
+                <!-- Nuestro diferencial INICIO -->
+
+                <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                    id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+                    <div class="section-intro text-center row-space-6 row-space-top-8"
+                        ng-if="home_city_explore.length!=0">
+                        <p class="text-lead">
+                            Porqué elegirnos
+                        </p>
+                        <h2 class="row-space-1">
+                            Nuestro diferencial
+                        </h2>                       
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width:25%">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.png">
+                                </div>
+                                <div>
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!---Nuestro diferencial FIN ------->
+
 
                 <!--
                 <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
