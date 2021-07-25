@@ -1060,13 +1060,13 @@
                                     style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img class="imgRedonda"
-                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG">
+                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG" style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
                                         <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
                                     </div>
                                     <div style="margin-top:7%;">
-                                        <p>LA NACIÓN (NEWSPAPER),MARCH 21, 2021</p>
+                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
                                     </div>
                                     <div>
                                         <p class="content-font">
@@ -1074,7 +1074,7 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a type="button" href="">
+                                    <a class="btn btn-primary" href="#">
                                         LEER MÁS
                                     </a>
 
