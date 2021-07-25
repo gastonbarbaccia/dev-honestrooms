@@ -1065,7 +1065,7 @@
                                             style="width: 50%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37">Una red para alojar extranjeros</h3>
+                                        <h3 style="color:#EA0A37;font-size: 150%;">Una red para alojar extranjeros</h3>
                                     </div>
                                     <div style="margin-top:7%;">
                                         <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
@@ -1095,7 +1095,7 @@
                                             style="width: 20%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37">Crece el negocio de los servicios para estudiantes</h3>
+                                        <h3 style="color:#EA0A37;font-size: 150%;">Crece el negocio de los servicios para estudiantes</h3>
                                     </div>
                                     <div style="margin-top:7%;">
                                         <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
@@ -1124,7 +1124,7 @@
                                             style="width: 25%;">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37">Latin American Startups: 10 Women to Watch</h3>
+                                        <h3 style="color:#EA0A37;font-size: 150%;">Latin American Startups: 10 Women to Watch</h3>
                                     </div>
                                     <div style="margin-top:7%;">
                                         <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
