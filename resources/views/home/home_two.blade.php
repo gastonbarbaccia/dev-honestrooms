@@ -571,7 +571,7 @@
                         ng-if="home_city_explore.length!=0">
                         <h2 class="row-space-1">
                             <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
-                           How does it work?
+                            How does it work?
                         </h2>
                         <p class="text-lead">
                             {{ trans('messages.home.explore_desc') }}
@@ -802,19 +802,24 @@
 
                 </div>
 
+
+
+
                 <!-- Nuestro diferencial INICIO -->
-                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+                    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+                    crossorigin="anonymous">
 
                 <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                     id="discover-recommendations" ng-init="city_count=city_count-1 ;">
                     <div class="section-intro text-center row-space-6 row-space-top-8"
                         ng-if="home_city_explore.length!=0">
                         <p class="text-lead">
-                            Porqué elegirnos
+                            PORQUÉ
                         </p>
                         <h2 class="row-space-1">
                             Nuestro diferencial
-                        </h2>                       
+                        </h2>
                     </div>
 
                     <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
@@ -907,6 +912,109 @@
 
                 </div>
                 <!---Nuestro diferencial FIN ------->
+
+                <style>
+                .imgRedonda {
+                    width: 300px;
+                    height: 300px;
+                    border-radius: 150px;
+                }
+                </style>
+
+                <!-- Que opinan nuestros clientes INICIO -->
+
+                <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                    id="discover-recommendations" ng-init="city_count=city_count-1 ;" style="background-color:#E7E5E5">
+                    <div class="section-intro text-center row-space-6 row-space-top-8"
+                        ng-if="home_city_explore.length!=0">
+                        <p class="text-lead">
+                            TESTIMONIOS
+                        </p>
+                        <h2 class="row-space-1">
+                            Que opinan nuestros clientes
+                        </h2>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div style="text-align:center" class="imgRedonda">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%;font-weight: bold">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+                                <p>
+                                    Jessica - Porto Alegre, Brasil
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div style="text-align:center" class="imgRedonda">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%;font-weight: bold">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+                                <p>
+                                    Jessica - Porto Alegre, Brasil
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="discovery-tiles" style="float:left;width: 50%;padding:3% 5% 0% 0%">
+                        <div class="row">
+                            <div class="shadow p-3 mb-5 bg-white rounded">
+                                <div style="text-align:center" class="imgRedonda">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                </div>
+                                <div style="margin-top:7%;font-weight: bold">
+                                    <h4>Lo que ves es lo que recibís</h4>
+                                </div>
+                                <div>
+                                    <p class="content-font">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+                                <p>
+                                    Jessica - Porto Alegre, Brasil
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div>
+
+                <!-- Que opinan nuestros clientes FIN -->
+
 
 
                 <!--
