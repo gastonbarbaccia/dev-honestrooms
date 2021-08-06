@@ -829,7 +829,7 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
                                 <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
+                                    <h4>¡Lo que ves es lo que recibís!</h4>
                                 </div>
                                 <div>
                                     <p class="content-font">
@@ -932,7 +932,7 @@
                                 TESTIMONIOS
                             </p>
                             <h2 class="row-space-1">
-                                Que opinan nuestros clientes
+                                ¿Que opinan nuestros clientes?
                             </h2>
                         </div>
 
