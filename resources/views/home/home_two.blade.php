@@ -817,7 +817,7 @@
                             Nuestro diferencial
                         </h2>
                     </div>
-                    <div class="row d-flex justify-content-between">
+                    <div class="row d-flex justify-content-around">
                     
                         <div class="discovery-tiles col-sm-12 col-md-5" >
                             <div class="row">
