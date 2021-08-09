@@ -932,7 +932,7 @@
                                 TESTIMONIOS
                             </p>
                             <h2 class="row-space-1">
-                                Que opinan nuestros clientes LucasGre
+                                Que opinan nuestros clientes
                             </h2>
                         </div>
 
