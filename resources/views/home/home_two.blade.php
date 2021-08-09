@@ -819,7 +819,7 @@
                     </div>
                     <div class="row d-flex justify-content-around">
                     
-                        <div class="discovery-tiles col-sm-12 col-md-5" >
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
                             
                                 <div class=" shadow mb-5 bg-white rounded">
                                     <div>
@@ -841,7 +841,7 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-5" >
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
                             
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
@@ -863,7 +863,7 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-5" >
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
                             
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
@@ -885,7 +885,7 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-5" >
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
                             
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
