@@ -820,7 +820,7 @@
                     <div class="row d-flex justify-content-around">
                     
                         <div class="discovery-tiles col-sm-12 col-md-5" >
-                            <div class="row">
+                            
                                 <div class=" shadow mb-5 bg-white rounded">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
@@ -838,11 +838,11 @@
                                     </div>
 
                                 </div>
-                            </div>
+                            
                         </div>
 
                         <div class="discovery-tiles col-sm-12 col-md-5" >
-                            <div class="row">
+                            
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
@@ -860,11 +860,11 @@
                                     </div>
 
                                 </div>
-                            </div>
+                            
                         </div>
 
                         <div class="discovery-tiles col-sm-12 col-md-5" >
-                            <div class="row">
+                            
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
@@ -882,11 +882,11 @@
                                     </div>
 
                                 </div>
-                            </div>
+                            
                         </div>
 
                         <div class="discovery-tiles col-sm-12 col-md-5" >
-                            <div class="row">
+                            
                                 <div class="shadow mb-5 bg-white rounded">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
@@ -904,7 +904,7 @@
                                     </div>
 
                                 </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
