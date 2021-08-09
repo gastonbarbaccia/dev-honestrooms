@@ -818,7 +818,7 @@
                         </h2>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;padding:3% 5% 0% 0%">
+                    <div class="discovery-tiles m-1" >
                         <div class="row">
                             <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
                                 <div>
@@ -840,7 +840,7 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;padding:3% 0% 0% 5%">
+                    <div class="discovery-tiles m-1" >
                         <div class="row">
                             <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
                                 <div>
@@ -862,7 +862,7 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;padding:0% 5% 0% 0%">
+                    <div class="discovery-tiles m-1" >
                         <div class="row">
                             <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
                                 <div>
@@ -884,7 +884,7 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles" style="float:left;padding:0% 0% 0% 5%">
+                    <div class="discovery-tiles m-1" >
                         <div class="row">
                             <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
                                 <div>
