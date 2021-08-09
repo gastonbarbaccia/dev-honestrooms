@@ -818,9 +818,9 @@
                         </h2>
                     </div>
 
-                    <div class="discovery-tiles m-1" >
+                    <div class="discovery-tiles" >
                         <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
+                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
@@ -840,9 +840,9 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles m-1" >
+                    <div class="discovery-tiles" >
                         <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
+                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                 </div>
@@ -862,9 +862,9 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles m-1" >
+                    <div class="discovery-tiles" >
                         <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
+                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                 </div>
@@ -884,9 +884,9 @@
                         </div>
                     </div>
 
-                    <div class="discovery-tiles m-1" >
+                    <div class="discovery-tiles" >
                         <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow p-3 mb-5 bg-white rounded">
+                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
                                 <div>
                                     <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                 </div>
