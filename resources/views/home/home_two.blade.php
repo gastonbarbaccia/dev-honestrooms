@@ -821,7 +821,7 @@
                     
                         <div class="discovery-tiles col-sm-12 col-md-6" >
                             
-                                <div class=" shadow mb-5 bg-white rounded">
+                                <div class=" shadow mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                     </div>
@@ -843,7 +843,7 @@
 
                         <div class="discovery-tiles col-sm-12 col-md-6" >
                             
-                                <div class="shadow mb-5 bg-white rounded">
+                                <div class="shadow mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                     </div>
@@ -865,7 +865,7 @@
 
                         <div class="discovery-tiles col-sm-12 col-md-6" >
                             
-                                <div class="shadow mb-5 bg-white rounded">
+                                <div class="shadow mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                     </div>
@@ -887,7 +887,7 @@
 
                         <div class="discovery-tiles col-sm-12 col-md-6" >
                             
-                                <div class="shadow mb-5 bg-white rounded">
+                                <div class="shadow mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                     </div>
