@@ -817,95 +817,96 @@
                             Nuestro diferencial
                         </h2>
                     </div>
+                    <div class="row">
+                    
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
+                            <div class="row">
+                                <div class=" shadow mb-5 bg-white rounded">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
 
-                    <div class="discovery-tiles" >
-                        <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                 </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
-                                    </p>
-                                </div>
+                            </div>
+                        </div>
 
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
+                            <div class="row">
+                                <div class="shadow mb-5 bg-white rounded">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
+                            <div class="row">
+                                <div class="shadow mb-5 bg-white rounded">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="discovery-tiles col-sm-12 col-md-6" >
+                            <div class="row">
+                                <div class="shadow mb-5 bg-white rounded">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-
-                    <div class="discovery-tiles" >
-                        <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
-                                    </p>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="discovery-tiles" >
-                        <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
-                                    </p>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="discovery-tiles" >
-                        <div class="row">
-                            <div class="col-sm-12 col-md-6 shadow mb-5 bg-white rounded">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
-                                    </p>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
                 <!---Nuestro diferencial FIN ------->
 
