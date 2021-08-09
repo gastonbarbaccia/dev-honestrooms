@@ -604,7 +604,7 @@
                             </div>
                         </div>-->
                             <div class="col-lg-12 col-md-12 col-sm-12" style="background:#ffffff;">
-                                <div style="float:left;width:25%;text-align:center">
+                                <div class="col-12" style="float:left;width:25%;text-align:center">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png">
                                     </div>
@@ -621,7 +621,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div style="float:left;width:25%;text-align:center">
+                                <div class="col-12" style="float:left;width:25%;text-align:center">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/2.png">
                                     </div>
@@ -637,7 +637,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div style="float:left;width:25%;text-align:center">
+                                <div class="col-12" style="float:left;width:25%;text-align:center">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/3.png">
                                     </div>
@@ -653,7 +653,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div style="float:left;width:25%;text-align:center">
+                                <div class="col-12" style="float:left;width:25%;text-align:center">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/4.png">
                                     </div>
