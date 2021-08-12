@@ -934,8 +934,7 @@
                         </div>
 
                         <div class="section-intro text-center row-space-6 row-space-top-8">
-                            <div class="row">
-
+                      
                                 <div class="discovery-tiles col-12 col-md-3">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
@@ -1032,7 +1031,7 @@
 
                                 </div>
 
-                            </div>
+                            
                         </div>
                        
                     </div>
