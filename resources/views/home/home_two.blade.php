@@ -934,7 +934,7 @@
 
                         <div class="text-center row justify-content-around mx-1">
                       
-                                <div class="discovery-tiles col-12 col-md-4">
+                                <div class="discovery-tiles col-12 col-lg-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
@@ -966,7 +966,7 @@
 
                                 </div>
 
-                                <div class="discovery-tiles col-12 col-md-4">
+                                <div class="discovery-tiles col-12 col-lg-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
@@ -998,7 +998,7 @@
 
                                 </div>
 
-                                <div class="discovery-tiles col-12 col-md-4">
+                                <div class="discovery-tiles col-12 col-lg-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
