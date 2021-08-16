@@ -1077,9 +1077,9 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <div class="d-grid gap-2 col-6 mx-auto">
-                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
-                                    </div>
+                                    
+                                    <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+                                    
                                     
 
                                 </div>
@@ -1106,7 +1106,7 @@
                                                 alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
                                             </p>
                                         </div>
-                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
+                                        <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
 
                                 </div>
 
@@ -1132,7 +1132,7 @@
                                                 From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                             </p>
                                         </div>
-                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
+                                        <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
 
                                 </div>
 
