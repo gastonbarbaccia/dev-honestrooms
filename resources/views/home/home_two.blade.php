@@ -1054,8 +1054,9 @@
                             </h2>
                         </div>
 
-                        <div class="section-intro text-center row-space-6 row-space-top-8">
-                            <div class="discovery-tiles">
+                        <div class="text-center row justify-content-around mx-1">
+
+                            <div class="discovery-tiles col-12 col-lg-4">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
                                     style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
@@ -1085,63 +1086,64 @@
 
                             </div>
 
-                            <div class="discovery-tiles">
+                            <div class="discovery-tiles col-12 col-lg-4">
 
-                            <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
-                                    <div style="text-align:center">
-                                        <img 
-                                            src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
-                                            style="width: 20%;">
-                                    </div>
-                                    <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37;font-size: 150%;">Crece el negocio de los servicios para estudiantes</h3>
-                                    </div>
-                                    <div style="margin-top:7%;">
-                                        <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
-                                    </div>
-                                    <div>
-                                        <p class="content-font">
-                                            alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
-                                        </p>
-                                    </div>
-                                    <a class="btn btn-primary" href="#"
-                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
-                                        LEER MÁS
-                                    </a>
+                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                        style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
+                                        <div style="text-align:center">
+                                            <img 
+                                                src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
+                                                style="width: 20%;">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h3 style="color:#EA0A37;font-size: 150%;">Crece el negocio de los servicios para estudiantes</h3>
+                                        </div>
+                                        <div style="margin-top:7%;">
+                                            <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
+                                            </p>
+                                        </div>
+                                        <a class="btn btn-primary" href="#"
+                                            style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
+                                            LEER MÁS
+                                        </a>
+
+                                </div>
+
+                            </div>
+
+                            <div class="discovery-tiles col-12 col-lg-4">
+
+                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                        style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
+                                        <div style="text-align:center">
+                                            <img 
+                                                src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
+                                                style="width: 25%;">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h3 style="color:#EA0A37;font-size: 150%;">Latin American Startups: 10 Women to Watch</h3>
+                                        </div>
+                                        <div style="margin-top:7%;">
+                                            <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
+                                            </p>
+                                        </div>
+                                        <a class="btn btn-primary" href="#"
+                                            style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;margin-top: 6%;">
+                                            LEER MÁS
+                                        </a>
 
                                 </div>
 
                             </div>
 
-                            <div class="discovery-tiles">
-
-                            <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
-                                    <div style="text-align:center">
-                                        <img 
-                                            src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
-                                            style="width: 25%;">
-                                    </div>
-                                    <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37;font-size: 150%;">Latin American Startups: 10 Women to Watch</h3>
-                                    </div>
-                                    <div style="margin-top:7%;">
-                                        <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
-                                    </div>
-                                    <div>
-                                        <p class="content-font">
-                                            From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
-                                        </p>
-                                    </div>
-                                    <a class="btn btn-primary" href="#"
-                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;margin-top: 6%;">
-                                        LEER MÁS
-                                    </a>
-
-                                </div>
-
-                            </div>
                         </div>
 
                     </div>
