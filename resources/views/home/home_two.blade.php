@@ -1077,10 +1077,7 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a class="btn btn-primary" href="#"
-                                        style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
-                                        LEER MÁS
-                                    </a>
+                                    <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
 
                                 </div>
 
@@ -1106,10 +1103,7 @@
                                                 alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
                                             </p>
                                         </div>
-                                        <a class="btn btn-primary" href="#"
-                                            style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;">
-                                            LEER MÁS
-                                        </a>
+                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
 
                                 </div>
 
@@ -1135,10 +1129,7 @@
                                                 From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                             </p>
                                         </div>
-                                        <a class="btn btn-primary" href="#"
-                                            style="width:50%;background-color: #ffff;color:#16adad;border-color:#16adad;border: #16adad 2px solid;margin-top: 6%;">
-                                            LEER MÁS
-                                        </a>
+                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
 
                                 </div>
 
