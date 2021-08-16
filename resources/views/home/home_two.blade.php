@@ -923,7 +923,7 @@
 
                     <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                         id="discover-recommendations">
-                        <div class="section-intro text-center row-space-6 row-space-top-8">
+                        <div class="text-center row-space-6 row-space-top-8">
                             <p class="text-lead">
                                 TESTIMONIOS
                             </p>
@@ -932,9 +932,9 @@
                             </h2>
                         </div>
 
-                        <div class="section-intro text-center row justify-content-around">
+                        <div class="text-center row justify-content-around mx-1">
                       
-                                <div class="discovery-tiles col-4">
+                                <div class="discovery-tiles col-12 col-md-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
@@ -966,7 +966,7 @@
 
                                 </div>
 
-                                <div class="discovery-tiles col-4">
+                                <div class="discovery-tiles col-12 col-md-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
@@ -998,7 +998,7 @@
 
                                 </div>
 
-                                <div class="discovery-tiles col-4">
+                                <div class="discovery-tiles col-12 col-md-4">
 
                                     <div class="shadow p-3 mb-5 bg-white rounded"
                                         style="float: left;">
