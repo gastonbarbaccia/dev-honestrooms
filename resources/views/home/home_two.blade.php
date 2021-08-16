@@ -1077,7 +1077,10 @@
                                             habitaciones para quienes hacen intercambios...
                                         </p>
                                     </div>
-                                    <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a class="btn btn-outline-primary" href="#">LEER MÁS</a>
+                                    </div>
+                                    
 
                                 </div>
 
