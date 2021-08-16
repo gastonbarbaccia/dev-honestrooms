@@ -1041,7 +1041,7 @@
 
                 <!-- Prensa INICIO -->
 
-                <div id="discovery-container" class="pad-sm-20" style="margin-left:-100%;margin-right:-100%">
+                <div id="discovery-container" class="pad-sm-20">
 
                     <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                         id="discover-recommendations">
@@ -1059,7 +1059,7 @@
                             <div class="discovery-tiles col-12 col-lg-4">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                    style="width: 10%;margin-left: 34%;float: left;border: #EDEDED 3px solid;">
+                                    style="border: #EDEDED 3px solid;">
                                     <div style="text-align:center">
                                         <img 
                                             src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
@@ -1089,7 +1089,7 @@
                             <div class="discovery-tiles col-12 col-lg-4">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                        style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
+                                        style="border: #EDEDED 3px solid;">
                                         <div style="text-align:center">
                                             <img 
                                                 src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
@@ -1118,7 +1118,7 @@
                             <div class="discovery-tiles col-12 col-lg-4">
 
                                 <div class="shadow-sm p-3 mb-5 bg-white rounded"
-                                        style="width: 10%;margin-left: 1%;float: left;border: #EDEDED 3px solid;">
+                                        style="border: #EDEDED 3px solid;">
                                         <div style="text-align:center">
                                             <img 
                                                 src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
