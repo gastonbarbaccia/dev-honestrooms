@@ -61,7 +61,7 @@
                                         </div>
                                     </div>
                                     <!--Comentado por defecto-->
-                                    <!-- <div class="container_mv0xzc-o_O-borderLeft_1ujj4hk-o_O-borderRight_1x9yfnn" style="width: 100%;">
+                     <div class="container_mv0xzc-o_O-borderLeft_1ujj4hk-o_O-borderRight_1x9yfnn" style="width: 100%;">
                       <div class="label_1om3jpt">{{ trans('messages.header.when') }}</div>
                       <div class="webcot-lg-datepicker webcot-lg-datepicker--jumbo">
                         <div class="dateRangePicker_e296pg-o_O-hidden_ajz5vs">
@@ -89,7 +89,7 @@
                             <div class="focusUnderline_7131v4">
 
                             </div>
-                          </div> --
+                          </div>
                            <div class="container_mv0xzc-o_O-borderLeft_1ujj4hk-o_O-borderRight_1x9yfnn" style="width: 100%;">
                       <div class="label_1om3jpt">{{ trans('messages.header.when') }}</div>
                       <div class="webcot-lg-datepicker webcot-lg-datepicker--jumbo">
@@ -122,7 +122,7 @@
                                 @endfor
                               </select>
                             </div>
-                          </div> -->
+                          </div>
                                     <div class="container_mv0xzc" style="width: 150px;">
                                         <!-- <div class="search_guest">
                                             <div class="label_1om3jpt col-md-12 padding_left"> {{ trans('messages.header.guest') }} </div>
