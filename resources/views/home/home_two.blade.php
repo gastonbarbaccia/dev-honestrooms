@@ -183,20 +183,6 @@
             </div>
             <!------------------------------- Fin mobile view header -------------------------------------->
 
-            <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
-                <ul class="home-menu">
-                    <li><a class="foryou current" href="{{ url('/') }}">{{ trans('messages.header.for_you') }}</a></li>
-                    <li><a class="homes"
-                            href="{{ url('/s?current_refinement=Homes') }}">{{ trans('messages.header.homes') }} </a>
-                    </li>
-                    {{--HostExperienceBladeCommentStart
-                       <li><a class="experiences" href="{{ url('/s?current_refinement=Experiences') }}">{{ trans('experiences.home.experiences') }}
-                    </a></li>
-                    HostExperienceBladeCommentEnd--}}
-                </ul>
-            </div>
-
-
             <!------------------------------- Validar que es -------------------------------------->
             <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider">
                 {{--HostExperienceBladeCommentStart
