@@ -31,8 +31,8 @@
                             <!-- react-empty: 18439 -->
                             <form action="{{ url('s') }}" class="simple-search" method="get" id="searchbar-form"
                                 name="simple-search">
-                                <div class="container_1tvwao0">
-                                    <div class="container_mv0xzc" style="width: 100%;">
+                                <div class="container_1tvwao0" style="width: 80% !important;">
+                                    <div class="container_mv0xzc" style="width: 100%;background-color:white">
                                         <div class="label_1om3jpt">{{ trans('messages.header.where') }}</div>
                                         <div class="largeGeocomplete_1g20x4k">
                                             <div class="container_gor68n">
