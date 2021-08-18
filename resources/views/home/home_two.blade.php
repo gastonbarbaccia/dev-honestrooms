@@ -393,7 +393,7 @@
                 </div>
                 <!-------------------------------- Fin de muestra de habitaciones ------------------------->
                  <!------------------------------ Nuestro diferencial INICIO ----------------------------->
-                 <link href="http://honestrooms-qa.herokuapp.com/public/css/custom.css" rel="stylesheet">
+                 <link href="http://honestrooms-qa.herokuapp.com/css/custom.css" rel="stylesheet">
 
                     <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                     id="discover-recommendations" ng-init="city_count=city_count-1 ;">
