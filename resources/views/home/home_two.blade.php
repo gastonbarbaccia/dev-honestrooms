@@ -487,40 +487,98 @@
               </div>
             HostExperienceBladeCommentEnd--}}
             <div class="discovery-section explore_community exploer_banner page-container-no-padding"
-                id="discover-recommendations" ng-init="city_count=city_count-1 ;">
-                <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
-                    <h2 class="row-space-1">
-                        <strong>{{ trans('messages.home.explore_world') }}</strong>
-                    </h2>
-                    <p class="text-lead">
-                        {{ trans('messages.home.explore_desc') }}
-                    </p>
-                </div>
+                    id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+                    <div class="section-intro text-center row-space-6 row-space-top-8"
+                        ng-if="home_city_explore.length!=0">
+                        <h2 class="row-space-1">
+                            <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
+                            How does it work?
+                        </h2>
+                        <p class="text-lead">
+                            {{ trans('messages.home.explore_desc') }}
+                        </p>
+                        <!--Se copia texto para ejemplo-->
+                        <p class="text-lead">
+                            Texto de ejemplo para la web
+                        </p>
+                    </div>
 
-                <div class="discovery-tiles">
-                    <div class="row">
-                        <div ng-repeat="explore in home_city_explore " ng-init="j=6;x=7">
-                            <div
-                                ng-class="$index % 10 == 0 || $index == j || $index == j+10 ? 'col-lg-8 col-md-6 col-sm-12 rm-padding-sm' : 'col-lg-4 col-md-6 col-sm-12 rm-padding-sm'">
-                                <div class="discovery-card rm-padding-sm row-space-4 darken-on-hover "
-                                    style="background-image:url('@{{ explore.image_url }}');">
-                                    <a href="@{{ explore.search_url }}" class="link-reset" data-hook="discovery-card">
-                                        <div class="va-container va-container-v va-container-h">
-                                            <div class="va-middle text-center text-contrast">
-                                                <div class="h2">
-                                                    <strong>
-                                                        @{{ explore.name }}
-                                                    </strong>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </a>
+                    <div class="discovery-tiles">
+                        <div class="row">                            
+                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/1.png">
+                                </div>
+                                <div>
+                                    <h4 style="color: #24A4BA">Search and choose safely</h4>
+                                </div>
+                                <div style="padding-left:5%;padding-right:5%">
+                                    <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam voluptatem
+                                        rerum
+                                        asperiores earum, maiores impedit accusamus nemo provident saepe laborum
+                                        nisi
+                                        quisquam? Culpa vero labore praesentium explicabo hic eligendi vel?
+                                    </p>
                                 </div>
                             </div>
+                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/2.png">
+                                </div>
+                                <div>
+                                    <h4 style="color: #24A4BA">Online booking</h4>
+                                </div>
+                                <div style="padding-left:5%;padding-right:5%">
+                                    <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis
+                                        veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae
+                                        asperiores,
+                                        odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/3.png">
+                                </div>
+                                <div>
+                                    <h4 style="color: #24A4BA">Confirmation and payment</h4>
+                                </div>
+                                <div style="padding-left:5%;padding-right:5%">
+                                    <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore
+                                        voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque
+                                        est
+                                        aperiam doloribus beatae distinctio similique vitae exercitationem!
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center">
+                                <div>
+                                    <img src="http://honestrooms.herokuapp.com/images/home/4.png">
+                                </div>
+                                <div>
+                                    <h4 style="color: #24A4BA">All ready to move in</h4>
+                                </div>
+                                <div style="padding-left:5%;padding-right:5%">
+                                    <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                        mollitia
+                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                    </p>
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
                 </div>
-            </div>
+
+                <div style="text-align:center;margin-top:4%">
+                    <a href="#" style="color:#24A4BA;text-decoration: none;">QUIERO SABER MÁS <i
+                            class="fa fa-angle-right" style="color:#24A4BA;padding-left:3px;"></i></a>
+                </div>
 
             <div class="col-lg-12 col-md-12 col-sm-12 our-community p-0">
                 <div class="row">
