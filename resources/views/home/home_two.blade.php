@@ -6,15 +6,21 @@
         <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
           <!------------------------------ Banner principal ------------------------------------->
             <div class="panel">
-                <div id="discovery-container" class="pad-sm-20" style="float:left;width:100%;">
-                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                <div id="discovery-container" class="pad-sm-20" style="float:left;width:100%;/* height: 100% !important; */background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg');height: 600px;width: 1500px;position: relative;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
                         <div class="no-mar-sm" style="margin-top: 94px;">
                             <div
                                 class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
-                                <h1 class="textHeader_8yxs9w"><span
-                                        class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4">{{ $site_name }}
-                                    </span><!-- react-text: 7341 --><br>
-                                    {{ trans('messages.home.desc') }}
+                                <h1 class="textHeader_8yxs9w" style="color:white !important;">
+                                    <span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4"
+                                        style="color:white !important;">
+                                        <!--{{ $site_name }}--> There is a room that awaits you.
+                                    </span>
+                                    <!-- react-text: 7341 -->
+                                    <br>
+                                    <div style="font-size:30px">
+                                        {{ trans('messages.home.desc') }}
+                                    </div>
                                     <!-- /react-text -->
                                 </h1>
                             </div>
@@ -191,7 +197,285 @@
 
 
             <!------------------------------- Validar que es -------------------------------------->
-            
+            <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider">
+                {{--HostExperienceBladeCommentStart
+                    @include('host_experiences.home_slider', ['title_text'=> trans('experiences.home.experiences'), 'see_all_link' => url('s?current_refinement=Experiences'),'category_id'=> 'all_exp' ])
+                    HostExperienceBladeCommentEnd--}}
+
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="reservation.length > 0">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl"
+                        style="padding:0px;     margin: 45px 0px 15px;">
+                        <h3 class="rowHeader pull-left">
+                            <!-- react-text: 38121 -->{{ trans('messages.header.justbooked') }}
+                            <!-- /react-text -->
+                        </h3>
+                        <div class="seeMoreContainer_11b8zgn pull-right">
+
+                            <a href="{{ url('s') }}" ng-if="reservation.length > 3">
+                                <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
+                                    <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span></span>
+                                    <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
+                                        style="fill: currentcolor; height: 10px; width: 10px;">
+                                        <path fill-rule="evenodd"
+                                            d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
+                                        </path>
+                                    </svg>
+                                </button></a>
+
+
+                        </div>
+                    </div>
+
+                    <div class="home-bx-slider1 col-md-12 col-lg-12 col-sm-12 col-xs-12 "
+                        style="position:relative;padding:0px;">
+
+                        <div class="owl-carousel cate1">
+                            <div class="cateimg" ng-repeat="fetch_data in reservation">
+
+                                <a href=" @{{ url+fetch_data.room_id }}">
+                                    <img ng-src="@{{ fetch_data.rooms.photo_name }} ">
+                                </a>
+
+                                <div class="panel-body panel-card-section">
+                                    <div class="media">
+                                        <div class="category_city hm_cate">
+                                            <span class="pull-left">@{{ fetch_data.rooms.room_type_name }}</span>
+                                            <!-- <span class="pull-left dot-cont">·</span>
+                                <span class="pull-left">@{{ fetch_data.rooms.beds }} @{{ fetch_data.rooms.bed_lang }}</span> -->
+                                        </div>
+
+                                        <a href=" @{{ url+fetch_data.room_id }}" target="listing_10001"
+                                            class="text-normal" style="text-decoration:none !important;">
+                                            <h3 title="@{{ fetch_data.rooms.name}}" itemprop="name"
+                                                class="h5 listing-name text-truncate row-space-top-1" style="width:95%;"
+                                                ng-if=" fetch_data.rooms.name">
+
+                                                @{{ fetch_data.rooms.name}}
+
+                                            </h3>
+                                        </a>
+                                        <div class="exp_price"><span ng-bind-html="fetch_data.currency.symbol"></span>
+                                            @{{ fetch_data.rooms.rooms_price.month }}
+                                            {{ trans("messages.service_host_rule.per_month") }}
+                                            <span ng-if="fetch_data.rooms.booking_type == 'instant_book'"> <i
+                                                    class="icon icon-instant-book icon-beach"></i></span>
+                                        </div>
+                                        <div itemprop="description"
+                                            class="pull-left text-muted rt_set listing-location text-truncate"><a
+                                                href=" @{{ url+fetch_data.room_id }}"
+                                                class="text-normal link-reset pull-left ">
+                                                <span class="pull-left"
+                                                    ng-bind-html="fetch_data.rooms.overall_star_rating">
+
+                                                </span>
+                                                <a href=" @{{ url+fetch_data.room_id }}">
+                                                    <span class="pull-left mr_mb" style="padding-left: 5px;">
+                                                        <span class="pull-left r-count ng-binding "
+                                                            ng-if="fetch_data.rooms.reviews_count > 0"
+                                                            style="font-size:15px;color:#555;">
+                                                            @{{ fetch_data.rooms.reviews_count }} </span>
+                                                        <span ng-if="fetch_data.rooms.overall_star_rating!=''"
+                                                            class="pull-left r-label ng-binding"
+                                                            style="font-size:12px;color:#555;">
+                                                            @{{ fetch_data.rooms.reviews_count_lang }}
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="recommented.length >0">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl "
+                        style="padding:0px;     margin: 45px 0px 15px;">
+                        <h3 class="rowHeader pull-left">
+                            <!-- react-text: 38121 -->{{ trans('messages.header.recommend') }}
+                            <!-- /react-text -->
+                        </h3>
+                        <div class="seeMoreContainer_11b8zgn pull-right">
+
+
+                            <a href="{{ url('s') }}" ng-if="recommented.length > 3"><button
+                                    class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
+
+                                    <span class="text_13lu1ne">
+                                        <span>{{ trans('messages.header.seeall') }}</span></span>
+
+
+                                    <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
+                                        style="fill: currentcolor; height: 10px; width: 10px;">
+                                        <path fill-rule="evenodd"
+                                            d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
+                                        </path>
+                                    </svg>
+                                </button></a>
+
+
+                        </div>
+                    </div>
+                    <div class="home-bx-slider1 col-md-12 col-lg-12 col-sm-12 col-xs-12 "
+                        style="position:relative;padding:0px;">
+
+                        <div class="owl-carousel cate2">
+
+                            <div class="cateimg" ng-repeat="reservation in recommented"><a
+                                    href=" @{{ url+reservation.id }}"><img ng-src="@{{ reservation.photo_name }}" /></a>
+
+                                <div class="panel-body panel-card-section">
+                                    <div class="media">
+                                        <div class="category_city hm_cate">
+                                            <span class="pull-left">@{{ reservation.room_type_name }}</span>
+                                            <!-- <span class="pull-left dot-cont">·</span>
+                              <span class="pull-left">@{{ reservation.beds }} @{{ reservation.bed_lang }}</span> -->
+                                        </div>
+                                        <a href=" @{{ url+reservation.id }}" target="listing_10001" class="text-normal"
+                                            style="text-decoration:none !important;">
+
+                                            <h3 title="@{{reservation.name}}" itemprop="name"
+                                                class="h5 listing-name text-truncate row-space-top-1 ng-binding"
+                                                style="width:95%;">
+                                                @{{ reservation.name}}
+                                            </h3>
+                                        </a>
+                                        <div class="exp_price">
+                                            <span
+                                                ng-bind-html="reservation.rooms_price.currency.symbol"></span>@{{ reservation.rooms_price.month }}
+                                            {{ trans("messages.service_host_rule.per_month") }}
+
+                                            <span ng-if="reservation.booking_type == 'instant_book'"> <i
+                                                    class="icon icon-instant-book icon-beach"></i></span>
+
+                                        </div>
+                                        <div itemprop="description"
+                                            class="rt_set pull-left text-muted listing-location text-truncate"><a
+                                                href="" class="text-normal link-reset pull-left">
+
+                                                <span class="pull-left">
+                                                    <span class="pull-left ng-binding"
+                                                        ng-bind-html="reservation.overall_star_rating">
+                                                    </span>
+                                                </span>
+
+                                                <span class="pull-left" style="padding-left: 5px;color:#555;">
+                                                    <a href=" @{{ url+reservation.id }}">
+                                                        <span ng-if="reservation.reviews_count > 0"
+                                                            class="pull-left r-count ng-binding"
+                                                            style="font-size:15px;color:#555;">
+                                                            @{{ reservation.reviews_count }}
+                                                        </span><span ng-if="reservation.overall_star_rating"
+                                                            class="pull-left r-label ng-binding" style="color:#555;">
+                                                            @{{ reservation.reviews_count_lang }}
+                                                        </span>
+                                                    </a>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 nwt_slid p-0" ng-if="most_viewed.length > 0">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 newsl"
+                        style="padding:0px;     margin: 45px 0px 15px;">
+                        <h3 class="rowHeader pull-left">
+                            <!-- react-text: 38121 -->{{ trans('messages.header.most_viewed') }}
+                            <!-- /react-text -->
+                        </h3>
+                        <div class="seeMoreContainer_11b8zgn pull-right">
+
+                            <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
+                                <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
+                                    <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
+                                    </span>
+                                    <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
+                                        style="fill: currentcolor; height: 10px; width: 10px;">
+                                        <path fill-rule="evenodd"
+                                            d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
+                                        </path>
+                                    </svg>
+                                </button>
+                            </a>
+
+                        </div>
+                    </div>
+
+                    <div class="home-bx-slider col-md-12 col-lg-12 col-sm-12 col-xs-12 "
+                        style="position:relative;padding:0px;">
+                        <div class="owl-carousel cate3">
+
+                            <div class="cateimg" ng-repeat="view_count in most_viewed"><a
+                                    href=" @{{ url+view_count.id }}"><img ng-src="@{{ view_count.photo_name}}" /></a>
+                                <div class="panel-body panel-card-section">
+                                    <div class="media">
+                                        <div class="category_city hm_cate">
+                                            <span class="pull-left">@{{ view_count.room_type_name }}</span>
+                                            <!--  <span class="pull-left dot-cont">·</span>
+                      <span class="pull-left">@{{ view_count.beds }} @{{ view_count.bed_lang }}</span> -->
+                                        </div>
+                                        <a href=" @{{ url+view_count.id }}" target="listing_10001" class="text-normal"
+                                            style="text-decoration:none !important;">
+
+                                            <h3 title="@{{view_count.name}}" itemprop="name"
+                                                class="h5 listing-name text-truncate row-space-top-1 ng-binding"
+                                                style="width:95%;">
+                                                @{{view_count.name}}
+                                            </h3>
+                                        </a>
+                                        <div class="exp_price">
+                                            <span ng-bind-html=" view_count.rooms_price.currency.symbol"></span>
+                                            @{{ view_count.rooms_price.month }}
+                                            {{ trans("messages.rooms.per_month") }}
+
+                                            <span ng-if="view_count.booking_type == 'instant_book'"> <i
+                                                    class="icon icon-instant-book icon-beach"></i></span>
+
+                                        </div>
+                                        <div itemprop="description"
+                                            class="rt_set pull-left text-muted listing-location text-truncate"><a
+                                                href="" class="text-normal link-reset pull-left">
+                                                <span class="pull-left">
+
+                                                    <span class="pull-left ng-binding"
+                                                        ng-bind-html=" view_count.overall_star_rating">
+
+                                                    </span>
+                                                </span>
+                                                <a href=" @{{ url+view_count.id }}">
+                                                    <span class="pull-left rw_view" style="padding-left: 5px; ">
+                                                        <span ng-if="view_count.reviews_count"
+                                                            class="pull-left r-count ng-binding"
+                                                            style="font-size:15px;color:#555;">
+                                                            @{{ view_count.reviews_count }}</span>
+                                                        <span ng-if="view_count.overall_star_rating"
+                                                            class="pull-left r-label ng-binding"
+                                                            style="font-size:12px;color:#555;">
+                                                            @{{ view_count.reviews_count_lang }}
+                                                        </span>
+                                                    </span>
+                                                </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
             <!------------------------------- Fin de Validar que es -------------------------------------->
             
             {{--HostExperienceBladeCommentStart
