@@ -37,6 +37,10 @@
     box-sizing: border-box
 }
 
+.set_location_error{
+    color:white;
+}
+
 @media (prefers-reduced-motion:no-preference) {
     :root {
         scroll-behavior: smooth
