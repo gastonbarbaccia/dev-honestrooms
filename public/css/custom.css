@@ -57,7 +57,7 @@ body {
 
 hr {
     margin: 1rem 0;
-    color: inherit;
+    color: #565a5c;
     background-color: currentColor;
     border: 0;
     opacity: .25
@@ -196,8 +196,8 @@ sup {
 }
 
 a {
-    color: #0d6efd;
-    text-decoration: underline
+    color: #565a5c;
+    text-decoration: auto;
 }
 
 a:hover {
