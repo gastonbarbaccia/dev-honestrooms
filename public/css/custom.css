@@ -32,7 +32,7 @@
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
 }
-/* 
+
 *, ::after, ::before {
     box-sizing: border-box
 }
@@ -2678,7 +2678,7 @@ textarea.form-control-lg {
 .input-group .form-control.is-invalid:focus, .input-group .form-select.is-invalid:focus, .was-validated .input-group .form-control:invalid:focus, .was-validated .input-group .form-select:invalid:focus {
     z-index: 3
 }
-
+/*
 .btn {
     display: inline-block;
     font-weight: 400;
