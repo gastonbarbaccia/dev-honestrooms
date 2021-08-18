@@ -629,7 +629,7 @@
                 <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
                  <!----------------------------------- Prensa INICIO ------------------------------------->
 
-                 <div id="discovery-container" class="pad-sm-20">
+                 <!-- <div id="discovery-container" class="pad-sm-20">
 
                     <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                         id="discover-recommendations">
@@ -729,7 +729,7 @@
                         </div>
 
                     </div>
-                    </div>
+                    </div> -->
 
 
                     <!--------------------------------- Prensa FIN ------------------------------------>
