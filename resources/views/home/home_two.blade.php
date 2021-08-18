@@ -183,7 +183,7 @@
             </div>
             <!------------------------------- Fin mobile view header -------------------------------------->
 
-  
+
             {{--HostExperienceBladeCommentStart
               <div ng-repeat="featured_category in featured_host_experience_categories">
                 <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0" id="lazy_load_slider" ng-if="featured_category.all_host_experiences_count > 0">
@@ -285,6 +285,7 @@
                             class="fa fa-angle-right" style="color:#24A4BA;padding-left:3px;"></i></a>
                 </div>
 
+                <!------------------------------ Muestra las habitaciones  ---------------------->
                 <div class="lazy-load-div1 lazy-load1 col-md-12 col-lg-12 col-sm-12 col-xs-12  p-0"
                     id="lazy_load_slider">
                     {{--HostExperienceBladeCommentStart
@@ -300,22 +301,7 @@
                             <div>
                                 <hr>
                             </div>
-                            <!-- <div class="seeMoreContainer_11b8zgn pull-right">
-
-                                <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
-                                    <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0">
-                                        <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
-                                        </span>
-                                        <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true"
-                                            focusable="false" style="fill: currentcolor; height: 10px; width: 10px;">
-                                            <path fill-rule="evenodd"
-                                                d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
-                                            </path>
-                                        </svg>
-                                    </button>
-                                </a>
-
-                            </div>-->
+                          
                         </div>
 
 
@@ -405,7 +391,349 @@
                     </div>
 
                 </div>
-            
+                <!-------------------------------- Fin de muestra de habitaciones ------------------------->
+                 <!------------------------------ Nuestro diferencial INICIO ----------------------------->
+                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+                    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+                    crossorigin="anonymous">
+
+                    <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                    id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+                    <div class="section-intro text-center row-space-6 row-space-top-8"
+                        ng-if="home_city_explore.length!=0">
+                        <p class="text-lead">
+                            PORQUÉ ELEGIRNOS
+                        </p>
+                        <h2 class="row-space-1">
+                            Nuestro diferencial
+                        </h2>
+                    </div>
+                    <div class="row d-flex justify-content-around">
+                    
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2 text-center" >
+                            
+                                <div class=" shadow mb-5 bg-white rounded p-3">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            
+                        </div>
+
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2 text-center" >
+                            
+                                <div class="shadow mb-5 bg-white rounded p-3">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            
+                        </div>
+
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2 text-center" >
+                            
+                                <div class="shadow mb-5 bg-white rounded p-3">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            
+                        </div>
+
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2 text-center" >
+                            
+                                <div class="shadow mb-5 bg-white rounded p-3">
+                                    <div>
+                                        <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h4>Lo que ves es lo que recibís</h4>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                            mollitia
+                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
+                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        </p>
+                                    </div>
+
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!------------------------------- Nuestro diferencial FIN --------------------------------->
+                <style>
+                .imgRedonda {
+                    /*width: 70px;*/
+                    height: 70px;
+                    border-radius: 150px;
+                }
+                </style>
+
+                <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
+                <div id="discovery-container" class="pad-sm-20" style="background-color:#E7E5E5;">
+
+                    <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                        id="discover-recommendations">
+                        <div class="text-center row-space-6 row-space-top-8">
+                            <p class="text-lead">
+                                TESTIMONIOS
+                            </p>
+                            <h2 class="row-space-1">
+                                Que opinan nuestros clientes
+                            </h2>
+                        </div>
+
+                        <div class="text-center row justify-content-around mx-1">
+                      
+                                <div class="discovery-tiles col-12 col-lg-4">
+
+                                    <div class="shadow p-3 mb-5 bg-white rounded"
+                                        style="float: left;">
+                                        <div style="text-align:center">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <div style="text-align:center;margin-left: 40%;">
+                                            <hr style="width:50px;">
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="discovery-tiles col-12 col-lg-4">
+
+                                    <div class="shadow p-3 mb-5 bg-white rounded"
+                                        style="float: left;">
+                                        <div style="text-align:center">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <div style="text-align:center;margin-left: 40%;">
+                                            <hr style="width:50px;">
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="discovery-tiles col-12 col-lg-4">
+
+                                    <div class="shadow p-3 mb-5 bg-white rounded"
+                                        style="float: left;">
+                                        <div style="text-align:center">
+                                            <img class="imgRedonda"
+                                                src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
+                                                mollitia
+                                                impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
+                                                iure,
+                                                dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
+                                                nisi!
+                                            </p>
+                                        </div>
+                                        <div style="text-align:center;margin-left: 40%;">
+                                            <hr style="width:50px;">
+                                        </div>
+                                        <p>
+                                            Jessica - Porto Alegre, Brasil
+                                        </p>
+
+                                    </div>
+
+                                </div>
+                                
+
+                            
+                        </div>
+                       
+                    </div>
+                </div>
+                <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
+                 <!----------------------------------- Prensa INICIO ------------------------------------->
+
+                 <div id="discovery-container" class="pad-sm-20">
+
+                    <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                        id="discover-recommendations">
+                        <div class="section-intro text-center row-space-6 row-space-top-8">
+                            <p class="text-lead">
+                                PRENSA
+                            </p>
+                            <h2 class="row-space-1">
+                                Que dicen los medios
+                            </h2>
+                        </div>
+
+                        <div class="text-center row justify-content-around mx-1">
+
+                            <div class="discovery-tiles col-12 col-lg-4">
+
+                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                    style="border: #EDEDED 3px solid;">
+                                    <div style="text-align:center">
+                                        <img 
+                                            src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                            style="width: 50%;">
+                                    </div>
+                                    <div style="margin-top:7%;font-weight: bold">
+                                        <h3 style="color:#EA0A37;font-size: 150%;">Una red para alojar extranjeros</h3>
+                                    </div>
+                                    <div style="margin-top:7%;">
+                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
+                                    </div>
+                                    <div>
+                                        <p class="content-font">
+                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
+                                            habitaciones para quienes hacen intercambios...
+                                        </p>
+                                    </div>
+                                    
+                                    <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+                                    
+                                    
+
+                                </div>
+
+                            </div>
+
+                            <div class="discovery-tiles col-12 col-lg-4">
+
+                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                        style="border: #EDEDED 3px solid;">
+                                        <div style="text-align:center">
+                                            <img 
+                                                src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
+                                                style="width: 20%;">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h3 style="color:#EA0A37;font-size: 150%;">Crece el negocio de los servicios para estudiantes</h3>
+                                        </div>
+                                        <div style="margin-top:7%;">
+                                            <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
+                                            </p>
+                                        </div>
+                                        <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+
+                                </div>
+
+                            </div>
+
+                            <div class="discovery-tiles col-12 col-lg-4">
+
+                                <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                        style="border: #EDEDED 3px solid;">
+                                        <div style="text-align:center">
+                                            <img 
+                                                src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
+                                                style="width: 25%;">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h3 style="color:#EA0A37;font-size: 150%;">Latin American Startups: 10 Women to Watch</h3>
+                                        </div>
+                                        <div style="margin-top:7%;">
+                                            <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
+                                        </div>
+                                        <div>
+                                            <p class="content-font">
+                                                From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
+                                            </p>
+                                        </div>
+                                        <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    </div>
+
+
+                    <!--------------------------------- Prensa FIN ------------------------------------>
+        
         </div>
       </div>
 
