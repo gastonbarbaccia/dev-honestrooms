@@ -509,7 +509,7 @@
                 <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
 
                 
-                    <div id="discovery-container" class="pad-sm-20" style="background-color:#E7E5E5;">
+                    <div id="discovery-container" class="pad-sm-20" style="">
 
                         <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                             id="discover-recommendations">
@@ -626,6 +626,14 @@
                         
                         </div>
                     </div>
+
+                    <style>
+                        .fondoGris {
+                            width: 100%;
+                            background-color:#E7E5E5;
+                            
+                        }
+                    </style>
 
 
                 <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
