@@ -508,9 +508,8 @@
 
                 <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
 
-                <div class="jumbotron">
-
-                    <div id="discovery-container container" class="pad-sm-20" style="background-color:#E7E5E5;">
+                
+                    <div id="discovery-container" class="pad-sm-20" style="background-color:#E7E5E5;">
 
                         <div class="discovery-section explore_community exploer_banner page-container-no-padding"
                             id="discover-recommendations">
@@ -628,7 +627,6 @@
                         </div>
                     </div>
 
-                </div>
 
                 <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
                  <!----------------------------------- Prensa INICIO ------------------------------------->
