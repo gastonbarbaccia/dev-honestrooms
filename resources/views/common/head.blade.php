@@ -305,7 +305,11 @@
 
       <meta name="theme-color" content="#f5f5f5">
 
-
+      <!-- Se agrega fuente SPARTAN 
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@200;400;600;800&display=swap" rel="stylesheet">
+      -->
     </head>
 
     <body class="{{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home_view v2 simple-header p1' : '') : '' }} {{ (!isset($exception)) ? (@$default_home != 'two' ? 'home-one' : '') : '' }} {{(!isset($exception)) ? (@Route::current()->uri() == 's' ? 'search_page' : '') : ''}}" ng-app="App">

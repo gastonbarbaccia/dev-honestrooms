@@ -2,6 +2,12 @@
 
 @section('main')
 <main>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;400;600;800&display=swap');
+*{
+    font-family: 'Spartan', sans-serif;
+};
+</style>
     <div class="whole-section sect_home" ng-controller="home_owl" ng-cloak>
         <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
           <!------------------------------ Banner principal ------------------------------------->
