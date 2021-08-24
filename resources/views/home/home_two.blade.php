@@ -236,14 +236,11 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/2.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Online booking</h4>
+                                    <h4 style="color: #24A4BA">Reservá online</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et autem officiis
-                                        veritatis ipsam ut ducimus a laborum qui, voluptate quisquam quae
-                                        asperiores,
-                                        odio vel sed, quaerat soluta nesciunt. Corporis, consectetur.
+                                    Una vez que hagas la consulta de reserva, el propietario tendrá hasta 24hs para confirmar la solicitud. Podran hablar a través de nuestra plataforma para despejar dudas.    
                                     </p>
                                 </div>
                             </div>
@@ -252,14 +249,11 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/3.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Confirmation and payment</h4>
+                                    <h4 style="color: #24A4BA">Confirmación y pago</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quam tempore
-                                        voluptate vel odit quasi repellendus fugiat modi? Corporis a quaerat itaque
-                                        est
-                                        aperiam doloribus beatae distinctio similique vitae exercitationem!
+                                        Ni bien el propietario acepte tu reserva podrás realizar el apgo a través de Mercado Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu mudanza.    
                                     </p>
                                 </div>
                             </div>
@@ -268,14 +262,11 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/4.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">All ready to move in</h4>
+                                    <h4 style="color: #24A4BA">Todo listo para mudarte</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                        ¡Llegó el dia! Ya tenes un nuevo hogar y llegaste al comienzo de tu estadía en esta hermosa ciudad. Te recibirá tu anfitrión y realizarán la firma online del contrato.   
                                     </p>
                                 </div>
                             </div>
@@ -423,10 +414,7 @@
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                            Podés confiar en las fotos que te mostramos porque fuimos a tomarlas nosotros. Ademas todas las casas ofrecidas están chequeadas personalmente por nuestros profesionales.    
                                         </p>
                                     </div>
 
@@ -441,14 +429,11 @@
                                         <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h4>Lo que ves es lo que recibís</h4>
+                                        <h4>Garantía 24hs. Reality Check</h4>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                            Si en las primeras 24 horas que llegaste hay algo que no coincide con las fotos o con las descripciones que viste y no te queres quedar ¡No te preocupes! Nos avisás y te devolvemos el dinero de la reserva. Super fácil, cero riesgos.
                                         </p>
                                     </div>
 
@@ -463,14 +448,11 @@
                                         <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h4>Lo que ves es lo que recibís</h4>
+                                        <h4>Impacto positivo por dónde lo mires</h4>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                            Mientras vos alquilás una habitación segura y verificada, generás oportunidades para que más mujeres mayores generen un ingreso genuino alquilándote a vos ese cuarto extra que tienen en sus casas.
                                         </p>
                                     </div>
 
@@ -485,14 +467,11 @@
                                         <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                     </div>
                                     <div style="margin-top:7%;font-weight: bold">
-                                        <h4>Lo que ves es lo que recibís</h4>
+                                        <h4>Somos el intermediario</h4>
                                     </div>
                                     <div>
                                         <p class="content-font">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                            mollitia
-                                            impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero iure,
-                                            dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum nisi!
+                                            Cuidamos cada detalle de tu estadía. En caso de que tengas algún problema con tu host vamos a estar ahí para ayudar a resolver cualquier conflicto y evitar asperezas entre quienes conviven.
                                         </p>
                                     </div>
 
