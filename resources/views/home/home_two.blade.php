@@ -6,6 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Spartan:wght@200;400;600;800&display=swap');
 *{
     font-family: 'Lato', sans-serif;
+    
+    
 };
 </style>
     <div class="whole-section sect_home" ng-controller="home_owl" ng-cloak>
@@ -221,15 +223,11 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/1.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Search and choose safely</h4>
+                                    <h4 style="color: #24A4BA ; font-weight: 700;">Buscá y elegí con seguridad</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam voluptatem
-                                        rerum
-                                        asperiores earum, maiores impedit accusamus nemo provident saepe laborum
-                                        nisi
-                                        quisquam? Culpa vero labore praesentium explicabo hic eligendi vel?
+                                        Sabemos que lo primero antes de tomar una decision es informarse, por eso te acercamos descripciones detalladas tanto de la propiedad como del barrio.
                                     </p>
                                 </div>
                             </div>
