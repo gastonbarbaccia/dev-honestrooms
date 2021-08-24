@@ -253,7 +253,7 @@
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
-                                        Ni bien el propietario acepte tu reserva podrás realizar el apgo a través de Mercado Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu mudanza.    
+                                        Ni bien el propietario acepte tu reserva podrás realizar el pago a través de Mercado Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu mudanza.    
                                     </p>
                                 </div>
                             </div>
