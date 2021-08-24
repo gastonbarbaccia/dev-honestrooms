@@ -236,7 +236,7 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/2.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Reservá online</h4>
+                                    <h4 style="color: #24A4BA ; font-weight: 700;">Reservá online</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
@@ -249,7 +249,7 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/3.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Confirmación y pago</h4>
+                                    <h4 style="color: #24A4BA; font-weight: 700;">Confirmación y pago</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
@@ -262,7 +262,7 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/4.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA">Todo listo para mudarte</h4>
+                                    <h4 style="color: #24A4BA; font-weight: 700;">Todo listo para mudarte</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
                                     <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
