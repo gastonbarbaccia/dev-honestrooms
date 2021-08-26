@@ -183,14 +183,11 @@
                 <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
                     <h2 class="row-space-1">
                         <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
-                        How does it work?
+                        ¿Cómo funciona?
                     </h2>
                     <p class="text-lead">
-                        {{ trans('messages.home.explore_desc') }}
-                    </p>
-                    <!--Se copia texto para ejemplo-->
-                    <p class="text-lead">
-                        Texto de ejemplo para la web
+                       <!--  {{ trans('messages.home.explore_desc') }} -->
+                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis nostrum totam temporibus harum optio quia molestias iste itaque, praesentium magni nobis fugiat.
                     </p>
                 </div>
 
@@ -486,9 +483,6 @@
                                 <div style="text-align:center">
                                     <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/1_user.png">
                                 </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
                                 <div>
                                     <p class="content-font" >
                                         ¡Hola! Soy Jessica, vine hace unos meses de Brasil para estudiar medicina en la UBA. Cuando llegué a Buenos Aires me costó mucho encontrar un lugar donde hospedarme que no se aprovechase de mi escaso conocimiento sobre los precios de renta en la ciudad.
@@ -511,9 +505,6 @@
                                 <div style="text-align:center">
                                     <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/2_user.png">
                                 </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
                                 <div>
                                     <p class="content-font" style="padding-bottom: 7%;">
                                         Llegué a Sparer Rooms Buenos Aires por Google, me contacté con ellas y me dieron la seguridad que necesitaba. La habitacion no es para mí, si no para Mati, mi hijo que el mes que viene se va a estudiar Kinesiología a Buenos Aires.
@@ -535,9 +526,6 @@
                             <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
                                 <div style="text-align:center">
                                     <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/3_user.png">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
                                     <p class="content-font" style="padding-bottom: 7%;">
