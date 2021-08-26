@@ -10,7 +10,6 @@
 
 
         }
-
     </style>
 
 
@@ -360,7 +359,6 @@
                 </div>
 
                 <style>
-
                     #eye:hover {
                         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
                     }
@@ -381,7 +379,7 @@
 
                     <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="eye">
 
-                        <div class=" mb-5 bg-white rounded p-3" >
+                        <div class=" mb-5 bg-white rounded p-3">
                             <div>
                                 <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                             </div>
@@ -493,12 +491,7 @@
                                 </div>
                                 <div>
                                     <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
-                                        iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
-                                        nisi!
+                                        ¡Hola! Soy Jessica, vine hace unos meses de Brasil para estudiar medicina en la UBA. Cuando llegué a Buenos Aires me costó mucho encontrar un lugar donde hospedarme que no se aprovechase de mi escaso conocimiento sobre los precios de renta en la ciudad.
                                     </p>
                                 </div>
                                 <div style="text-align:center;margin-left: 40%;">
@@ -523,19 +516,14 @@
                                 </div>
                                 <div>
                                     <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
-                                        iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
-                                        nisi!
+                                        Llegué a Sparer Rooms Buenos Aires por Google, me contacté con ellas y me dieron la seguridad que necesitaba. La habitacion no es para mí, si no para Mati, mi hijo que el mes que viene se va a estudiar Kinesiología a Buenos Aires.
                                     </p>
                                 </div>
                                 <div style="text-align:center;margin-left: 40%;">
                                     <hr style="width:50px;">
                                 </div>
                                 <p>
-                                    Jessica - Porto Alegre, Brasil
+                                    Patricia - Bahia Blanca, Argentina
                                 </p>
 
                             </div>
@@ -553,19 +541,14 @@
                                 </div>
                                 <div>
                                     <p class="content-font">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perspiciatis
-                                        mollitia
-                                        impedit quo sed praesentium aspernatur, cupiditate voluptatibus vero
-                                        iure,
-                                        dolore voluptate totam quas quidem autem ullam quisquam fugiat, illum
-                                        nisi!
+                                        Vine hace 3 meses de París (Francia) para hacer un cuatrimestre de intercambio en la Universidad de Buenos Aires. Siempre quise conocer esta ciudad y cada vez la amo más. Pude dar con gente increíble y súper amable como Graciela.
                                     </p>
                                 </div>
                                 <div style="text-align:center;margin-left: 40%;">
                                     <hr style="width:50px;">
                                 </div>
                                 <p>
-                                    Jessica - Porto Alegre, Brasil
+                                    Esteban - París, Francia
                                 </p>
 
                             </div>
@@ -649,7 +632,7 @@
                                         alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
                                     </p>
                                 </div>
-                                <a class="btn btn-outline-primary w-50" href="#"  style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
+                                <a class="btn btn-outline-primary w-50" href="#" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
                             </div>
 
@@ -672,7 +655,7 @@
                                         From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                     </p>
                                 </div>
-                                <a class="btn btn-outline-primary w-50" href="#"  style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
+                                <a class="btn btn-outline-primary w-50" href="#" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
                             </div>
 
