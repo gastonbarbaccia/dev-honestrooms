@@ -468,7 +468,7 @@
             <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
 
 
-            <div id="discovery-container " class="pad-sm-20 fondoGris">
+            <div id="discovery-container " class="pad-sm-20 fondoGris" style="margin-top:5%">
 
                 <div class="discovery-section explore_community exploer_banner page-container-no-padding" id="discover-recommendations">
                     <div class="text-center row-space-6 row-space-top-8">
