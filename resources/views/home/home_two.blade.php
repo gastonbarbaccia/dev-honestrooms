@@ -10,11 +10,14 @@
     
 };
 
-.ggb-shadow:hover {
+#eye:hover  {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important
 }
 
+
 </style>
+
+
     <div class="whole-section sect_home" ng-controller="home_owl" ng-cloak>
         <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
           <!------------------------------ Banner principal ------------------------------------->
@@ -410,7 +413,7 @@
                     
                         <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" >
                             
-                                <div class="mb-5 bg-white rounded p-3 ggb-shadow">
+                                <div class=" mb-5 bg-white rounded p-3" id="eye">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                                     </div>
@@ -427,9 +430,9 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" >
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="check">
                             
-                                <div class="shadow mb-5 bg-white rounded p-3">
+                                <div class=" mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
                                     </div>
@@ -446,9 +449,9 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" >
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="heart">
                             
-                                <div class="shadow mb-5 bg-white rounded p-3">
+                                <div class=" mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
                                     </div>
@@ -465,9 +468,9 @@
                             
                         </div>
 
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" >
+                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="people">
                             
-                                <div class="shadow mb-5 bg-white rounded p-3">
+                                <div class=" mb-5 bg-white rounded p-3">
                                     <div>
                                         <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
                                     </div>
