@@ -277,7 +277,7 @@
 
 
                     <div class="home-bx-slider col-md-12 col-lg-12 col-sm-12 col-xs-12 " style="position:relative;padding:0px;">
-                        <div class="owl-carousel cate3" style="width:240px;">
+                        <div class="owl-carousel cate3" style="width:240px; ">
 
                             <div class="cateimg" ng-repeat="view_count in most_viewed"><a href=" @{{ url+view_count.id }}"><img ng-src="@{{ view_count.photo_name}}" /></a>
                                 <div class="panel-body" style="padding: 5px 0;height:80px;">
