@@ -185,9 +185,10 @@
                         <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
                         ¿Cómo funciona?
                     </h2>
-                    <p class="text-lead">
+                    <p class="text-lead" style="text-align: center;padding-left: 20%;padding-right: 20%;">
                        <!--  {{ trans('messages.home.explore_desc') }} -->
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis nostrum totam temporibus harum optio quia molestias iste itaque, praesentium magni nobis fugiat.
+                       Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
+                       Omnis nostrum totam temporibus harum optio quia molestias iste itaque.
                     </p>
                 </div>
 
