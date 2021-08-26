@@ -490,7 +490,7 @@
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
-                                    <p class="content-font">
+                                    <p class="content-font" >
                                         ¡Hola! Soy Jessica, vine hace unos meses de Brasil para estudiar medicina en la UBA. Cuando llegué a Buenos Aires me costó mucho encontrar un lugar donde hospedarme que no se aprovechase de mi escaso conocimiento sobre los precios de renta en la ciudad.
                                     </p>
                                 </div>
@@ -515,7 +515,7 @@
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
-                                    <p class="content-font">
+                                    <p class="content-font" style="padding-bottom: 7%;">
                                         Llegué a Sparer Rooms Buenos Aires por Google, me contacté con ellas y me dieron la seguridad que necesitaba. La habitacion no es para mí, si no para Mati, mi hijo que el mes que viene se va a estudiar Kinesiología a Buenos Aires.
                                     </p>
                                 </div>
@@ -540,7 +540,7 @@
                                     <h4>Lo que ves es lo que recibís</h4>
                                 </div>
                                 <div>
-                                    <p class="content-font">
+                                    <p class="content-font" style="padding-bottom: 7%;">
                                         Vine hace 3 meses de París (Francia) para hacer un cuatrimestre de intercambio en la Universidad de Buenos Aires. Siempre quise conocer esta ciudad y cada vez la amo más. Pude dar con gente increíble y súper amable como Graciela.
                                     </p>
                                 </div>
