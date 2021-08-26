@@ -360,7 +360,20 @@
                 </div>
 
                 <style>
+
                     #eye:hover {
+                        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                    }
+
+                    #check:hover {
+                        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                    }
+
+                    #heart:hover {
+                        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                    }
+
+                    #people:hover {
                         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
                     }
                 </style>
