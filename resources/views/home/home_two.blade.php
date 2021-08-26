@@ -187,8 +187,10 @@
                     </h2>
                     <p class="text-lead" style="text-align: center;padding-left: 20%;padding-right: 20%;">
                        <!--  {{ trans('messages.home.explore_desc') }} -->
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
-                       Omnis nostrum totam temporibus harum optio quia molestias iste itaque.
+
+                       Omnis nostrum totam temporibus harum optio quia molestias iste itaque.<br>
+                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                       
                     </p>
                 </div>
 
