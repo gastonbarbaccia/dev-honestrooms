@@ -417,7 +417,7 @@
 
                     </div>
 
-                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="heart">
+                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="heart" style="margin-top:2%">
 
                         <div class=" mb-5 bg-white rounded p-3">
                             <div>
@@ -436,7 +436,7 @@
 
                     </div>
 
-                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="people">
+                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="people" style="margin-top:2%">
 
                         <div class=" mb-5 bg-white rounded p-3">
                             <div>
