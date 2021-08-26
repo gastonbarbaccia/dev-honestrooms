@@ -486,7 +486,7 @@
 
                             <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
                                 <div style="text-align:center">
-                                    <img class="imgRedonda" src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/1_user.png">
                                 </div>
                                 <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
@@ -516,7 +516,7 @@
 
                             <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
                                 <div style="text-align:center">
-                                    <img class="imgRedonda" src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/2_user.png">
                                 </div>
                                 <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
@@ -546,7 +546,7 @@
 
                             <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
                                 <div style="text-align:center">
-                                    <img class="imgRedonda" src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                    <img class="imgRedonda" src="http://honestrooms-qa.herokuapp.com/images/home/3_user.png">
                                 </div>
                                 <div style="margin-top:7%;font-weight: bold">
                                     <h4>Lo que ves es lo que recibís</h4>
