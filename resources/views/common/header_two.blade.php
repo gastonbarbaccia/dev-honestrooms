@@ -429,7 +429,7 @@
   </a>-->
 
     <a aria-label="Homepage"
-        style="background-image: url('http://honestrooms.herokuapp.com/images/logos/sparerooms.png'); position: absolute;height: 100px !important;width: 300px !important;margin-top: -30px;"
+        style="background-image: url('http://honestrooms-qa.herokuapp.com/images/logos/sparerooms.png'); position: absolute;height: 100px !important;width: 300px !important;margin-top: -30px;"
         href="{{ url('/') }}"
         class="header-belo header-logo pull-left {{ (!isset($exception)) ? (Route::current()->uri() == '/' ? 'home-logo' : '') : '' }}">
         <span class="screen-reader-only">
