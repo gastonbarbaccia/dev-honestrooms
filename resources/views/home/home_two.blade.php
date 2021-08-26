@@ -379,9 +379,9 @@
                 </style>
                 <div class="row d-flex justify-content-around">
 
-                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2">
+                    <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="eye">
 
-                        <div class=" mb-5 bg-white rounded p-3" id="eye">
+                        <div class=" mb-5 bg-white rounded p-3" >
                             <div>
                                 <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
                             </div>
