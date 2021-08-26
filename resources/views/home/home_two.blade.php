@@ -624,7 +624,7 @@
                                     </p>
                                 </div>
 
-                                <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+                                <a class="btn btn-outline-primary w-50" href="#" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
 
 
@@ -649,7 +649,7 @@
                                         alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que ofrecen las empresas dedicadas al rubro "Study Abroad".
                                     </p>
                                 </div>
-                                <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+                                <a class="btn btn-outline-primary w-50" href="#"  style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
                             </div>
 
@@ -672,7 +672,7 @@
                                         From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                     </p>
                                 </div>
-                                <a class="btn btn-outline-primary w-50" href="#">LEER MÁS</a>
+                                <a class="btn btn-outline-primary w-50" href="#"  style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
                             </div>
 
