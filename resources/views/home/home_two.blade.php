@@ -464,7 +464,7 @@
             </style>
 
             <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
-
+        </div>
 
             <div id="discovery-container " class="pad-sm-20 fondoGris" style="margin-top:5%">
 
@@ -561,8 +561,8 @@
                 }
             </style>
 
-
             <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
+        <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
             <!----------------------------------- Prensa INICIO ------------------------------------->
 
             <div id="discovery-container" class="pad-sm-20">
