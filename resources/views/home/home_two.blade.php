@@ -479,7 +479,7 @@
                         </h2>
                     </div>
 
-                    <div class="text-center row justify-content-around mx-1">
+                    <div class="text-center row justify-content-around mx-0 mx-md-5">
 
                         <div class="discovery-tiles col-12 col-lg-4">
 
