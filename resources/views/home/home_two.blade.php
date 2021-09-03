@@ -180,7 +180,7 @@
                 </div>
               </div>
             HostExperienceBladeCommentEnd--}}
-            <div class="discovery-section explore_community exploer_banner page-container-no-padding" id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+            <div class="discovery-section explore_community exploer_banner page-container-no-padding mt-0 mt-md-5" id="discover-recommendations" ng-init="city_count=city_count-1 ;">
                 <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
                     <h2 class="row-space-1">
                         <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
