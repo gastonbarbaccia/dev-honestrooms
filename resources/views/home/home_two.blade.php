@@ -212,7 +212,7 @@
                 <div style="text-align:center;margin-top:4%;font-size:20px">
                     <a class="btn btn-outline-primary w-50"
                         href="s?min_price=94&max_price=7013&room_type=&current_refinement=Homes&property_type=&amenities=&services_offer=&checkin=&checkout=&guests=1&private_bathrooms=&shared_bathrooms=&page=1&instant_book=undefined&php_date_format=d/m/Y"
-                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">VER PROPIEDADES</a>
+                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;text-decoration: none">VER PROPIEDADES</a>
                 </div>
 
 
