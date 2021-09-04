@@ -125,15 +125,7 @@
                                             esto mismo les ofrecemos la posibilidad de hablar a través de nuestra
                                             plataforma.
                                         </p>
-                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
-                                            A) ¿Qué estas pagando?
-                                        </div>
-                                        <br>
-                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                            El pago inicial incluye una comisión por única vez (Concierge Fee) por el
-                                            seguimiento personalizado que te brindamos y un proporcional por el primer mes
-                                            de alquiler.
-                                        </p>
+
                                     </div>
                                 </div>
                             </div>
@@ -153,6 +145,15 @@
                                             Ni bien el propietario acepte tu reserva podrás realizar el pago de la misma a
                                             través de Mercado Pago o PayPal y te pondremos en contacto con tu anfitrión para
                                             que arreglen el horario de tu mudanza.
+                                        </p>
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                            A) ¿Qué estas pagando?
+                                        </div>
+                                        <br>
+                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
+                                            El pago inicial incluye una comisión por única vez (Concierge Fee) por el
+                                            seguimiento personalizado que te brindamos y un proporcional por el primer mes
+                                            de alquiler.
                                         </p>
                                     </div>
                                 </div>
