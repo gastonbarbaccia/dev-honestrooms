@@ -97,7 +97,7 @@
                                             encontras con ninguna sorpresa.
                                         </p>
                                         <br>
-                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
                                             B) Vos decidís
                                         </div>
                                         <br>
