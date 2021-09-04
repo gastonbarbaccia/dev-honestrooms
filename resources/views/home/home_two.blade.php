@@ -210,8 +210,9 @@
                 </div>
 
                 <div style="text-align:center;margin-top:4%;font-size:20px">
-                    <a href="s?min_price=94&max_price=7013&room_type=&current_refinement=Homes&property_type=&amenities=&services_offer=&checkin=&checkout=&guests=1&private_bathrooms=&shared_bathrooms=&page=1&instant_book=undefined&php_date_format=d/m/Y" style="color:#24A4BA;text-decoration: none;">VER PROPIEDADES <i class="fa fa-angle-right"
-                            style="color:#24A4BA;padding-left:3px;"></i></a>
+                    <a class="btn btn-outline-primary w-50"
+                        href="s?min_price=94&max_price=7013&room_type=&current_refinement=Homes&property_type=&amenities=&services_offer=&checkin=&checkout=&guests=1&private_bathrooms=&shared_bathrooms=&page=1&instant_book=undefined&php_date_format=d/m/Y"
+                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">VER PROPIEDADES</a>
                 </div>
 
 
