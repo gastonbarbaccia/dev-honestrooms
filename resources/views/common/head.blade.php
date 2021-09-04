@@ -299,7 +299,22 @@
 
       @endif
       <link rel="search" type="application/opensearchdescription+xml" href="#" title="">
+
+      <!-- Titulo de prueba para como funcion -->
+      @if (Route::current()->uri() == 'how_it_works')
+      
+      <title>How it works </title>
+
+      @elseif(Route::current()->uri() == 'become_a_host')
+
+      <title>Become a host </title>
+
+      @else
+
       <title>{{ $title or Helpers::meta((!isset($exception)) ? Route::current()->uri() : '', 'title') }} {{ $additional_title or '' }}</title>
+      
+      @endif
+
       <meta name="description" content="{{ Helpers::meta((!isset($exception)) ? Route::current()->uri() : '', 'description') }}">
       <meta name="mobile-web-app-capable" content="yes">
 
