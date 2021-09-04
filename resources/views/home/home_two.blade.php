@@ -91,7 +91,7 @@
                                             A) Chequeamos las propiedades
                                         </div>
                                         <br>
-                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
                                             Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
                                             visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
                                             encontras con ninguna sorpresa.
@@ -100,7 +100,8 @@
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
                                             B) Vos decidís
                                         </div>
-                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                        <br>
+                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
                                             Todas las habitaciones son privadas, en caso de que quieras compartirla con
                                             alguien podés pero eso es algo que elegís vos.
                                         </p>
@@ -116,7 +117,7 @@
                                         <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online</h4>
                                     </div>
                                     <div style="text-align: left;">
-                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
                                             Una vez que hagas la consulta de reserva, el propietario tendrá hasta 24hs para
                                             confirmar la solicitud. Podran hablar a través de nuestra plataforma para
                                             despejar
