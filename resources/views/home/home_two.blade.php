@@ -649,7 +649,6 @@
                                         From founders launching their first venture to facilitators and inverstors, here are 10 women you should watch.
                                     </p>
                                 </div>
-                                <br>
                                 <a class="btn btn-outline-primary w-50" href="#" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
 
                             </div>
