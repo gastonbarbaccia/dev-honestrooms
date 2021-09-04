@@ -53,7 +53,7 @@ $('.home-menu .experiences').click(function() {
    slideWidth: 320,
    slideMargin: 20,
    moveSlides: 1,
-   onSliderLoad: function() {
+   onSliderLoad: function() { 
      setTimeout(function() {
        $("#lazy_load_slider").removeClass('lazy-load');
      }, 2000);
