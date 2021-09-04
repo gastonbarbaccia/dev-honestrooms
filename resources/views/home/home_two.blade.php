@@ -177,7 +177,7 @@
                                             contrato. El pago de lo que resta del mes (porque ya pagaste un proporcional con
                                             la reserva) y del depósito sera con ella en efectivo.
                                         </p>
-                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
                                             A) Pago del mes
                                         </div>
                                         <br>
@@ -213,7 +213,7 @@
                 <div style="text-align:center;margin-top:4%;font-size:20px">
                     <a class="btn btn-outline-primary w-50"
                         href="s?min_price=94&max_price=7013&room_type=&current_refinement=Homes&property_type=&amenities=&services_offer=&checkin=&checkout=&guests=1&private_bathrooms=&shared_bathrooms=&page=1&instant_book=undefined&php_date_format=d/m/Y"
-                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;text-decoration: none">VER PROPIEDADES</a>
+                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;text-decoration: none;width:30% !important">VER PROPIEDADES</a>
                 </div>
 
 
