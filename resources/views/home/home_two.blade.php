@@ -73,7 +73,7 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
                                 <div style="width: 40%;float:left">
-                                    <img src="http://honestrooms.herokuapp.com/images/home/1.png">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="margin-left: 40%;">
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
@@ -90,7 +90,7 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
                                 <div style="width: 40%;float:left">
-                                    <img src="http://honestrooms.herokuapp.com/images/home/2.png">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/2.png" style="margin-left: 40%;">
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
@@ -108,7 +108,7 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
                                 <div style="width: 40%;float:left">
-                                    <img src="http://honestrooms.herokuapp.com/images/home/3.png">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/3.png" style="margin-left: 40%;">
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
@@ -127,7 +127,7 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
                                 <div style="width: 40%;float:left">
-                                    <img src="http://honestrooms.herokuapp.com/images/home/4.png">
+                                    <img src="http://honestrooms.herokuapp.com/images/home/4.png" style="margin-left: 40%;">
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
