@@ -18,7 +18,7 @@
             <!------------------------------ Banner principal ------------------------------------->
             <div class="panel">
                 <div id="discovery-container" class="pad-sm-20 mt-5" style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg') ;*/ height: 600px;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
-                <img src="http://honestrooms-qa.herokuapp.com/images/home/banner.jpg" alt="" class="my-5 mt-md-0" style="position: absolute; left: 0; width: 100%; height: 600px; object-fit: cover;object-position: top;">
+                <img src="http://honestrooms-qa.herokuapp.com/images/home/banner.jpg" alt="" class="my-5 mt-md-0" style="position: absolute; left: 0; width: 100%; height: 400px; object-fit: cover;">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
                         <div class="no-mar-sm" style="margin-top: 94px;">
                             <div class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
@@ -36,58 +36,6 @@
                             </div>
                         </div>
                     </div>
-                    {{-- <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 hide-sm">
-                        <div class="container_e4p5a8">
-                            <!-- react-empty: 18439 -->
-                            <form action="{{ url('s') }}" class="simple-search" method="get" id="searchbar-form" name="simple-search">
-                                <div class="container_1tvwao0" style="width: 80% !important;">
-                                    <div class="container_mv0xzc" style="width: 100%;background-color:white">
-                                        <div class="label_1om3jpt">{{ trans('messages.header.where') }}</div>
-                                        <div class="largeGeocomplete_1g20x4k">
-                                            <div class="container_gor68n">
-                                                <div>
-                                                    <div class="container_e296pg">
-                                                        <div class="container_36rlri-o_O-block_r99te6">
-                                                            <label class="label_hidden_1m8bb6v">{{ trans('messages.header.where') }}</label>
-                                                            <div class="container_ssgg6h-o_O-container_noMargins_18e9acw-o_O-borderless_mflkgb-o_O-block_r99te6">
-                                                                <div class="inputContainer_178faes">
-                                                                    <input autocomplete="off" class="input_70aky9-o_O-input_book_f17nnd-o_O-input_ellipsis_1bgueul-o_O-input_defaultPlaceholder_jsyynz" id="header-search-form" name="location" placeholder="{{ trans('messages.header.anywhere') }}" value="" type="text">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="focusUnderline_7131v4">
-
-                                        </div>
-                                    </div>
-
-                                    <div class="container_mv0xzc" style="width: 150px;">
-
-                                        <div class="save_search">
-
-
-
-                                            <div class="container_mv0xzc save_but_block" style="background-color:white;">
-                                                <!-- react-text: 18478 -->
-                                                <!-- /react-text --><button type="submit" class="btn btn-primary searchButton_n8fchz" style="background-color:#ff5a5f !important">
-                                                    <span>{{ trans('messages.home.search') }}</span>
-                                                </button>
-                                                <div class="focusUnderline_7131v4"></div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="focusUnderline_7131v4">
-
-                                    </div>
-                                </div>
-
-                        </div>
-                        </form>
-                    </div> --}}
                 </div>
             </div>
             <!------------------------------ Fin Banner principal ------------------------------------->
