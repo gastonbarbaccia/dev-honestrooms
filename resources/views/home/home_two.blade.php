@@ -41,7 +41,7 @@
             <!------------------------------ Fin Banner principal ------------------------------------->
 
             <!------------------------------- mobile view header -------------------------------------->
-            <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 show-sm hide-md viedat mt-5 mt-md-0">
+       {{--      <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 show-sm hide-md viedat mt-5 mt-md-0">
                 <div class="searchBarWrapper_1aq8p3r">
                     <div class="container_puzkdo">
                         <div>
@@ -117,7 +117,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <!------------------------------- Fin mobile view header -------------------------------------->
 
 
