@@ -205,7 +205,7 @@
                                 <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
                             </div>
                             <div style="padding-left:5%;padding-right:5%">
-                                <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                     Sabemos que lo primero antes de tomar una decision es informarse, por eso te acercamos descripciones detalladas tanto de la propiedad como del barrio.
                                 </p>
                             </div>
@@ -218,7 +218,7 @@
                                 <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Reservá online</h4>
                             </div>
                             <div style="padding-left:5%;padding-right:5%">
-                                <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                     Una vez que hagas la consulta de reserva, el propietario tendrá hasta 24hs para confirmar la solicitud. Podran hablar a través de nuestra plataforma para despejar dudas.
                                 </p>
                             </div>
@@ -231,7 +231,7 @@
                                 <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Confirmación y pago</h4>
                             </div>
                             <div style="padding-left:5%;padding-right:5%">
-                                <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                     Ni bien el propietario acepte tu reserva podrás realizar el pago a través de Mercado Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu mudanza.
                                 </p>
                             </div>
@@ -244,7 +244,7 @@
                                 <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Todo listo para mudarte</h4>
                             </div>
                             <div style="padding-left:5%;padding-right:5%">
-                                <p class="content-font" style="margin-left: 10%;margin-right: 10%;">
+                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                     ¡Llegó el dia! Ya tenes un nuevo hogar y llegaste al comienzo de tu estadía en esta hermosa ciudad. Te recibirá tu anfitrión y realizarán la firma online del contrato.
                                 </p>
                             </div>
