@@ -14,7 +14,7 @@
 
 
     <div class="whole-section sect_home" ng-controller="home_owl" ng-cloak>
-        <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
+        <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1" style="margin-bottom: 5%;">
             <!------------------------------ Banner principal ------------------------------------->
             <div class="panel">
                 <div id="discovery-container" class="pad-sm-20 mt-5" style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg') ;*/height:200px ;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
