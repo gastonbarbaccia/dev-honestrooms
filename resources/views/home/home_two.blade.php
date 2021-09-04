@@ -108,25 +108,26 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
+                            <div class="col-sm-12 col-md-6 col-lg-3"
+                                style="float:left;text-align:center;width: 100%;margin-top: 7%;">
                                 <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/2.png" style="margin-left: 40%;">
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
-                                        <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online</h4>
+                                        <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online tu habitación</h4>
                                     </div>
                                     <div style="text-align: left;">
                                         <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                            Una vez que hagas la consulta de reserva, el propietario tendrá hasta 24hs para
-                                            confirmar la solicitud. Podran hablar a través de nuestra plataforma para
-                                            despejar
-                                            dudas.
+                                            Una vez que hagas la consulta de reserva el propietario tendra hasta 24 hs para
+                                            confirmar la solicitud. Es común que ambos tengan consultas para hacerse por
+                                            esto mismo les ofrecemos la posibilidad de hablar a través de nuestra plataforma.
                                         </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
+                            <div class="col-sm-12 col-md-6 col-lg-3"
+                                style="float:left;text-align:center;width: 100%;margin-top: 7%;">
                                 <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/3.png" style="margin-left: 40%;">
                                 </div>
@@ -145,7 +146,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
+                            <div class="col-sm-12 col-md-6 col-lg-3"
+                                style="float:left;text-align:center;width: 100%;margin-top: 7%;">
                                 <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/4.png" style="margin-left: 40%;">
                                 </div>
