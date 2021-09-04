@@ -86,7 +86,6 @@
                                             Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
                                             importante es informarse por eso te acercamos descripciones detalladas tanto de
                                             la propiedad como del barrio.
-                                            <br>
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
                                             A) Chequeamos las propiedades
                                         </div>
