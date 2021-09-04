@@ -13,6 +13,7 @@
 
         </style>
 
+<link href="https://honestrooms-qa.herokuapp.com/css/custom.css" rel="stylesheet">
 
         <div class="whole-section sect_home" ng-controller="home_owl" ng-cloak>
             <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1"
