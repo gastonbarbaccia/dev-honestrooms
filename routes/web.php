@@ -123,6 +123,10 @@ Route::group(
 		Route::get('wishlists/popular', 'WishlistController@popular');
 		Route::get('wishlists/picks', 'WishlistController@picks');
 		Route::get('calendar/ical/{id}', 'CalendarController@ical_export');
+		//Route::get a como funciona
+		Route::get('how_it_works',function(){
+			return view('home.how_it_works');
+		});
 	}
 );
 
