@@ -60,7 +60,8 @@ class MetasTableSeeder extends Seeder
                 ['url' => 'in_secure', 'title' => 'In Secure Connection', 'description' => 'In Secure Connection', 'keywords' => ''],
                 ['url' => 'disputes', 'title' => 'Disputes', 'description' => 'Disputes', 'keywords' => ''],
                 ['url' => 'dispute_details/{id}', 'title' => 'Disputes', 'description' => 'Disputes', 'keywords' => ''],
-                 ['url' => 'messaging/admin/{id}', 'title' => 'Admin Resubmit Messages', 'description' => 'Admin Resubmit Messages', 'keywords' => ''],
+                ['url' => 'messaging/admin/{id}', 'title' => 'Admin Resubmit Messages', 'description' => 'Admin Resubmit Messages', 'keywords' => ''],
+                ['url' => 'how_it_works', 'title' => 'How it works', 'description' => 'How it works', 'keywords' => ''],
                 /*HostExperiencePHPCommentStart
                 ['url' => 'host/experiences', 'title' => 'Become an Experience Host', 'description' => 'Become an Experience Host', 'keywords' => ''],
                 ['url' => 'host/review_experience/{host_experience_id}', 'title' => 'Become an Experience Host', 'description' => 'Become an Experience Host', 'keywords' => ''],
