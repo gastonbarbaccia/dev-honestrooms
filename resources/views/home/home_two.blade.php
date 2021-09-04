@@ -36,7 +36,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 hide-sm">
+                    {{-- <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 hide-sm">
                         <div class="container_e4p5a8">
                             <!-- react-empty: 18439 -->
                             <form action="{{ url('s') }}" class="simple-search" method="get" id="searchbar-form" name="simple-search">
@@ -87,7 +87,7 @@
 
                         </div>
                         </form>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
             <!------------------------------ Fin Banner principal ------------------------------------->
