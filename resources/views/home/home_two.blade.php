@@ -86,19 +86,23 @@
                                             Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
                                             importante es informarse por eso te acercamos descripciones detalladas tanto de
                                             la propiedad como del barrio.
+                                        </p>
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
                                             A) Chequeamos las propiedades
                                         </div>
                                         <br>
-                                        Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
-                                        visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
-                                        encontras con ninguna sorpresa.
+                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                            Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
+                                            visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
+                                            encontras con ninguna sorpresa.
+                                        </p>
                                         <br>
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
                                             B) Vos decidís
                                         </div>
-                                        Todas las habitaciones son privadas, en caso de que quieras compartirla con
-                                        alguien podés pero eso es algo que elegís vos.
+                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                            Todas las habitaciones son privadas, en caso de que quieras compartirla con
+                                            alguien podés pero eso es algo que elegís vos.
                                         </p>
                                     </div>
                                 </div>
