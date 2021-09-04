@@ -76,11 +76,11 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/1.png">
                                 </div>
                                 <div>
-                                    <div>
+                                    <div style="text-align: left;">
                                         <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Buscá y elegí con
                                             seguridad</h4>
                                     </div>
-                                    <div style="padding-left:5%;padding-right:5%">
+                                    <div style="text-align: left;">
                                         <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                             Sabemos que lo primero antes de tomar una decision es informarse, por eso te
                                             acercamos descripciones detalladas tanto de la propiedad como del barrio.
@@ -93,10 +93,10 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/2.png">
                                 </div>
                                 <div>
-                                    <div>
+                                    <div style="text-align: left;">
                                         <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Reservá online</h4>
                                     </div>
-                                    <div style="padding-left:5%;padding-right:5%">
+                                    <div style="text-align: left;">
                                         <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                             Una vez que hagas la consulta de reserva, el propietario tendrá hasta 24hs para
                                             confirmar la solicitud. Podran hablar a través de nuestra plataforma para
@@ -111,13 +111,18 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/3.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Confirmación y pago</h4>
-                                </div>
-                                <div style="padding-left:5%;padding-right:5%">
-                                    <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
-                                        Ni bien el propietario acepte tu reserva podrás realizar el pago a través de Mercado
-                                        Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu mudanza.
-                                    </p>
+                                    <div style="text-align: left;">
+                                        <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Confirmación y pago
+                                        </h4>
+                                    </div>
+                                    <div style="text-align: left;">
+                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                            Ni bien el propietario acepte tu reserva podrás realizar el pago a través de
+                                            Mercado
+                                            Pago o Paypal y te pondremos en contacto con tu anfitrión para coordinar tu
+                                            mudanza.
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
@@ -125,12 +130,12 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/4.png">
                                 </div>
                                 <div>
-                                    <div>
+                                    <div style="text-align: left;">
                                         <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Todo listo para
                                             mudarte
                                         </h4>
                                     </div>
-                                    <div style="padding-left:5%;padding-right:5%">
+                                    <div style="text-align: left;">
                                         <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                             ¡Llegó el dia! Ya tenes un nuevo hogar y llegaste al comienzo de tu estadía en
                                             esta
