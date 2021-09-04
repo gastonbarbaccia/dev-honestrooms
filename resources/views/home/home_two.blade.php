@@ -17,7 +17,8 @@
         <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
             <!------------------------------ Banner principal ------------------------------------->
             <div class="panel">
-                <div id="discovery-container" class="pad-sm-20" style="float:left;width:100%;/* height: 100% !important; */background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg');height: 600px;width: 1500px;position: relative;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
+                <div id="discovery-container" class="pad-sm-20 mt-5" style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg') ;*/ height: 600px;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
+                <img src="http://honestrooms.herokuapp.com/images/home/home_two_new.jpg" alt="" class="my-5 mt-md-0" style="position: absolute; left: 0; width: 100%; height: 600px; object-fit: cover;object-position: top;">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
                         <div class="no-mar-sm" style="margin-top: 94px;">
                             <div class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
@@ -92,7 +93,7 @@
             <!------------------------------ Fin Banner principal ------------------------------------->
 
             <!------------------------------- mobile view header -------------------------------------->
-            <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 show-sm hide-md viedat">
+            <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 show-sm hide-md viedat mt-5 mt-md-0">
                 <div class="searchBarWrapper_1aq8p3r">
                     <div class="container_puzkdo">
                         <div>
@@ -179,7 +180,7 @@
                 </div>
               </div>
             HostExperienceBladeCommentEnd--}}
-            <div class="discovery-section explore_community exploer_banner page-container-no-padding" id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+            <div class="discovery-section explore_community exploer_banner page-container-no-padding mt-0 mt-md-5" id="discover-recommendations" ng-init="city_count=city_count-1 ;">
                 <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
                     <h2 class="row-space-1">
                         <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
@@ -466,7 +467,7 @@
             </style>
 
             <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
-
+        </div>
 
             <div id="discovery-container " class="pad-sm-20 fondoGris" style="margin-top:5%">
 
@@ -480,7 +481,7 @@
                         </h2>
                     </div>
 
-                    <div class="text-center row justify-content-around mx-1">
+                    <div class="text-center row justify-content-around mx-0 mx-md-5">
 
                         <div class="discovery-tiles col-12 col-lg-4">
 
@@ -563,8 +564,8 @@
                 }
             </style>
 
-
             <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
+        <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
             <!----------------------------------- Prensa INICIO ------------------------------------->
 
             <div id="discovery-container" class="pad-sm-20">
