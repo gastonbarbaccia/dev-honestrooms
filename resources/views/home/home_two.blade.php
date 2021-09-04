@@ -77,7 +77,7 @@
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
-                                        <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Buscá y elegí con
+                                        <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con
                                             seguridad</h4>
                                     </div>
                                     <div style="text-align: left;">
@@ -94,7 +94,7 @@
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
-                                        <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Reservá online</h4>
+                                        <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online</h4>
                                     </div>
                                     <div style="text-align: left;">
                                         <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
@@ -112,7 +112,7 @@
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
-                                        <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Confirmación y pago
+                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y pago
                                         </h4>
                                     </div>
                                     <div style="text-align: left;">
@@ -131,7 +131,7 @@
                                 </div>
                                 <div>
                                     <div style="text-align: left;">
-                                        <h4 style="color: #24A4BA; font-weight: 700;font-size: 140%;">Todo listo para
+                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para
                                             mudarte
                                         </h4>
                                     </div>
