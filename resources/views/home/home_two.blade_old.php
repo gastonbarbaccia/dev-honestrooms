@@ -255,7 +255,7 @@
             </div>
 
             <div style="text-align:center;margin-top:4%;font-size:20px">
-                <a href="" style="color:#24A4BA;text-decoration: none;">QUIERO SABER MÁS <i class="fa fa-angle-right" style="color:#24A4BA;padding-left:3px;"></i></a>
+                <a href="how_it_works" style="color:#24A4BA;text-decoration: none;">QUIERO SABER MÁS <i class="fa fa-angle-right" style="color:#24A4BA;padding-left:3px;"></i></a>
             </div>
 
             <!------------------------------ Muestra las habitaciones  ---------------------->
