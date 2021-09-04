@@ -72,7 +72,7 @@
                     <div class="discovery-tiles">
                         <div class="row">
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
-                                <div style="width: 40%">
+                                <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/1.png">
                                 </div>
                                 <div>
@@ -89,7 +89,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
-                                <div style="width: 40%">
+                                <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/2.png">
                                 </div>
                                 <div>
@@ -107,7 +107,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
-                                <div style="width: 40%">
+                                <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/3.png">
                                 </div>
                                 <div>
@@ -121,7 +121,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
-                                <div style="width: 40%">
+                                <div style="width: 40%;float:left">
                                     <img src="http://honestrooms.herokuapp.com/images/home/4.png">
                                 </div>
                                 <div>
