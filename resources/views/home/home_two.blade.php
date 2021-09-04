@@ -17,7 +17,7 @@
         <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
             <!------------------------------ Banner principal ------------------------------------->
             <div class="panel">
-                <div id="discovery-container" class="pad-sm-20 mt-5" style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg') ;*/ ;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
+                <div id="discovery-container" class="pad-sm-20 mt-5" style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms.herokuapp.com/images/home/home_two_new.jpg') ;*/height:200px ;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
                 <img src="http://honestrooms-qa.herokuapp.com/images/home/banner.jpg" alt="" class="my-5 mt-md-0" style="position: absolute; left: 0; width: 100%; height: 400px; object-fit: cover;margin-top: -200px !important;">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
                         <div class="no-mar-sm" style="margin-top: 94px;">
