@@ -253,6 +253,44 @@
 
                                     </div>
                                 </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="">
+                                    </div>
+                                    <div class="col-12">
+                                        <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
+                                        <p class="content-font" style="font-size:16px">
+                                            Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
+                                            importante es informarse por eso te acercamos descripciones detalladas tanto de
+                                            la propiedad como del barrio.
+                                        </p>
+                                            <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                                A) Chequeamos las propiedades
+                                            </div>
+                                        <br>
+                                        <p class="content-font" style="font-size:16px">
+                                            Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
+                                            visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
+                                            encontras con ninguna sorpresa.
+                                        </p>
+
+                                        <br>
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            B) Vos decidís
+                                        </div>
+
+                                        <br>
+
+                                        <p class="content-font" style="font-size:16px">
+                                            Todas las habitaciones son privadas, en caso de que quieras compartirla con
+                                            alguien podés pero eso es algo que elegís vos.
+                                        </p>
+
+
+
+                                    </div>
+                                </div>
                             </div>   
                                     <div class="col-12 col-md-9" style="">
                                         
