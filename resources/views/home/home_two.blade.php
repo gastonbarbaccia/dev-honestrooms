@@ -216,7 +216,7 @@
                         <div class="row">
                             <div class="col-12 col-md-6" style="">
                                 <div class="row">
-                                    <div class="col-12">
+                                    <div class="col-12 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="">
                                     </div>
                                     <div class="col-12">
@@ -253,8 +253,11 @@
 
                                     </div>
                                 </div>
+                            </div>  
+
+                            <div class="col-12 col-md-6" style="">
                                 <div class="row">
-                                    <div class="col-12">
+                                    <div class="col-12 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="">
                                     </div>
                                     <div class="col-12">
@@ -291,7 +294,9 @@
 
                                     </div>
                                 </div>
-                            </div>   
+                            </div>  
+                            
+                            
                                     <div class="col-12 col-md-9" style="">
                                         
                                              
