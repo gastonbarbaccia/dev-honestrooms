@@ -212,15 +212,21 @@
 
                     <!-- ----------------PARTE DE PRUEBA PARA MOBILE---------------------------------- -->
 
-                    <div class="container-fluid">
+                    <div class="container">
                         <div class="row">
-                            <div class="col-12 col-md-3" style="">
-                                <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="margin-left: 40%;">
+                            <div class="col-12 col-md-6" style="">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="">
+                                    </div>
+                                    <div class="col-12">
+                                        <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
+                                    </div>
+                                </div>
                             </div>   
                                     <div class="col-12 col-md-9" style="">
                                         
-                                        <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
-                                            
+                                             
                                         <div style="text-align: left;">
                                             <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                                 Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
