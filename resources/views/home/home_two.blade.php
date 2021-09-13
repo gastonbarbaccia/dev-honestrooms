@@ -82,14 +82,15 @@
                                         <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con
                                             seguridad</h4>
                                     </div>
-                                    <div style="text-align: left;">
+                                    <di
+                                    v style="text-align: left;">
                                         <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
                                             Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
                                             importante es informarse por eso te acercamos descripciones detalladas tanto de
                                             la propiedad como del barrio.
                                         </p>
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
-                                            A) Chequeamos las propiedades
+                                            A) Chequeamos las propiedades - prueba
                                         </div>
                                         <br>
                                         <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
