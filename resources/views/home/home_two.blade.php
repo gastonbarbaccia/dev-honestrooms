@@ -308,52 +308,53 @@
                             <div class="col-12 col-md-6" > <!--4ER item-->
                                 <div class="row">
                                     <div class="col-12 text-center"> <!--Espacio de img-->
-
+                                        <img src="http://honestrooms.herokuapp.com/images/home/4.png" class="mb-1">
                                     </div>
                                     
                                     <div class="col-12"> <!--Espacio de texto-->
                                     
-                                    </div>
-                                </div>
-                            </div>  
-
-                            
-                                   
-                        </div>
-
-
-                            
-
-
-                            <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;margin-top: 7%;">
-                                <div style="width: 40%;float:left">
-                                    <img src="http://honestrooms.herokuapp.com/images/home/3.png" style="margin-left: 40%;">
-                                </div>
-                                <div>
-                                    <div style="text-align: left;">
-                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y métodos
-                                            de pago
-                                        </h4>
-                                    </div>
-                                    <div style="text-align: left;">
-                                        <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
-                                            Ni bien el propietario acepte tu reserva podrás realizar el pago de la misma a
-                                            través de Mercado Pago o PayPal y te pondremos en contacto con tu anfitrión para
-                                            que arreglen el horario de tu mudanza.
+                                    
+                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para mudarte</h4>
+                                    
+                                    
+                                        <p class="content-font" style="font-size:16px">
+                                            ¡Llegó el día! Ya tenés un nuevo hogar y llegaste al comienzo de tu estadia en
+                                            esta hermosa ciudad. Te recibirá tu anfitriona y realizarán la firma online del
+                                            contrato. El pago de lo que resta del mes (porque ya pagaste un proporcional con
+                                            la reserva) y del depósito sera con ella en efectivo.
                                         </p>
-                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
-                                            A) ¿Qué estas pagando?
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            A) Pago del mes
                                         </div>
-                                        <br>
-                                        <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                            El pago inicial incluye una comisión por única vez (Concierge Fee) por el
-                                            seguimiento personalizado que te brindamos y un proporcional por el primer mes
-                                            de alquiler.
+
+                                        <p class="content-font" style="font-size:16px">
+                                            El pago del primer mes será en efectivo y correspondera a la diferencia del
+                                            proporcional que ya abonaste en la reserva. luego realizarás los siguientes
+                                            pagos mensuales al cumplirse el mes de estadia. Esto quiere decir que no es
+                                            necesario pagar en los inicios del mes, si no que la fecha se estipula según el
+                                            dia de ingreso. Si entrás un 20 pagás el 20 de cada mes, si entrás un 1ro, pagás
+                                            el 1ro y así.
                                         </p>
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            B) Depósito
+                                        </div>
+
+                                        <p class="content-font" style="font-size:16px">
+                                            Se paga el dia que te mudás y en efectivo. Cuando termines la estadia que figura
+                                            en el contrato se devuelve simpre que hayan cumplido las condiciones de contrato
+                                            anteriormente firmadas.
+                                            <br>
+                                            Tu anfitriona será el punto de contacto a partir de este momento. Por supuesto,
+                                            estaremos ahi para ayudarlas en caso de que lo necesiten.
+                                        </p>
+                                    
+
                                     </div>
                                 </div>
-                            </div>
-
+                            </div>       
+                        </div>
 
                             <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;margin-top: 7%;">
                                 <div style="width: 40%;float:left">
@@ -384,11 +385,9 @@
                                             dia de ingreso. Si entrás un 20 pagás el 20 de cada mes, si entrás un 1ro, pagás
                                             el 1ro y así.
                                         </p>
-                                        <br>
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
                                             B) Depósito
                                         </div>
-                                        <br>
                                         <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
                                             Se paga el dia que te mudás y en efectivo. Cuando termines la estadia que figura
                                             en el contrato se devuelve simpre que hayan cumplido las condiciones de contrato
