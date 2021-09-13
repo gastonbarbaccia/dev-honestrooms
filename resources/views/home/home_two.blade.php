@@ -229,15 +229,12 @@
                                             <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
                                                 A) Chequeamos las propiedades
                                             </div>
-                                        <br>
                                         <p class="content-font" style="font-size:16px">
                                             Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
                                             visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
                                             encontras con ninguna sorpresa.
                                         </p>
-
-                                        <br>
-
+                                        
                                         <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
                                             B) Vos decidís
                                         </div>
