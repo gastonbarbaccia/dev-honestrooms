@@ -41,6 +41,20 @@
 
       @endif
 
+      @if(Route::current()->uri() == '/how_it_works')  
+
+      {!! Html::style('css/jquery.selectBoxIt.css?v='.$version) !!}
+      {!! Html::style('css/daterangepicker.css?v='.$version) !!} 
+      {!! Html::style('css/owl.carousel.min.css?v='.$version) !!}
+      {!! Html::style('css/themes.css?v='.$version) !!}        
+      {!! Html::style('pcss?css=css/dynamic') !!} 
+      {!! Html::style('css/common.css?v='.$version) !!}
+      {!! Html::style('css/home.css?v='.$version) !!}
+      {!! Html::style('css/main.css?v='.$version) !!} 
+      {!! Html::style('css/styles.css?v='.$version) !!}      
+
+      @endif
+
 
       @if(@$default_home == 'two')
 
@@ -82,6 +96,30 @@
       {!! Html::style('css/header_two.css?v='.$version) !!}
       {!! Html::style('css/home_two.css?v='.$version) !!}
       @endif
+
+      @if (Route::current()->uri() != '/how_it_works')
+
+      {!! Html::style('css/lightgallery.min.css?v='.$version) !!}  
+      {!! Html::style('css/lightslider.min.css?v='.$version) !!} 
+      {!! Html::style('css/nouislider.min.css?v='.$version) !!}
+      {!! Html::style('css/styles.css?v='.$version) !!} 
+      {!! Html::style('css/jquery.mCustomScrollbar.css?v='.$version) !!}
+      {!! Html::style('css/jquery.selectBoxIt.css?v='.$version) !!}
+      {!! Html::style('css/daterangepicker.css?v='.$version) !!} 
+      {!! Html::style('css/owl.carousel.min.css?v='.$version) !!}
+      {!! Html::style('css/themes.css?v='.$version) !!}        
+      {!! Html::style('pcss?css=css/dynamic') !!} 
+      {!! Html::style('css/common.css?v='.$version) !!}
+      {!! Html::style('css/home.css?v='.$version) !!}
+      {!! Html::style('css/main.css?v='.$version) !!} 
+      {!! Html::style('css/jquery.selectBoxIt.css?v='.$version) !!}
+      {!! Html::style('css/daterangepicker.css?v='.$version) !!}   
+      {!! Html::style('css/jquery.bxslider.css?v='.$version) !!}
+      {!! Html::style('css/common_two.css?v='.$version) !!}
+      {!! Html::style('css/header_two.css?v='.$version) !!}
+      {!! Html::style('css/home_two.css?v='.$version) !!}
+      @endif
+
 
       @if (Request::segment(1) == 'host' || Request::segment(1) == 'experiences')
       {!! Html::style('css/host_experiences/owl.carousel.min.css?v='.$version) !!}
