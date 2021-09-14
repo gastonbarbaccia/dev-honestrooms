@@ -25,7 +25,7 @@
                 .ggb-responsive-title {
                     font-size: 150%;
                 }
-               
+
             }
 
         </style>
@@ -45,7 +45,8 @@
                                 <div
                                     class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
                                     <h1 class="textHeader_8yxs9w" style="color:white !important;">
-                                        <span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4 ggb-responsive-title"
+                                        <span
+                                            class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4 ggb-responsive-title"
                                             style="color:white !important;">
                                             <!--{{ $site_name }}--> There is a room that awaits you.
                                         </span>
@@ -248,7 +249,8 @@
                                     <img src="http://honestrooms.herokuapp.com/images/home/1.png">
                                 </div>
                                 <div>
-                                    <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Buscá y elegí con
+                                    <<<<<<< HEAD <h4 style="color: #24A4BA ; font-weight: 700;font-size: 140%;">Buscá y
+                                        elegí con
                                         seguridad</h4>
                                 </div>
                                 <div style="padding-left:5%;padding-right:5%">
@@ -342,11 +344,11 @@
                                     <div class="panel-body" style="padding: 5px 0;height:80px;">
                                         <div class="media">
                                             <!--<div class="category_city hm_cate">
-                                                            <span class="pull-left">@{{ view_count . room_type_name }}</span>
-                                                            <span class="pull-left dot-cont">·</span>
-                                                            <span class="pull-left">@{{ view_count . beds }}
-                                                                @{{ view_count . bed_lang }}</span>
-                                                        </div>-->
+                                                                <span class="pull-left">@{{ view_count . room_type_name }}</span>
+                                                                <span class="pull-left dot-cont">·</span>
+                                                                <span class="pull-left">@{{ view_count . beds }}
+                                                                    @{{ view_count . bed_lang }}</span>
+                                                            </div>-->
                                             <a href=" @{{ url + view_count . id }}" target="listing_10001"
                                                 class="text-normal" style="text-decoration:none !important;">
 
@@ -390,385 +392,759 @@
                                                     </a>
                                             </div>
                                         </div>
+                                        =======
+                                        <div style="text-align: left;">
+                                            <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con
+                                                seguridad</h4>
+                                        </div>
+                                        <div style="text-align: left;">
+                                            <p class="content-font"
+                                                style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                                Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una
+                                                decisión
+                                                importante es informarse por eso te acercamos descripciones detalladas tanto
+                                                de
+                                                la propiedad como del barrio.
+                                            </p>
+                                            <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                                A) Chequeamos las propiedades
+                                            </div>
+                                            <br>
+                                            <p class="content-font"
+                                                style="margin-left: 40%;margin-right: 5%;font-size:16px">
+                                                Para tu tranquilidad, en lugar de usar materiales de terceros, nos
+                                                encargamos de
+                                                visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
+                                                encontras con ninguna sorpresa.
+                                            </p>
+
+                                            <br>
+
+                                            <div style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
+                                                B) Vos decidís
+                                            </div>
+
+                                            <br>
+
+                                            <p class="content-font"
+                                                style="margin-left: 40%;margin-right: 5%;font-size:16px">
+                                                Todas las habitaciones son privadas, en caso de que quieras compartirla con
+                                                alguien podés pero eso es algo que elegís vos.
+                                            </p>
+                                            >>>>>>> e2202f50de34423792c1debbdf55c7c94010381b
+                                        </div>
                                     </div>
+
                                 </div>
+                                <<<<<<< HEAD </div>
 
                             </div>
-                        </div>
 
-                    </div>
+                            <div class="seeMoreContainer_11b8zgn">
 
-                    <div class="seeMoreContainer_11b8zgn">
-
-                        <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
-                            <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0"
-                                style="padding-left:0px !important">
-                                <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
-                                </span>
-                                <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
-                                    style="fill: currentcolor; height: 10px; width: 10px;">
-                                    <path fill-rule="evenodd"
-                                        d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
-                                    </path>
-                                </svg>
-                            </button>
-                        </a>
-
-                    </div>
-
-                </div>
-                <!-------------------------------- Fin de muestra de habitaciones ------------------------->
-                <!------------------------------ Nuestro diferencial INICIO ----------------------------->
-                <link href="https://honestrooms-qa.herokuapp.com/css/custom.css" rel="stylesheet">
-
-                <div class="discovery-section explore_community exploer_banner page-container-no-padding"
-                    id="discover-recommendations" ng-init="city_count=city_count-1 ;">
-                    <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0">
-                        <p class="text-lead">
-                            PORQUÉ ELEGIRNOS
-                        </p>
-                        <h2 class="row-space-1">
-                            Nuestro diferencial
-                        </h2>
-                    </div>
-
-                    <style>
-                        #eye:hover {
-                            box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
-                        }
-
-                        #check:hover {
-                            box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
-                        }
-
-                        #heart:hover {
-                            box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
-                        }
-
-                        #people:hover {
-                            box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
-                        }
-
-                    </style>
-                    <div class="row d-flex justify-content-around">
-
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="eye">
-
-                            <div class=" mb-5 bg-white rounded p-3">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Lo que ves es lo que recibís</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Podés confiar en las fotos que te mostramos porque fuimos a tomarlas nosotros.
-                                        Ademas todas las casas ofrecidas están chequeadas personalmente por nuestros
-                                        profesionales.
-                                    </p>
-                                </div>
+                                <a href="{{ url('s') }}" ng-if="most_viewed.length > 3">
+                                    <button class="button_ops1o9-o_O-text_13lu1ne-o_O-button_flushRight_s5eog0"
+                                        style="padding-left:0px !important">
+                                        <span class="text_13lu1ne"><span>{{ trans('messages.header.seeall') }}</span>
+                                        </span>
+                                        <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false"
+                                            style="fill: currentcolor; height: 10px; width: 10px;">
+                                            <path fill-rule="evenodd"
+                                                d="M4.293 1.707A1 1 0 1 1 5.708.293l7.995 8a1 1 0 0 1 0 1.414l-7.995 8a1 1 0 1 1-1.415-1.414L11.583 9l-7.29-7.293z">
+                                            </path>
+                                        </svg>
+                                    </button>
+                                </a>
 
                             </div>
 
                         </div>
+                        <!-------------------------------- Fin de muestra de habitaciones ------------------------->
+                        <!------------------------------ Nuestro diferencial INICIO ----------------------------->
+                        <link href="https://honestrooms-qa.herokuapp.com/css/custom.css" rel="stylesheet">
 
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="check">
-
-                            <div class=" mb-5 bg-white rounded p-3">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Garantía 24hs. Reality Check</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Si en las primeras 24 horas que llegaste hay algo que no coincide con las fotos o
-                                        con las descripciones que viste y no te queres quedar ¡No te preocupes! Nos avisás y
-                                        te devolvemos el dinero de la reserva. Super fácil, cero riesgos.
-                                    </p>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="heart" style="margin-top:2%">
-
-                            <div class=" mb-5 bg-white rounded p-3">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Impacto positivo por dónde lo mires</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Mientras vos alquilás una habitación segura y verificada, generás oportunidades para
-                                        que más mujeres mayores generen un ingreso genuino alquilándote a vos ese cuarto
-                                        extra que tienen en sus casas.
-                                    </p>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="people" style="margin-top:2%">
-
-                            <div class=" mb-5 bg-white rounded p-3">
-                                <div>
-                                    <img src="http://honestrooms.herokuapp.com/images/home/people.PNG">
-                                </div>
-                                <div style="margin-top:7%;font-weight: bold">
-                                    <h4>Somos el intermediario</h4>
-                                </div>
-                                <div>
-                                    <p class="content-font">
-                                        Cuidamos cada detalle de tu estadía. En caso de que tengas algún problema con tu
-                                        host vamos a estar ahí para ayudar a resolver cualquier conflicto y evitar asperezas
-                                        entre quienes conviven.
-                                    </p>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <!------------------------------- Nuestro diferencial FIN --------------------------------->
-                <style>
-                    .imgRedonda {
-                        /*width: 70px;*/
-                        height: 70px;
-                        border-radius: 150px;
-                    }
-
-                </style>
-
-                <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
-            </div>
-
-            <div id="discovery-container " class="pad-sm-20 fondoGris" style="margin-top:5%">
-
-                <div class="discovery-section explore_community exploer_banner page-container-no-padding"
-                    id="discover-recommendations">
-                    <div class="text-center row-space-6 row-space-top-8">
-                        <p class="text-lead">
-                            TESTIMONIOS
-                        </p>
-                        <h2 class="row-space-1">
-                            Que opinan nuestros clientes
-                        </h2>
-                    </div>
-
-                    <div class="text-center row justify-content-around mx-0 mx-md-5">
-
-                        <div class="discovery-tiles col-12 col-lg-4">
-
-                            <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
-                                <div style="text-align:center">
-                                    <img class="imgRedonda"
-                                        src="http://honestrooms-qa.herokuapp.com/images/home/1_user.png">
-                                </div>
-                                <div>
-                                    <p class="content-font" style="margin-left: 7%;margin-right: 7%;">
-                                        ¡Hola! Soy Jessica, vine hace unos meses de Brasil para estudiar medicina en la UBA.
-                                        Cuando llegué a Buenos Aires me costó mucho encontrar un lugar donde hospedarme que
-                                        no se aprovechase de mi escaso conocimiento sobre los precios de renta en la ciudad.
-                                    </p>
-                                </div>
-                                <div style="text-align:center;margin-left: 40%;">
-                                    <hr style="width:50px;">
-                                </div>
-                                <p>
-                                    Jessica - Porto Alegre, Brasil
+                        <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                            id="discover-recommendations" ng-init="city_count=city_count-1 ;">
+                            <div class="section-intro text-center row-space-6 row-space-top-8"
+                                ng-if="home_city_explore.length!=0">
+                                <p class="text-lead">
+                                    PORQUÉ ELEGIRNOS
                                 </p>
-
+                                <h2 class="row-space-1">
+                                    Nuestro diferencial
+                                </h2>
                             </div>
 
-                        </div>
+                            <style>
+                                #eye:hover {
+                                    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                                }
 
-                        <div class="discovery-tiles col-12 col-lg-4">
+                                #check:hover {
+                                    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                                }
 
-                            <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
-                                <div style="text-align:center">
-                                    <img class="imgRedonda"
-                                        src="http://honestrooms-qa.herokuapp.com/images/home/2_user.png">
-                                </div>
-                                <div>
-                                    <p class="content-font" style="padding-bottom: 7%;margin-left: 7%;margin-right: 7%;">
-                                        Llegué a Sparer Rooms Buenos Aires por Google, me contacté con ellas y me dieron la
-                                        seguridad que necesitaba. La habitacion no es para mí, si no para Mati, mi hijo que
-                                        el mes que viene se va a estudiar Kinesiología a Buenos Aires.
-                                    </p>
-                                </div>
-                                <div style="text-align:center;margin-left: 40%;">
-                                    <hr style="width:50px;">
-                                </div>
-                                <p>
-                                    Patricia - Bahia Blanca, Argentina
-                                </p>
+                                #heart:hover {
+                                    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                                }
 
-                            </div>
+                                #people:hover {
+                                    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important
+                                }
 
-                        </div>
+                            </style>
+                            <div class="row d-flex justify-content-around">
 
-                        <div class="discovery-tiles col-12 col-lg-4">
+                                <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="eye">
 
-                            <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
-                                <div style="text-align:center">
-                                    <img class="imgRedonda"
-                                        src="http://honestrooms-qa.herokuapp.com/images/home/3_user.png">
-                                </div>
-                                <div>
-                                    <p class="content-font" style="padding-bottom: 7%;margin-left: 7%;margin-right: 7%;">
-                                        Vine hace 3 meses de París (Francia) para hacer un cuatrimestre de intercambio en la
-                                        Universidad de Buenos Aires. Siempre quise conocer esta ciudad y cada vez la amo
-                                        más. Pude dar con gente increíble y súper amable como Graciela.
-                                    </p>
-                                </div>
-                                <div style="text-align:center;margin-left: 40%;">
-                                    <hr style="width:50px;">
-                                </div>
-                                <p>
-                                    Esteban - París, Francia
-                                </p>
+                                    <div class=" mb-5 bg-white rounded p-3">
+                                        <div>
+                                            <img src="http://honestrooms.herokuapp.com/images/home/eye.PNG">
+                                        </div>
+                                        <div style="margin-top:7%;font-weight: bold">
+                                            <h4>Lo que ves es lo que recibís</h4>
+                                            =======
+                                            <div class="col-sm-12 col-md-6 col-lg-3"
+                                                style="float:left;text-align:center;width: 100%;margin-top: 7%;">
+                                                <div style="width: 40%;float:left">
+                                                    <img src="http://honestrooms.herokuapp.com/images/home/2.png"
+                                                        style="margin-left: 40%;">
+                                                    >>>>>>> e2202f50de34423792c1debbdf55c7c94010381b
+                                                </div>
+                                                <div>
+                                                    <p class="content-font">
+                                                        Podés confiar en las fotos que te mostramos porque fuimos a tomarlas
+                                                        nosotros.
+                                                        Ademas todas las casas ofrecidas están chequeadas personalmente por
+                                                        nuestros
+                                                        profesionales.
+                                                    </p>
+                                                </div>
 
-                            </div>
+                                            </div>
 
-                        </div>
+                                        </div>
+
+                                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="check">
+
+                                            <div class=" mb-5 bg-white rounded p-3">
+                                                <div>
+                                                    <img src="http://honestrooms.herokuapp.com/images/home/check.PNG">
+                                                </div>
+                                                <div style="margin-top:7%;font-weight: bold">
+                                                    <h4>Garantía 24hs. Reality Check</h4>
+                                                </div>
+                                                <div>
+                                                    <p class="content-font">
+                                                        Si en las primeras 24 horas que llegaste hay algo que no coincide
+                                                        con las fotos o
+                                                        con las descripciones que viste y no te queres quedar ¡No te
+                                                        preocupes! Nos avisás y
+                                                        te devolvemos el dinero de la reserva. Super fácil, cero riesgos.
+                                                    </p>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="heart"
+                                            style="margin-top:2%">
+
+                                            <div class=" mb-5 bg-white rounded p-3">
+                                                <div>
+                                                    <img src="http://honestrooms.herokuapp.com/images/home/heart.PNG">
+                                                </div>
+                                                <div style="margin-top:7%;font-weight: bold">
+                                                    <h4>Impacto positivo por dónde lo mires</h4>
+                                                    <div class="col-sm-12 col-md-6 col-lg-3"
+                                                        style="float:left;text-align:center;width: 100%;margin-top: 7%;">
+                                                        <div style="width: 40%;float:left">
+                                                            <img src="http://honestrooms.herokuapp.com/images/home/3.png"
+                                                                style="margin-left: 40%;">
+                                                        </div>
+                                                        <div>
+                                                            <p class="content-font">
+                                                                Mientras vos alquilás una habitación segura y verificada,
+                                                                generás oportunidades para
+                                                                que más mujeres mayores generen un ingreso genuino
+                                                                alquilándote a vos ese cuarto
+                                                                extra que tienen en sus casas.
+                                                            </p>
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+
+                                                <div class="discovery-tiles col-sm-12 col-md-6 px-3 px-md-2" id="people"
+                                                    style="margin-top:2%">
+
+                                                    <div class=" mb-5 bg-white rounded p-3">
+                                                        <div>
+                                                            <img
+                                                                src="http://honestrooms.herokuapp.com/images/home/people.PNG">
+                                                        </div>
+                                                        <div style="margin-top:7%;font-weight: bold">
+                                                            <h4>Somos el intermediario</h4>
+                                                        </div>
+                                                        <div>
+                                                            <p class="content-font">
+                                                                Cuidamos cada detalle de tu estadía. En caso de que tengas
+                                                                algún problema con tu
+                                                                host vamos a estar ahí para ayudar a resolver cualquier
+                                                                conflicto y evitar asperezas
+                                                                entre quienes conviven.
+                                                            </p>
+                                                        </div>
+
+                                                    </div>
+                                                    <<<<<<< HEAD </div>
+                                                </div>
+                                            </div>
+                                            <!------------------------------- Nuestro diferencial FIN --------------------------------->
+                                            <style>
+                                                .imgRedonda {
+                                                    /*width: 70px;*/
+                                                    height: 70px;
+                                                    border-radius: 150px;
+                                                }
+
+                                            </style>
+
+                                            <!----------------------------- Que opinan nuestros clientes INICIO ------------------------>
+                                        </div>
+
+                                        <div id="discovery-container " class="pad-sm-20 fondoGris" style="margin-top:5%">
+
+                                            <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                                                id="discover-recommendations">
+                                                <div class="text-center row-space-6 row-space-top-8">
+                                                    <p class="text-lead">
+                                                        TESTIMONIOS
+                                                    </p>
+                                                    <h2 class="row-space-1">
+                                                        Que opinan nuestros clientes
+                                                    </h2>
+                                                </div>
+
+                                                <div class="text-center row justify-content-around mx-0 mx-md-5">
+
+                                                    <div class="discovery-tiles col-12 col-lg-4">
+
+                                                        <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
+                                                            <div style="text-align:center">
+                                                                <img class="imgRedonda"
+                                                                    src="http://honestrooms-qa.herokuapp.com/images/home/1_user.png">
+                                                            </div>
+                                                            <div>
+                                                                <p class="content-font"
+                                                                    style="margin-left: 7%;margin-right: 7%;">
+                                                                    ¡Hola! Soy Jessica, vine hace unos meses de Brasil para
+                                                                    estudiar medicina en la UBA.
+                                                                    Cuando llegué a Buenos Aires me costó mucho encontrar un
+                                                                    lugar donde hospedarme que
+                                                                    no se aprovechase de mi escaso conocimiento sobre los
+                                                                    precios de renta en la ciudad.
+                                                                </p>
+                                                            </div>
+                                                            <div style="text-align:center;margin-left: 40%;">
+                                                                <hr style="width:50px;">
+                                                            </div>
+                                                            <p>
+                                                                Jessica - Porto Alegre, Brasil
+                                                            </p>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="discovery-tiles col-12 col-lg-4">
+
+                                                        <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
+                                                            <div style="text-align:center">
+                                                                <img class="imgRedonda"
+                                                                    src="http://honestrooms-qa.herokuapp.com/images/home/2_user.png">
+                                                            </div>
+                                                            <div>
+                                                                <p class="content-font"
+                                                                    style="padding-bottom: 7%;margin-left: 7%;margin-right: 7%;">
+                                                                    Llegué a Sparer Rooms Buenos Aires por Google, me
+                                                                    contacté con ellas y me dieron la
+                                                                    seguridad que necesitaba. La habitacion no es para mí,
+                                                                    si no para Mati, mi hijo que
+                                                                    el mes que viene se va a estudiar Kinesiología a Buenos
+                                                                    Aires.
+                                                                </p>
+                                                            </div>
+                                                            <div style="text-align:center;margin-left: 40%;">
+                                                                <hr style="width:50px;">
+                                                            </div>
+                                                            <p>
+                                                                Patricia - Bahia Blanca, Argentina
+                                                            </p>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="discovery-tiles col-12 col-lg-4">
+
+                                                        <div class="shadow p-3 mb-5 bg-white rounded" style="float: left;">
+                                                            <div style="text-align:center">
+                                                                <img class="imgRedonda"
+                                                                    src="http://honestrooms-qa.herokuapp.com/images/home/3_user.png">
+                                                                =======
+                                                                <div class="col-sm-12 col-md-6 col-lg-3"
+                                                                    style="float:left;text-align:center;width: 100%;margin-top: 7%;">
+                                                                    <div style="width: 40%;float:left">
+                                                                        <img src="http://honestrooms.herokuapp.com/images/home/4.png"
+                                                                            style="margin-left: 40%;">
+                                                                        >>>>>>> e2202f50de34423792c1debbdf55c7c94010381b
+                                                                    </div>
+                                                                    <div>
+                                                                        <p class="content-font"
+                                                                            style="padding-bottom: 7%;margin-left: 7%;margin-right: 7%;">
+                                                                            Vine hace 3 meses de París (Francia) para hacer
+                                                                            un cuatrimestre de intercambio en la
+                                                                            Universidad de Buenos Aires. Siempre quise
+                                                                            conocer esta ciudad y cada vez la amo
+                                                                            más. Pude dar con gente increíble y súper amable
+                                                                            como Graciela.
+                                                                        </p>
+                                                                    </div>
+                                                                    <div style="text-align:center;margin-left: 40%;">
+                                                                        <hr style="width:50px;">
+                                                                    </div>
+                                                                    <p>
+                                                                        Esteban - París, Francia
+                                                                    </p>
+
+                                                                </div>
+
+                                                            </div>
 
 
 
-                    </div>
+                                                        </div>
 
-                </div>
-            </div>
+                                                    </div>
+                                                </div>
 
-            <style>
-                .fondoGris {
-                    width: 100%;
-                    background-color: #E7E5E5;
+                                                <style>
+                                                    .fondoGris {
+                                                        width: 100%;
+                                                        background-color: #E7E5E5;
 
-                }
+                                                    }
 
-            </style>
+                                                </style>
 
-            <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
-            <div class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
-                <!----------------------------------- Prensa INICIO ------------------------------------->
+                                                <!------------------------------------ Que opinan nuestros clientes FIN --------------------------------->
+                                                <div
+                                                    class="page-container-responsive new-page-container mini-rel-top row-space-top-1">
+                                                    <!----------------------------------- Prensa INICIO ------------------------------------->
 
-                <div id="discovery-container" class="pad-sm-20">
+                                                    <div id="discovery-container" class="pad-sm-20">
 
-                    <div class="discovery-section explore_community exploer_banner page-container-no-padding"
-                        id="discover-recommendations">
-                        <div class="section-intro text-center row-space-6 row-space-top-8">
-                            <p class="text-lead">
-                                PRENSA
-                            </p>
-                            <h2 class="row-space-1">
-                                Que dicen los medios
-                            </h2>
-                        </div>
+                                                        <div class="discovery-section explore_community exploer_banner page-container-no-padding"
+                                                            id="discover-recommendations">
+                                                            <div
+                                                                class="section-intro text-center row-space-6 row-space-top-8">
+                                                                <p class="text-lead">
+                                                                    PRENSA
+                                                                </p>
+                                                                <h2 class="row-space-1">
+                                                                    Que dicen los medios
+                                                                </h2>
+                                                            </div>
 
-                        <div class="text-center row justify-content-around mx-1">
+                                                            <div class="text-center row justify-content-around mx-1">
 
-                            <div class="discovery-tiles col-12 col-lg-4">
+                                                                <div class="discovery-tiles col-12 col-lg-4">
 
-                                <div class="shadow-sm p-3 mb-5 bg-white rounded" style="border: #EDEDED 3px solid;">
-                                    <div style="text-align:center">
-                                        <img src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
-                                            style="width: 50%;">
-                                    </div>
-                                    <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37;font-size: 150%;"><b>Una red para alojar extranjeros</b>
-                                        </h3>
-                                    </div>
-                                    <div style="margin-top:7%;">
-                                        <p style="font-size:12px">LA NACIÓN (NEWSPAPER),MARCH 21, 2011</p>
-                                    </div>
-                                    <div>
-                                        <p class="content-font">
-                                            Spare Rooms Buenos Aires ofrece por Internet la posibilidad de contratar
-                                            habitaciones para quienes hacen intercambios...
-                                        </p>
-                                    </div>
+                                                                    <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                                                        style="border: #EDEDED 3px solid;">
+                                                                        <div style="text-align:center">
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/nacion.PNG"
+                                                                                style="width: 50%;">
+                                                                        </div>
+                                                                        <div style="margin-top:7%;font-weight: bold">
+                                                                            <h3 style="color:#EA0A37;font-size: 150%;">
+                                                                                <b>Una red para alojar extranjeros</b>
+                                                                            </h3>
+                                                                        </div>
+                                                                        <div style="margin-top:7%;">
+                                                                            <p style="font-size:12px">LA NACIÓN
+                                                                                (NEWSPAPER),MARCH 21, 2011</p>
+                                                                        </div>
+                                                                        <div>
+                                                                            <p class="content-font">
+                                                                                Spare Rooms Buenos Aires ofrece por Internet
+                                                                                la posibilidad de contratar
+                                                                                habitaciones para quienes hacen
+                                                                                intercambios...
+                                                                            </p>
+                                                                        </div>
 
-                                    <a class="btn btn-outline-primary w-50" href="#"
-                                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
-
-
-
-                                </div>
-
-                            </div>
-
-                            <div class="discovery-tiles col-12 col-lg-4">
-
-                                <div class="shadow-sm p-3 mb-5 bg-white rounded" style="border: #EDEDED 3px solid;">
-                                    <div style="text-align:center">
-                                        <img src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
-                                            style="width: 20%;">
-                                    </div>
-                                    <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37;font-size: 150%;"><b>Crece el negocio de los servicios para
-                                                estudiantes</b></h3>
-                                    </div>
-                                    <div style="margin-top:7%;">
-                                        <p style="font-size:12px">CLARÍN (NEWSPAPER), NOVEMBER 10, 2013</p>
-                                    </div>
-                                    <div>
-                                        <p class="content-font">
-                                            Alojamiento, seleccion de cursos y paseos por la ciudad son partes del combo que
-                                            ofrecen las empresas dedicadas al rubro "Study Abroad".
-                                        </p>
-                                    </div>
-                                    <a class="btn btn-outline-primary w-50" href="#"
-                                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
-
-                                </div>
-
-                            </div>
-
-                            <div class="discovery-tiles col-12 col-lg-4">
-
-                                <div class="shadow-sm p-3 mb-5 bg-white rounded" style="border: #EDEDED 3px solid;">
-                                    <div style="text-align:center">
-                                        <img src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
-                                            style="width: 25%;">
-                                    </div>
-                                    <div style="margin-top:7%;font-weight: bold">
-                                        <h3 style="color:#EA0A37;font-size: 150%;"><b>Latin American Startups: 10 Women to
-                                                Watch</b></h3>
-                                    </div>
-                                    <div style="margin-top:7%;">
-                                        <p style="font-size:12px">THE NEXT WEB, JUNE 12, 2011</p>
-                                    </div>
-                                    <div>
-                                        <p class="content-font">
-                                            From founders launching their first venture to facilitators and inverstors, here
-                                            are 10 women you should watch.
-                                        </p>
-                                    </div>
-                                    <a class="btn btn-outline-primary w-50" href="#"
-                                        style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER MÁS</a>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
+                                                                        <a class="btn btn-outline-primary w-50" href="#"
+                                                                            style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER
+                                                                            MÁS</a>
 
 
-                <!--------------------------------- Prensa FIN ------------------------------------>
 
-            </div>
-        </div>
+                                                                    </div>
+
+                                                                </div>
+
+                                                                <div class="discovery-tiles col-12 col-lg-4">
+
+                                                                    <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                                                        style="border: #EDEDED 3px solid;">
+                                                                        <div style="text-align:center">
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/logo_ieco.png"
+                                                                                style="width: 20%;">
+                                                                        </div>
+                                                                        <div style="margin-top:7%;font-weight: bold">
+                                                                            <h3 style="color:#EA0A37;font-size: 150%;">
+                                                                                <b>Crece el negocio de los servicios para
+                                                                                    estudiantes</b></h3>
+                                                                        </div>
+                                                                        <div style="margin-top:7%;">
+                                                                            <p style="font-size:12px">CLARÍN (NEWSPAPER),
+                                                                                NOVEMBER 10, 2013</p>
+                                                                        </div>
+                                                                        <div>
+                                                                            <p class="content-font">
+                                                                                Alojamiento, seleccion de cursos y paseos
+                                                                                por la ciudad son partes del combo que
+                                                                                ofrecen las empresas dedicadas al rubro
+                                                                                "Study Abroad".
+                                                                            </p>
+                                                                        </div>
+                                                                        <a class="btn btn-outline-primary w-50" href="#"
+                                                                            style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER
+                                                                            MÁS</a>
+
+                                                                    </div>
+
+                                                                </div>
+
+                                                                <div class="discovery-tiles col-12 col-lg-4">
+
+                                                                    <div class="shadow-sm p-3 mb-5 bg-white rounded"
+                                                                        style="border: #EDEDED 3px solid;">
+                                                                        <div style="text-align:center">
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/logo_latinvision.png"
+                                                                                style="width: 25%;">
+                                                                        </div>
+                                                                        <div style="margin-top:7%;font-weight: bold">
+                                                                            <h3 style="color:#EA0A37;font-size: 150%;">
+                                                                                <b>Latin American Startups: 10 Women to
+                                                                                    Watch</b></h3>
+                                                                        </div>
+                                                                        <div style="margin-top:7%;">
+                                                                            <p style="font-size:12px">THE NEXT WEB, JUNE 12,
+                                                                                2011</p>
+                                                                        </div>
+                                                                        <div>
+                                                                            <p class="content-font">
+                                                                                From founders launching their first venture
+                                                                                to facilitators and inverstors, here
+                                                                                are 10 women you should watch.
+                                                                            </p>
+                                                                        </div>
+                                                                        <a class="btn btn-outline-primary w-50" href="#"
+                                                                            style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;">LEER
+                                                                            MÁS</a>
+
+                                                                    </div>
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <!-- ----------------PARTE DE PRUEBA PARA MOBILE---------------------------------- -->
+
+                                                        <div class="container">
+                                                            <div class="row">
+                                                                <div class="col-12 col-md-6">
+                                                                    <div class="row">
+                                                                        <div class="col-12 text-center">
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/1.png"
+                                                                                class="mb-1">
+                                                                        </div>
+                                                                        <div class="col-12">
+                                                                            <h4
+                                                                                style="color:#d51b5e ; font-weight: 700;font-size: 140%;">
+                                                                                Buscá y elegí con seguridad</h4>
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Busca tu habitación perfecta. Sabemos que lo
+                                                                                primero antes de tomar una decisión
+                                                                                importante es informarse por eso te
+                                                                                acercamos descripciones detalladas tanto de
+                                                                                la propiedad como del barrio.
+                                                                            </p>
+                                                                            <div
+                                                                                style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                                                                A) Chequeamos las propiedades
+                                                                            </div>
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Para tu tranquilidad, en lugar de usar
+                                                                                materiales de terceros, nos encargamos de
+                                                                                visitar y fotografiar todas las
+                                                                                habitaciones. Así a la hora de mudarte no te
+                                                                                encontras con ninguna sorpresa.
+                                                                            </p>
+
+                                                                            <div
+                                                                                style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                                                                B) Vos decidís
+                                                                            </div>
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Todas las habitaciones son privadas, en caso
+                                                                                de que quieras compartirla con
+                                                                                alguien podés pero eso es algo que elegís
+                                                                                vos.
+                                                                            </p>
+
+
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                <div class="col-12 col-md-6">
+                                                                    <div class="row">
+                                                                        <div class="col-12 text-center">
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/2.png"
+                                                                                class="mb-1">
+                                                                        </div>
+                                                                        <div class="col-12">
+
+                                                                            <h4
+                                                                                style="color: #d51b5e ; font-weight: 700;font-size: 140%;">
+                                                                                Reservá online tu habitación</h4>
+
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Una vez que hagas la consulta de reserva el
+                                                                                propietario tendra hasta 24 hs para
+                                                                                confirmar la solicitud. Es común que ambos
+                                                                                tengan consultas para hacerse por
+                                                                                esto mismo les ofrecemos la posibilidad de
+                                                                                hablar a través de nuestra
+                                                                                plataforma.
+                                                                            </p>
+
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                <div class="col-12 col-md-6">
+                                                                    <!--3ER item-->
+                                                                    <div class="row">
+                                                                        <div class="col-12 text-center">
+                                                                            <!--Espacio de img-->
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/3.png"
+                                                                                class="mb-1">
+                                                                        </div>
+
+                                                                        <div class="col-12">
+                                                                            <!--Espacio de texto-->
+
+
+                                                                            <h4
+                                                                                style="color: #d51b5e; font-weight: 700;font-size: 140%;">
+                                                                                Confirmación y métodos de pago</h4>
+
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Ni bien el propietario acepte tu reserva
+                                                                                podrás realizar el pago de la misma a
+                                                                                través de Mercado Pago o PayPal y te
+                                                                                pondremos en contacto con tu anfitrión para
+                                                                                que arreglen el horario de tu mudanza.
+                                                                            </p>
+
+                                                                            <div
+                                                                                style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                                                                A) ¿Qué estas pagando?
+                                                                            </div>
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                El pago inicial incluye una comisión por
+                                                                                única vez (Concierge Fee) por el
+                                                                                seguimiento personalizado que te brindamos y
+                                                                                un proporcional por el primer mes
+                                                                                de alquiler.
+                                                                            </p>
+
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                <div class="col-12 col-md-6">
+                                                                    <!--4ER item-->
+                                                                    <div class="row">
+                                                                        <div class="col-12 text-center">
+                                                                            <!--Espacio de img-->
+                                                                            <img src="http://honestrooms.herokuapp.com/images/home/4.png"
+                                                                                class="mb-1">
+                                                                        </div>
+
+                                                                        <div class="col-12">
+                                                                            <!--Espacio de texto-->
+
+
+                                                                            <h4
+                                                                                style="color: #d51b5e; font-weight: 700;font-size: 140%;">
+                                                                                Todo listo para mudarte</h4>
+
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                ¡Llegó el día! Ya tenés un nuevo hogar y
+                                                                                llegaste al comienzo de tu estadia en
+                                                                                esta hermosa ciudad. Te recibirá tu
+                                                                                anfitriona y realizarán la firma online del
+                                                                                contrato. El pago de lo que resta del mes
+                                                                                (porque ya pagaste un proporcional con
+                                                                                la reserva) y del depósito sera con ella en
+                                                                                efectivo.
+                                                                            </p>
+
+                                                                            <div
+                                                                                style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                                                                A) Pago del mes
+                                                                            </div>
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                El pago del primer mes será en efectivo y
+                                                                                correspondera a la diferencia del
+                                                                                proporcional que ya abonaste en la reserva.
+                                                                                luego realizarás los siguientes
+                                                                                pagos mensuales al cumplirse el mes de
+                                                                                estadia. Esto quiere decir que no es
+                                                                                necesario pagar en los inicios del mes, si
+                                                                                no que la fecha se estipula según el
+                                                                                dia de ingreso. Si entrás un 20 pagás el 20
+                                                                                de cada mes, si entrás un 1ro, pagás
+                                                                                el 1ro y así.
+                                                                            </p>
+
+                                                                            <div
+                                                                                style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                                                                B) Depósito
+                                                                            </div>
+
+                                                                            <p class="content-font"
+                                                                                style="font-size:16px">
+                                                                                Se paga el dia que te mudás y en efectivo.
+                                                                                Cuando termines la estadia que figura
+                                                                                en el contrato se devuelve simpre que hayan
+                                                                                cumplido las condiciones de contrato
+                                                                                anteriormente firmadas.
+                                                                                <br>
+                                                                                Tu anfitriona será el punto de contacto a
+                                                                                partir de este momento. Por supuesto,
+                                                                                estaremos ahi para ayudarlas en caso de que
+                                                                                lo necesiten.
+                                                                            </p>
+
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="col-sm-12 col-md-6 col-lg-3"
+                                                                style="float:left;text-align:center;width: 100%;margin-top: 7%;">
+                                                                <div style="width: 40%;float:left">
+                                                                    <img src="http://honestrooms.herokuapp.com/images/home/4.png"
+                                                                        style="margin-left: 40%;">
+                                                                </div>
+                                                                <div>
+                                                                    <div style="text-align: left;">
+                                                                        <h4
+                                                                            style="color: #d51b5e; font-weight: 700;font-size: 140%;">
+                                                                            Todo listo para
+                                                                            mudarte
+                                                                        </h4>
+                                                                    </div>
+                                                                    <div style="text-align: left;">
+                                                                        <p class="content-font"
+                                                                            style="margin-left: 5%;margin-right: 5%;font-size:16px">
+                                                                            ¡Llegó el día! Ya tenés un nuevo hogar y
+                                                                            llegaste al comienzo de tu estadia en
+                                                                            esta hermosa ciudad. Te recibirá tu anfitriona y
+                                                                            realizarán la firma online del
+                                                                            contrato. El pago de lo que resta del mes
+                                                                            (porque ya pagaste un proporcional con
+                                                                            la reserva) y del depósito sera con ella en
+                                                                            efectivo.
+                                                                        </p>
+                                                                        <div
+                                                                            style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
+                                                                            A) Pago del mes
+                                                                        </div>
+                                                                        <br>
+                                                                        <p class="content-font"
+                                                                            style="margin-left: 40%;margin-right: 5%;font-size:16px">
+                                                                            El pago del primer mes será en efectivo y
+                                                                            correspondera a la diferencia del
+                                                                            proporcional que ya abonaste en la reserva.
+                                                                            luego realizarás los siguientes
+                                                                            pagos mensuales al cumplirse el mes de estadia.
+                                                                            Esto quiere decir que no es
+                                                                            necesario pagar en los inicios del mes, si no
+                                                                            que la fecha se estipula según el
+                                                                            dia de ingreso. Si entrás un 20 pagás el 20 de
+                                                                            cada mes, si entrás un 1ro, pagás
+                                                                            el 1ro y así.
+                                                                        </p>
+                                                                        <div
+                                                                            style="color:#24A4BA;font-weight: 700;font-size: 120%;margin-left: 40%">
+                                                                            B) Depósito
+                                                                        </div>
+                                                                        <p class="content-font"
+                                                                            style="margin-left: 40%;margin-right: 5%;font-size:16px">
+                                                                            Se paga el dia que te mudás y en efectivo.
+                                                                            Cuando termines la estadia que figura
+                                                                            en el contrato se devuelve simpre que hayan
+                                                                            cumplido las condiciones de contrato
+                                                                            anteriormente firmadas.
+                                                                            <br>
+                                                                            Tu anfitriona será el punto de contacto a partir
+                                                                            de este momento. Por supuesto,
+                                                                            estaremos ahi para ayudarlas en caso de que lo
+                                                                            necesiten.
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+                                                <!--------------------------------- Prensa FIN ------------------------------------>
+
+                                            </div>
+                                        </div>
 
 
     </main>
