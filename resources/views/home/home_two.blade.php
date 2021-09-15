@@ -125,10 +125,10 @@
 
                             <div class="col-12 mb-4" > <!--2do item-->
                                 <div class="row">
-                                    <div class="col-3 text-center">
+                                    <div class="col-md-4 col-lg-3 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/2.png" class="mb-1">
                                     </div>
-                                    <div class="col-9">
+                                    <div class="col-md-8 col-lg-9">
                                     
                                         <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online tu habitación</h4>
                                     
@@ -147,11 +147,11 @@
 
                             <div class="col-12 mb-4" > <!--3ER item-->
                                 <div class="row">
-                                    <div class="col-3 text-center"> <!--Espacio de img-->
+                                    <div class="col-md-4 col-lg-3 text-center"> <!--Espacio de img-->
                                         <img src="http://honestrooms.herokuapp.com/images/home/3.png" class="mb-1">
                                     </div>
 
-                                    <div class="col-9"> <!--Espacio de texto-->
+                                    <div class="col-md-8 col-lg-9"> <!--Espacio de texto-->
 
                                     
                                         <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y métodos de pago</h4>
@@ -180,11 +180,11 @@
 
                             <div class="col-12 " > <!--4ER item-->
                                 <div class="row">
-                                    <div class="col-3 text-center"> <!--Espacio de img-->
+                                    <div class="col-md-4 col-lg-3 text-center"> <!--Espacio de img-->
                                         <img src="http://honestrooms.herokuapp.com/images/home/4.png" class="mb-1">
                                     </div>
                                     
-                                    <div class="col-9"> <!--Espacio de texto-->
+                                    <div class="col-md-8 col-lg-9"> <!--Espacio de texto-->
                                     
                                     
                                         <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para mudarte</h4>
