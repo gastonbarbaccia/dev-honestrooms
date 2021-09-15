@@ -87,12 +87,12 @@
                 <div class="row">
                 <div class="container">
                         <div class="row">
-                            <div class="col-12 " >
+                            <div class="col-12 " > <!--1er item-->
                                 <div class="row">
-                                    <div class="col-4 text-center">
+                                    <div class="col-3 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png" class="mb-1">
                                     </div>
-                                    <div class="col-8">
+                                    <div class="col-9">
                                         <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
                                         <p class="content-font" style="font-size:16px">
                                             Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
@@ -123,12 +123,12 @@
                                 </div>
                             </div>  
 
-                            <div class="col-12 col-md-6" >
+                            <div class="col-12 " > <!--2do item-->
                                 <div class="row">
-                                    <div class="col-12 text-center">
+                                    <div class="col-3 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/2.png" class="mb-1">
                                     </div>
-                                    <div class="col-12">
+                                    <div class="col-9">
                                     
                                         <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online tu habitación</h4>
                                     
@@ -145,13 +145,13 @@
                                 </div>
                             </div>  
 
-                            <div class="col-12 col-md-6" > <!--3ER item-->
+                            <div class="col-12 " > <!--3ER item-->
                                 <div class="row">
-                                    <div class="col-12 text-center"> <!--Espacio de img-->
+                                    <div class="col-3 text-center"> <!--Espacio de img-->
                                         <img src="http://honestrooms.herokuapp.com/images/home/3.png" class="mb-1">
                                     </div>
 
-                                    <div class="col-12"> <!--Espacio de texto-->
+                                    <div class="col-9"> <!--Espacio de texto-->
 
                                     
                                         <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y métodos de pago</h4>
@@ -178,13 +178,13 @@
                                 </div>
                             </div>  
 
-                            <div class="col-12 col-md-6" > <!--4ER item-->
+                            <div class="col-12 " > <!--4ER item-->
                                 <div class="row">
-                                    <div class="col-12 text-center"> <!--Espacio de img-->
+                                    <div class="col-3 text-center"> <!--Espacio de img-->
                                         <img src="http://honestrooms.herokuapp.com/images/home/4.png" class="mb-1">
                                     </div>
                                     
-                                    <div class="col-12"> <!--Espacio de texto-->
+                                    <div class="col-9"> <!--Espacio de texto-->
                                     
                                     
                                         <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para mudarte</h4>
