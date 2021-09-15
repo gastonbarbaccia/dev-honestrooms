@@ -87,12 +87,12 @@
                 <div class="row">
                 <div class="container">
                         <div class="row">
-                            <div class="col-12 col-md-6" >
+                            <div class="col-12 " >
                                 <div class="row">
-                                    <div class="col-12 text-center">
+                                    <div class="col-4 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png" class="mb-1">
                                     </div>
-                                    <div class="col-12">
+                                    <div class="col-8">
                                         <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
                                         <p class="content-font" style="font-size:16px">
                                             Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
