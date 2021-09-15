@@ -85,138 +85,143 @@
 
             <div class="discovery-tiles">
                 <div class="row">
-                    <div class="col-sm-12 col-md-6 col-lg-3" style="float:left;text-align:center;width: 100%;">
-                        <div style="width: 40%;float:left">
-                            <img src="http://honestrooms.herokuapp.com/images/home/1.png" style="margin-left: 40%;">
-                        </div>
-                        <div>
-                            <div style="text-align: left;">
-                                <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con
-                                    seguridad</h4>
-                            </div>
-                            <div style="text-align: left;">
-                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
-                                    Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
-                                    importante es informarse por eso te acercamos descripciones detalladas tanto de
-                                    la propiedad como del barrio.
-                                </p>
-                                <div style="color:#24A4BA;font-weight: 700;font-size: 140%;">
-                                    A) Chequeamos las propiedades
-                                </div>
-                                <br>
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
-                                    visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
-                                    encontras con ninguna sorpresa.
-                                </p>
-                                <br>
-                                <div style="color:#24A4BA;font-weight: 700;font-size: 140%;margin-left: 40%">
-                                    B) Vos decidís
-                                </div>
-                                <br>
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    Todas las habitaciones son privadas, en caso de que quieras compartirla con
-                                    alguien podés pero eso es algo que elegís vos.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-3"
-                        style="float:left;text-align:center;width: 100%;margin-top: 7%;">
-                        <div style="width: 40%;float:left">
-                            <img src="http://honestrooms.herokuapp.com/images/home/2.png" style="margin-left: 40%;">
-                        </div>
-                        <div>
-                            <div style="text-align: left;">
-                                <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online tu
-                                    habitación</h4>
-                            </div>
-                            <div style="text-align: left;">
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    Una vez que hagas la consulta de reserva el propietario tendra hasta 24 hs para
-                                    confirmar la solicitud. Es común que ambos tengan consultas para hacerse por
-                                    esto mismo les ofrecemos la posibilidad de hablar a través de nuestra
-                                    plataforma.
-                                </p>
+                <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-md-6" >
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <img src="http://honestrooms.herokuapp.com/images/home/1.png" class="mb-1">
+                                    </div>
+                                    <div class="col-12">
+                                        <h4 style="color:#d51b5e ; font-weight: 700;font-size: 140%;">Buscá y elegí con seguridad</h4>
+                                        <p class="content-font" style="font-size:16px">
+                                            Busca tu habitación perfecta. Sabemos que lo primero antes de tomar una decisión
+                                            importante es informarse por eso te acercamos descripciones detalladas tanto de
+                                            la propiedad como del barrio.
+                                        </p>
+                                            <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                                A) Chequeamos las propiedades
+                                            </div>
+                                        <p class="content-font" style="font-size:16px">
+                                            Para tu tranquilidad, en lugar de usar materiales de terceros, nos encargamos de
+                                            visitar y fotografiar todas las habitaciones. Así a la hora de mudarte no te
+                                            encontras con ninguna sorpresa.
+                                        </p>
 
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-3"
-                        style="float:left;text-align:center;width: 100%;margin-top: 7%;">
-                        <div style="width: 40%;float:left">
-                            <img src="http://honestrooms.herokuapp.com/images/home/3.png" style="margin-left: 40%;">
-                        </div>
-                        <div>
-                            <div style="text-align: left;">
-                                <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y métodos
-                                    de pago
-                                </h4>
-                            </div>
-                            <div style="text-align: left;">
-                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
-                                    Ni bien el propietario acepte tu reserva podrás realizar el pago de la misma a
-                                    través de Mercado Pago o PayPal y te pondremos en contacto con tu anfitrión para
-                                    que arreglen el horario de tu mudanza.
-                                </p>
-                                <div style="color:#24A4BA;font-weight: 700;font-size: 140%;">
-                                    A) ¿Qué estas pagando?
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            B) Vos decidís
+                                        </div>
+
+                                        <p class="content-font" style="font-size:16px">
+                                            Todas las habitaciones son privadas, en caso de que quieras compartirla con
+                                            alguien podés pero eso es algo que elegís vos.
+                                        </p>
+
+
+
+                                    </div>
                                 </div>
-                                <br>
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    El pago inicial incluye una comisión por única vez (Concierge Fee) por el
-                                    seguimiento personalizado que te brindamos y un proporcional por el primer mes
-                                    de alquiler.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-3"
-                        style="float:left;text-align:center;width: 100%;margin-top: 7%;">
-                        <div style="width: 40%;float:left">
-                            <img src="http://honestrooms.herokuapp.com/images/home/4.png" style="margin-left: 40%;">
-                        </div>
-                        <div>
-                            <div style="text-align: left;">
-                                <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para
-                                    mudarte
-                                </h4>
-                            </div>
-                            <div style="text-align: left;">
-                                <p class="content-font" style="margin-left: 5%;margin-right: 5%;font-size:16px">
-                                    ¡Llegó el día! Ya tenés un nuevo hogar y llegaste al comienzo de tu estadia en
-                                    esta hermosa ciudad. Te recibirá tu anfitriona y realizarán la firma online del
-                                    contrato. El pago de lo que resta del mes (porque ya pagaste un proporcional con
-                                    la reserva) y del depósito sera con ella en efectivo.
-                                </p>
-                                <div style="color:#24A4BA;font-weight: 700;font-size: 140%;margin-left: 40%">
-                                    A) Pago del mes
+                            </div>  
+
+                            <div class="col-12 col-md-6" >
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <img src="http://honestrooms.herokuapp.com/images/home/2.png" class="mb-1">
+                                    </div>
+                                    <div class="col-12">
+                                    
+                                        <h4 style="color: #d51b5e ; font-weight: 700;font-size: 140%;">Reservá online tu habitación</h4>
+                                    
+                                    
+                                        <p class="content-font" style="font-size:16px">
+                                            Una vez que hagas la consulta de reserva el propietario tendra hasta 24 hs para
+                                            confirmar la solicitud. Es común que ambos tengan consultas para hacerse por
+                                            esto mismo les ofrecemos la posibilidad de hablar a través de nuestra
+                                            plataforma.
+                                        </p>
+
+                                    
+                                    </div>
                                 </div>
-                                <br>
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    El pago del primer mes será en efectivo y correspondera a la diferencia del
-                                    proporcional que ya abonaste en la reserva. luego realizarás los siguientes
-                                    pagos mensuales al cumplirse el mes de estadia. Esto quiere decir que no es
-                                    necesario pagar en los inicios del mes, si no que la fecha se estipula según el
-                                    dia de ingreso. Si entrás un 20 pagás el 20 de cada mes, si entrás un 1ro, pagás
-                                    el 1ro y así.
-                                </p>
-                                <br>
-                                <div style="color:#24A4BA;font-weight: 700;font-size: 140%;margin-left: 40%">
-                                    B) Depósito
+                            </div>  
+
+                            <div class="col-12 col-md-6" > <!--3ER item-->
+                                <div class="row">
+                                    <div class="col-12 text-center"> <!--Espacio de img-->
+                                        <img src="http://honestrooms.herokuapp.com/images/home/3.png" class="mb-1">
+                                    </div>
+
+                                    <div class="col-12"> <!--Espacio de texto-->
+
+                                    
+                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Confirmación y métodos de pago</h4>
+                                   
+                                    
+                                        <p class="content-font" style="font-size:16px">
+                                            Ni bien el propietario acepte tu reserva podrás realizar el pago de la misma a
+                                            través de Mercado Pago o PayPal y te pondremos en contacto con tu anfitrión para
+                                            que arreglen el horario de tu mudanza.
+                                        </p>
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%;">
+                                            A) ¿Qué estas pagando?
+                                        </div>
+                                        
+                                        <p class="content-font" style="font-size:16px">
+                                            El pago inicial incluye una comisión por única vez (Concierge Fee) por el
+                                            seguimiento personalizado que te brindamos y un proporcional por el primer mes
+                                            de alquiler.
+                                        </p>
+                                    
+                                    
+                                    </div>
                                 </div>
-                                <br>
-                                <p class="content-font" style="margin-left: 40%;margin-right: 5%;font-size:16px">
-                                    Se paga el dia que te mudás y en efectivo. Cuando termines la estadia que figura
-                                    en el contrato se devuelve simpre que hayan cumplido las condiciones de contrato
-                                    anteriormente firmadas.
-                                    <br>
-                                    Tu anfitriona será el punto de contacto a partir de este momento. Por supuesto,
-                                    estaremos ahi para ayudarlas en caso de que lo necesiten.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                            </div>  
+
+                            <div class="col-12 col-md-6" > <!--4ER item-->
+                                <div class="row">
+                                    <div class="col-12 text-center"> <!--Espacio de img-->
+                                        <img src="http://honestrooms.herokuapp.com/images/home/4.png" class="mb-1">
+                                    </div>
+                                    
+                                    <div class="col-12"> <!--Espacio de texto-->
+                                    
+                                    
+                                        <h4 style="color: #d51b5e; font-weight: 700;font-size: 140%;">Todo listo para mudarte</h4>
+                                    
+                                    
+                                        <p class="content-font" style="font-size:16px">
+                                            ¡Llegó el día! Ya tenés un nuevo hogar y llegaste al comienzo de tu estadia en
+                                            esta hermosa ciudad. Te recibirá tu anfitriona y realizarán la firma online del
+                                            contrato. El pago de lo que resta del mes (porque ya pagaste un proporcional con
+                                            la reserva) y del depósito sera con ella en efectivo.
+                                        </p>
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            A) Pago del mes
+                                        </div>
+
+                                        <p class="content-font" style="font-size:16px">
+                                            El pago del primer mes será en efectivo y correspondera a la diferencia del
+                                            proporcional que ya abonaste en la reserva. luego realizarás los siguientes
+                                            pagos mensuales al cumplirse el mes de estadia. Esto quiere decir que no es
+                                            necesario pagar en los inicios del mes, si no que la fecha se estipula según el
+                                            dia de ingreso. Si entrás un 20 pagás el 20 de cada mes, si entrás un 1ro, pagás
+                                            el 1ro y así.
+                                        </p>
+
+                                        <div style="color:#24A4BA;font-weight: 700;font-size: 120%">
+                                            B) Depósito
+                                        </div>
+
+                                        <p class="content-font" style="font-size:16px">
+                                            Se paga el dia que te mudás y en efectivo. Cuando termines la estadia que figura
+                                            en el contrato se devuelve simpre que hayan cumplido las condiciones de contrato
+                                            anteriormente firmadas.
+                                            <br>
+                                            Tu anfitriona será el punto de contacto a partir de este momento. Por supuesto,
+                                            estaremos ahi para ayudarlas en caso de que lo necesiten.
+                                        </p>
 
                 </div>
             </div>
