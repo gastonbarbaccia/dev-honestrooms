@@ -87,7 +87,7 @@
                 <div class="row">
                 <div class="container">
                         <div class="row">
-                            <div class="col-12 " > <!--1er item-->
+                            <div class="col-12 mb-2" > <!--1er item-->
                                 <div class="row">
                                     <div class="col-3 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/1.png" class="mb-1">
@@ -123,7 +123,7 @@
                                 </div>
                             </div>  
 
-                            <div class="col-12 " > <!--2do item-->
+                            <div class="col-12 mb-2" > <!--2do item-->
                                 <div class="row">
                                     <div class="col-3 text-center">
                                         <img src="http://honestrooms.herokuapp.com/images/home/2.png" class="mb-1">
@@ -145,7 +145,7 @@
                                 </div>
                             </div>  
 
-                            <div class="col-12 " > <!--3ER item-->
+                            <div class="col-12 mb-2" > <!--3ER item-->
                                 <div class="row">
                                     <div class="col-3 text-center"> <!--Espacio de img-->
                                         <img src="http://honestrooms.herokuapp.com/images/home/3.png" class="mb-1">
