@@ -33,7 +33,7 @@
         <!------------------------------ Banner principal ------------------------------------->
         <div class="panel">
             <div id="discovery-container" class="pad-sm-20 mt-5"
-                style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms-qa.herokuapp.com/images/home/home_two_new.jpg') ;*/height:200px ;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
+                style="float:left;width:100%;/* height: 100% !important; background-image: url('http://honestrooms-qa.herokuapp.com/images/home/home_two_new.jpg') ;*/height:400px ;width: 1500px;margin-left: -170px;padding-right: 100px; padding-left: 20%;background-repeat: no-repeat;">
                 <img src="http://honestrooms-qa.herokuapp.com/images/home/banner.jpg" alt="" class="my-5 mt-md-0"
                     style="position: absolute; left: 0; width: 100%; height: 400px; object-fit: cover;margin-top: -2% !important;">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
@@ -69,7 +69,7 @@
         <div class="discovery-section explore_community exploer_banner page-container-no-padding mt-0 mt-md-5"
             id="discover-recommendations" ng-init="city_count=city_count-1 ;">
             <div class="section-intro text-center row-space-6 row-space-top-8" ng-if="home_city_explore.length!=0"
-                style="margin-top: 30%;margin-bottom: 7%;">
+                style="margin-top: 0;margin-bottom: 7%;">
                 <h2 class="row-space-1">
                     <!-- <strong>{{ trans('messages.home.explore_world') }}</strong>-->
                     ¿Cómo funciona?
