@@ -86,7 +86,7 @@
             <div class="discovery-tiles">
                 <div class="row">
                 <div class="container">
-                        <div class="row">
+                        <div class="row" style="margin-right: 0px; margin-left: 0px">
                             <div class="col-12 mb-4" > <!--1er item-->
                                 <div class="row">
                                     <div class="col-md-4 col-lg-3 text-center">
