@@ -83,7 +83,7 @@
                 </p>
             </div>
 
-            <div class="discovery-tiles text-center">
+            <div class="discovery-tiles">
                 <div class="row">
                 <div class="container">
                         <div class="row" style="margin-right: 20px; margin-left: 20px">
