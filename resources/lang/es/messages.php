@@ -6,7 +6,7 @@ return [
     ],
     'home' => [
         'title'                => 'Hay una habitación esperando por vos.',
-        'desc'                 => 'Alquilar lugares únicos para permanecer desde las máquinas locales en más de 190 países.',
+        'desc'                 => 'Encuentra un espacio seguro: verificamos cada habitación',
         'desc_2'               => 'Todas las habitaciones privadas para estancias mínimas de un mes.',
         'search_validation'    => 'Por favor, establecer la ubicación',
         'how_it_works'         => 'Cómo funciona',
