@@ -11,9 +11,13 @@
 
             }
 
+            .resp-ggb-pc{
+                width: 70%;
+            }
+
             @media (max-width: 760px) {
                 .no-mar-sm {
-                    margin-top: 13% !important;
+                    margin-top: 5% !important;
                     padding-left: 10%;
                     padding-right: 70%;
                 }
@@ -25,6 +29,10 @@
                 .ggb-responsive-title {
                     font-size: 150%;
                 }
+
+                .resp-ggb-pc{
+                width: 100%;
+            }
                
             }
 
@@ -43,7 +51,7 @@
                         <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12" style="margin-top:5%">
                             <div class="no-mar-sm" style="margin-top: 94px;">
                                 <div
-                                    class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7">
+                                    class="textHeaderContainerMarginTop_13o8qr2-o_O-textHeaderContainerWidth_peyti4 row-space-7  resp-ggb-pc">
                                     <h1 class="textHeader_8yxs9w" style="color:white !important;">
                                         <span class="textHeaderTitle_153t78d-o_O-textHeader_rausch_hp6jb4 ggb-responsive-title"
                                             style="color:white !important;">
