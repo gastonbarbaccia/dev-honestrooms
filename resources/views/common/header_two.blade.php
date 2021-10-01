@@ -514,13 +514,14 @@
             @endif
             HostExperienceBladeCommentEnd --}}
                 {{-- HostExperienceBladeUnCommentStart --}}
-                <li class="list-your-space pull-left">
+               <li class="list-your-space pull-left">
                     <a id="my_element" href="{{ url('/') }}/become_a_host" style="border-left:none !important;">
                         <span id="list-your-space" class="btn btn-special list-your-space-btn btn_border_none">
                             {{ trans('messages.header.list_your_space') }}
                         </span>
                     </a>
-                </li>
+                </li>               
+
                 {{-- HostExperienceBladeUnCommentEnd --}}
                 @if (!Auth::check())
                     <li id="header-help-menu" class="help-menu-container pull-left dropdown-trigger">

@@ -72,7 +72,7 @@ return [
         'room_title'               => 'Honestidad 100%',
         'enter_a_location'         => 'Ingrese una ubicación',
         'where_are_you_going'      => '¿A dónde vas?',
-        'home'                     => 'Casa',
+        'home'                     => 'Inicio',
         'signup'                   => 'Regístrate',
         'login'                    => 'Iniciar sesión',
         'Trips'                    => 'Excursiones',
