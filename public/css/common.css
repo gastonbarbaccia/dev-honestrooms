@@ -3867,7 +3867,7 @@ fieldset[disabled] .btn {
     display: block;
     height: 58px;
     padding: 20px;
-    border-left: 1px solid #ccc;
+    /* border-left: 1px solid #ccc; */
     font-size: 14px;
 }
 
