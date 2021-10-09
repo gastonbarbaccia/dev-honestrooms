@@ -32,7 +32,7 @@ body {
     padding: 0px 0px 5px 0px;
     font-size: 14px !important;
     font-weight: normal !important;
-    border-left: 0px ;
+    /* border-left: 0px ; */
 }
 
 
@@ -391,7 +391,7 @@ span.rich-toggle-unchecked {
 
 .makent-header .header--sm .title--sm .search-btn--sm {
     padding: 22px 21px;
-    /* border-left: 1px solid #ccc; */
+    border-left: 1px solid #ccc;
     border: 0px;
     text-align: left !important;
     font-size: 17px;
