@@ -30,10 +30,11 @@ body {
     display: block;
     height: auto !important;
     padding: 0px 0px 5px 0px;
-    border-left: 0px !important;
     font-size: 14px !important;
     font-weight: normal !important;
+    border-left: 0px ;
 }
+
 
 .makent-header .list-your-space #list-your-space {
     white-space: normal;
@@ -390,11 +391,12 @@ span.rich-toggle-unchecked {
 
 .makent-header .header--sm .title--sm .search-btn--sm {
     padding: 22px 21px;
-    border-left: 1px solid #ccc;
+    /* border-left: 1px solid #ccc; */
     border: 0px;
-    --/ text-align: left !important;
+    text-align: left !important;
     font-size: 17px;
 }
+
 
 .makent-header .header--sm .title--sm {
     padding-top: 0px !important
