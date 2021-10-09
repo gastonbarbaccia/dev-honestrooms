@@ -516,11 +516,18 @@
                 {{-- HostExperienceBladeUnCommentStart --}}
                 
                  <li class="list-your-space pull-left">
-                     <a id="my_element" href="{{ url('/') }}/become_a_host" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;border-left: 1px ;" class="btn btn-outline-primary" > 
+                     <a id="my_element" href="{{ url('/') }}/become_a_host" style="border-color: #24A4BA;color: #24A4BA;border-radius: 0.5em;" class="btn btn-outline-primary borderLeftLG" > 
                         
                             {{ trans('messages.header.list_your_space') }}
                         
                     </a>
+
+<style>
+    .borderLeftLG {
+        border-left: 1px ;
+    }
+</style>
+
                 </li> 
 
                 {{-- HostExperienceBladeUnCommentEnd --}}
