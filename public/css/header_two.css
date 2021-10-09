@@ -391,7 +391,7 @@ span.rich-toggle-unchecked {
 
 .makent-header .header--sm .title--sm .search-btn--sm {
     padding: 22px 21px;
-    border-left: 1px solid #ccc;
+    border-left: 1px solid ;
     border: 0px;
     text-align: left !important;
     font-size: 17px;
