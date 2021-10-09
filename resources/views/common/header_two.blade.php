@@ -524,7 +524,7 @@
 
 <style>
     .borderLeftLG {
-        border-left: 1px ;
+        border-left: 1px !important;
     }
 </style>
 
